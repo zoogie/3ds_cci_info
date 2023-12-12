@@ -15,4 +15,4 @@ https://github.com/zoogie/Kartminer7
 ##### Notes:
 * All of the above applies to the cart's eShop version as well, except for the powersaves weak crypto vuln
 * EUR_all and JPN_all lists aren't provided, but PRs are welcome. the usa list should be fine for general research since most have corresponding versions in other regions.
-* How did you generate the special lists? Just simple filter scripts, not worth posting here. if someone provides "EUR_all" or "JPN_all", I can do the rest. it's a big job to download all of that though!
+* How did you generate the special lists? Just simple filter scripts, not worth posting here. if someone provides "EUR_all" or "JPN_all", I can do the rest. it's a big job to download all of that though! I'm not asking for rom sets btw, just ctrtool info dumps!
