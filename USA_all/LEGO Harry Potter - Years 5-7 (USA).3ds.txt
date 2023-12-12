@@ -1,0 +1,278 @@
+
+[CCI]
+NcsdCommonHeader:
+ Header:                 NCSD
+ Signature:              21653A0FF364A6C3D0075079844424CA153D11C18EE5F5DF8C06BA4A3174E991
+                         06CAE7E46B5A796FBA5BF0C1DF9C9CB41502B85AAE58CC974D388E75B15FE673
+                         86728B5C4DD72AB5D5E621DF9DB44A61B475062C260B9C8953DA00198016C569
+                         3568464F68022DFC4F452B3B4EAAA54BEAB3537AFFEB5616C39FEEFDAE8A5B8C
+                         76660B3ACAEFB79AEB95228EA9DEB498CAE790C768725427144A55D8C7B5B5FC
+                         65E9A99DD671861081135C4BFC5C3A359024F828C3554CC8D42B98680BB5463D
+                         8091AAAB903938900F6D90DFA84DE883D582737F678EC33675072E45A45B9018
+                         968FCEA1A212A22282CE350A1CFF1850A763B26ADBD9D578DFBEAA6D68130461
+ RomSize:                512MB (Used: 0x1E574C00)
+ TitleId:                000400000004a400
+
+ Partition 0
+  Id:                    000400000004a400
+  Area:                  0x00004000-0x1D559A00
+  FsType:                00
+  CryptoType:            00
+
+ Partition 7
+  Id:                    80000000000fa400
+  Area:                  0x1D559A00-0x1E574C00
+  FsType:                00
+  CryptoType:            00
+
+ Flags:                  0000000001010001
+  BackupWriteWaitTime:   00
+  BackupSecurityVersion: 00
+  CardInfo:              00
+  CardDevice:            01 (NorFlash)
+  MediaPlatform:         01 [CTR]
+  MediaType:             01 (CARD1)
+  MediaBlockSize:        00 (0x200)
+CardInfo:
+ WriteableRegion:        0xFFFFFFFF
+ CardType:               S1 (0)
+ CryptoType:             Secure0 (0)
+MasteringMetadata:
+ MediaSizeUsed:          0x1E574C00
+ TitleVersion:           0.0.0 (v0)
+ CardRevision:           0
+ CVer TitleId:           000400db00017302
+ CVer Version:           2.1.5 (v2069)
+InitialData:
+ KeySource:              00A40400000004000000000000000000
+ Enc TitleKey:           6828DC2C207B6E99DC2AD748E3D68AAF (decrypted: F156691AD978445441EC74019C634876)
+ MAC:                    F63762F40B6E253F5E3B29A5DEE9B329
+CardDeviceInfo:
+ TitleKey:               FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+
+NCCH:
+Header:                 NCCH
+Signature:              7C7F5BE50C2999153B65BE1072C9A7011327C9986C8F2B9F0DFFA1852A34C167
+                        C66378DAC042F11753B30AFEC7A4BEC82C456F2AA4E566AC416C22B099CF7A40
+                        DF7C70FD46FE28BE71568FC779E100974D8C03BB57770D4DECCCD680E496158C
+                        6DC36C660B5F6673529D02AC3732071A848FD0D3DF1ED172512A9E247B72BC3A
+                        5C07389564660F91CAF36686B385946BA2340210FF1E8E6A7376BAAEDD18266F
+                        CFDC15E5C83BEEDBA0992A30EB89543DC36448E6A2D138163B1B352BBCA69107
+                        42C65E3C1ABCD849558176D3740FBCFBA663263F9314B9DD51610CC256823C95
+                        1F03C325E6F549DDE02A5CBFE14E3FF59F3ED0021E2AA2EDD043B3D10D532C0F
+Content size:           0x1d555a00
+Title id:               000400000004a400
+Maker code:             WR
+FormatVersion:          2
+Title seed check:       00000000
+Program id:             000400000004a400
+Logo hash:              0000000000000000000000000000000000000000000000000000000000000000
+Product code:           CTR-P-AHPE
+Exheader size:          0x400
+Exheader hash:          525B3B356D257D7A9CB8C7FF6FE982962DD032DF21AAF041395B6C344A0395BD
+Flags:                  0000000001030000
+ > Crypto Key           Secure (0)
+ > ContentPlatorm:      CTR
+ > FormType:            Executable
+ > ContentType:         Application
+ > BlockSize:           0x200
+Plain region offset:    0x00000a00
+Plain region size:      0x00000200
+Logo offset:            0x00000000
+Logo size:              0x00000000
+ExeFS offset:           0x00000c00
+ExeFS size:             0x0014ce00
+ExeFS hash region size: 0x00000200
+RomFS offset:           0x0014da00
+RomFS size:             0x1d408000
+RomFS hash region size: 0x00000200
+ExeFS hash:             8D3703589501C5BBDB8B2FA495E6F92FE6106E24D9577FC881B177D5B71A11E6
+RomFS hash:             9538457836BAC8BD6334FD9E4B983207387C702B9A350CE8D74B2EF5270907AA
+
+Extended header:
+Signature:              706D8B61C7D19EFDA316D48FBBD0D4AF0B9AC2149FDB4B165EBAF7291822CD9B
+                        CAF69B58AECF9EA9EF5C89576F97F89A26DA926DCDA05D526142CC30725C2EBA
+                        C1CD6F7D899A94AAFDA15F7081AB516BDC02233168EED13BE2156F4EC96E00CD
+                        490346CDE94FC22796BCAB79F5BEF336560408C1C3E34ABE186689D032F3559F
+                        490B06DB0D418A514B7C9B9FE024CB5D0BF18D1E1CDD052EA236DF5040517D72
+                        CBD5BEF552F3AAB7FB3C493E7CD3A7D9B3B21AECCC26A8241A73A311FFE5493C
+                        AB758D1EC49FF6D8682222742DD3FF0BA8361B37B7AB877FFE04101CAC2130E6
+                        B9AA8D15B4FA7EB6C781302ED46ABF424747801AC4BE0D0D31B1C107ED6C27C0
+NCCH Hdr RSA Modulus:   B4E8387D861AB48E0BF3D2D113E5A5A5AB818305D534BF4C9323DFFA50C67AAC
+                        9938E73B753FF787676D019B84C06D3170640D9000D4855AD08060848CA7D89A
+                        11EC9C9D45B94132512D647B8DB71D853A202CDD3AD69B8FBE67759D2BF76AE1
+                        4436BAFFC9DA4A05BDBF053286BA9288D8BDA164ED4B5ACD903E3CD4E99C5CE9
+                        3632A4FF7BE4CFC6C9DA4B891FC39EDB4FE497C9AE8A9C96BEF93DC36AF0B9E8
+                        5C5A9AC7E45C272DC93FE7C322A5C6EC378A770F2D486913BE3165338EAE5381
+                        9689F9BACCC32100EC4C0174E11D7EA99D795D8635AC4FD3168D0680FFD49186
+                        617B0A3B1F7DF0210E486D6B699332032D03172CDFC0A589F81A9F8AC382BF39
+Name:                   LEGOHPII
+Flags:                  01 [compressed]
+Remaster version:       0000
+Code text address:      0x00100000
+Code text size:         0x001AD334
+Code text max pages:    0x000001AE (0x001AE000)
+Code ro address:        0x002AE000
+Code ro size:           0x0000DFEC
+Code ro max pages:      0x0000000E (0x0000E000)
+Code data address:      0x002BC000
+Code data size:         0x00012DB4
+Code data max pages:    0x00000013 (0x00013000)
+Code bss size:          0x00063EDC
+Code stack size:        0x00010000
+Dependency:             0004013000002402
+Dependency:             0004013000001502
+Dependency:             0004013000003402
+Dependency:             0004013000001602
+Dependency:             0004013000002602
+Dependency:             0004013000001702
+Dependency:             0004013000001802
+Dependency:             0004013000002702
+Dependency:             0004013000002802
+Dependency:             0004013000001a02
+Dependency:             0004013000003202
+Dependency:             0004013000001b02
+Dependency:             0004013000001c02
+Dependency:             0004013000001d02
+Dependency:             0004013000002902
+Dependency:             0004013000001e02
+Dependency:             0004013000001f02
+Dependency:             0004013000002002
+Dependency:             0004013000002b02
+Dependency:             0004013000003502
+Dependency:             0004013000002c02
+Dependency:             0004013000002d02
+Dependency:             0004013000002102
+Dependency:             0004013000003102
+Dependency:             0004013000002202
+Dependency:             0004013000003702
+Dependency:             0004013000002e02
+Dependency:             0004013000002302
+Dependency:             0004013000002f02
+Savedata size:          128K
+Jump id:                000400000004a400
+Program id:             000400000004a400 
+Core version:           0x00000002
+System mode:            prod (AppMemory: 64MB) 
+System mode (New3DS):   ctr prod (AppMemory: 64MB) 
+CPU Speed (New3DS):     268MHz 
+Enable L2 Cache:        NO 
+Ideal processor:        0 
+Affinity mask:          1 
+Main thread priority:   48 
+MaxCpu:                 0
+Ext savedata id:        0x0000000000000000
+System savedata id 1:   0x00000000 
+System savedata id 2:   0x00000000 
+OtherUserSaveDataId1:   0x00000
+OtherUserSaveDataId2:   0x00000
+OtherUserSaveDataId3:   0x00000
+Accessible Savedata Ids: None
+Other Variation Saves:  Inaccessible
+FS access:              0x00000000000000
+Service access: 
+ > APT:U
+ > $hioFIO
+ > $hostio0
+ > $hostio1
+ > ac:u
+ > boss:U
+ > cam:u
+ > cecd:u
+ > cfg:u
+ > dlp:FKCL
+ > dlp:SRVR
+ > dsp::DSP
+ > frd:u
+ > fs:USER
+ > gsp::Gpu
+ > hid:USER
+ > http:C
+ > mic:u
+ > ndm:u
+ > news:u
+ > nwm::UDS
+ > ptm:u
+ > pxi:dev
+ > soc:U
+ > ssl:C
+ > y2r:u
+ > ir:USER
+ > ldr:ro
+Reslimit category:      00
+IoMapping:              0x1FF50000-0x1FF57FFF
+IoMapping:              0x1FF70000-0x1FF77FFF
+StaticMapping:          0x1F000000-0x1F5FFFFF:r
+Kernel flags:           
+ > Allow debug:         YES
+ > Force debug:         NO
+ > Allow non-alphanum:  NO
+ > Shared page writing: NO
+ > Privilege priority:  NO
+ > Allow main() args:   NO
+ > Shared device mem:   NO
+ > Memory Type:         APPLICATION
+ > Runnable on sleep:   NO
+ > Special memory:      NO
+ > Access Core 2:       NO
+Handle table size:      0x200
+Kernel release version: 2.29
+Allowed systemcalls:    01, 02, 03, 04, 05, 06, 07, 08, 09, 0A, 0B, 0C, 
+                        0D, 0E, 0F, 10, 11, 13, 14, 15, 16, 17, 18, 19, 
+                        1A, 1B, 1C, 1D, 1E, 1F, 20, 21, 22, 23, 24, 25, 
+                        27, 28, 29, 2A, 2B, 2C, 2D, 2E, 2F, 30, 31, 32, 
+                        35, 36, 37, 38, 39, 3A, 3B, 3C, 3D
+Allowed interrupts:     none
+Arm9Capability:         none
+Desc Version:           0x2
+
+ExeFS:
+Section name:           .code
+Section offset:         0x00000200
+Section size:           0x00122400
+Section hash:           23522D99AA5F38C03A0FF2BBDF0522A9599E28F9AFE23145CB4473C97437CEDC
+Section name:           banner
+Section offset:         0x00122600
+Section size:           0x00024f30
+Section hash:           09C81F4FCBBFC7E319356815036C5FC40181821D276442AA6E8A0B9EF97F1D3D
+Section name:           icon
+Section offset:         0x00147600
+Section size:           0x000036c0
+Section hash:           692A7EA4596DACCA6EAD2CAB4E27C59355A6366D321BD168806DF9271361397B
+Section name:           logo
+Section offset:         0x0014ae00
+Section size:           0x00002000
+Section hash:           DD8C470EDF60553B03FD5A42304923B47625409AE04D61A3208122547EDC5150
+
+IVFC:
+Header:                 IVFC
+Id:                     00010000
+Master hash size:       0x00000100
+Header size:            0x0000005c
+
+Level 0: 
+ Offset:            0x00000000 (Actual: 0x1d05f000)
+ Size:              0x00007420
+ BlockSizeLog2:     0x0000000c (BlockSize: 0x00001000)
+
+Level 1: 
+ Offset:            0x00008000 (Actual: 0x1d067000)
+ Size:              0x003a0bc0
+ BlockSizeLog2:     0x0000000c (BlockSize: 0x00001000)
+
+Level 2: 
+ Offset:            0x003a9000 (Actual: 0x00001000)
+ Size:              0x1d05de38
+ BlockSizeLog2:     0x0000000c (BlockSize: 0x00001000)
+
+RomFS:
+Header size:            0x00000028
+DirHashBucket offset:   0x00000028
+DirHashBucket size:     0x0000000c
+DirEntryTable offset:   0x00000034
+DirEntryTable size:     0x00000068
+FileHashBucket offset:  0x0000009c
+FileHashBucket size:    0x0000011c
+FileEntryTable offset:  0x000001b8
+FileEntryTable size:    0x00001310
+Data offset:            0x000014d0
