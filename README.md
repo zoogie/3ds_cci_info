@@ -1,7 +1,7 @@
 # 3ds_cci_info
-#### USA_all/
+### USA_all/
 Ctrtool info output for complete cci (.3ds) sets.
-#### USA_special_lists/ 
+### USA_special_lists/ 
 These are special lists of 3ds cart titles that contain certain traits that could be useful to vuln research/dev.
 * extdata.txt - has sd extdata. with seedminer, it is possible to modify these saves from PC for hax. Ex.  
 https://github.com/zoogie/Kartminer7
