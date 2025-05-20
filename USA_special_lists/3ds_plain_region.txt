@@ -1,0 +1,4290 @@
+50 Classic Games 3D (USA).3ds
+[SDK+NINTENDO:CTR_SDK-2_4_2_200_none]
+[SDK+NINTENDO:Firmware-02_30_20]
+
+7th Dragon III Code - VFD (USA).3ds
+[SDK+NINTENDO:CTR_SDK-11_1_1_200_none]
+[SDK+NINTENDO:Firmware-02_48_04]
+[SDK+NINTENDO:NW4C_3_6_1_eft]
+[SDK+NINTENDO:NW4C_3_6_1_lyt2]
+[SDK+NINTENDO:NW4C_3_6_1_fnt2]
+
+Ace Combat - Assault Horizon Legacy Plus(USA).3ds
+[SDK+NINTENDO:CTR_SDK-9_12_0_200_none]
+[SDK+NINTENDO:Firmware-02_45_02]
+[SDK+NINTENDO:ExtraPad]
+[SDK+NINTENDO:NW4C_3_5_2_fnt1]
+[SDK+NINTENDO:NW4C_3_5_2_lyt1]
+[SDK+NINTENDO:NW4C_3_5_2_snd]
+[SDK+NINTENDO:NW4C_3_5_2_GFX1]
+[SDK+Mobiclip:FastAudioDec_2_0_1]
+[SDK+Mobiclip:Deblocker_2_0_1]
+[SDK+Mobiclip:ImaAdpcmDec_2_0_1]
+[SDK+Mobiclip:MobiclipDec_2_0_1]
+[SDK+Mobiclip:MoflexDemuxer_2_0_1]
+[SDK+NINTENDO:Ir]
+[SDK+Nintendo:DSPAACDec_1_0_0]
+
+
+Ace Combat - Assault Horizon Legacy(USA).3ds
+[SDK+NINTENDO:CTR_SDK-2_4_0_200_none]
+[SDK+NINTENDO:Firmware-02_30_20]
+[SDK+Mobiclip:FastAudioDec_1_0_0]
+[SDK+Mobiclip:Deblocker_1_0_3]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_0]
+[SDK+Mobiclip:MobiclipDec_1_0_1]
+[SDK+Mobiclip:MoflexDemuxer_1_0_3]
+[SDK+Nintendo:DSPAACDec_1_0_0]
+
+Adventure Time - Explore the Dungeon Because I DONT KNOW! (USA).3ds
+[SDK+NINTENDO:CTR_SDK-5_2_1_200_none]
+[SDK+NINTENDO:Firmware-02_36_00]
+
+Adventure Time - Finn & Jake Investigations (USA).3ds
+[SDK+NINTENDO:CTR_SDK-11_1_1_200_none]
+[SDK+NINTENDO:Firmware-02_48_04]
+
+Adventure Time - Hey Ice King Why'd You Steal Our Garbage!! (USA)(Rev 1)(En).3ds
+[SDK+NINTENDO:CTR_SDK-4_2_3_200_none]
+[SDK+NINTENDO:Firmware-02_35_00]
+
+Adventure Time - Hey Ice King! Whyd You Steal Our Garbage!! (USA).3ds
+[SDK+NINTENDO:CTR_SDK-4_2_0_200_none]
+[SDK+NINTENDO:Firmware-02_35_00]
+[SDK+OSS:zlib]
+
+Adventure Time - The Secret of the Nameless Kingdom (USA).3ds
+[SDK+NINTENDO:CTR_SDK-7_1_1_200_none]
+[SDK+NINTENDO:Firmware-02_39_00]
+[SDK+NINTENDO:SaveDataSecureValue]
+[SDK+NINTENDO:SaveDataSecureValueLoosely]
+[SDK+NINTENDO:SaveDataSecureValueEx]
+[SDK+Mobiclip:FastAudioDec_1_5_4]
+[SDK+Mobiclip:Deblocker_1_5_4]
+[SDK+Mobiclip:ImaAdpcmDec_1_5_4]
+[SDK+Mobiclip:MobiclipDec_1_5_4]
+[SDK+Mobiclip:MoflexDemuxer_1_5_4]
+
+Alien Chaos 3D (USA).3ds
+[SDK+NINTENDO:CTR_SDK-2_3_4_200_none]
+[SDK+NINTENDO:Firmware-02_29_07]
+
+Alliance Alive, The (USA).3ds
+[SDK+NINTENDO:CTR_SDK-11_4_0_200_none]
+[SDK+NINTENDO:Firmware-02_50_8]
+[SDK+NINTENDO:NW4C_3_7_5_GFX1]
+[SDK+NINTENDO:NW4C_3_7_5_snd]
+[SDK+Mobiclip:DspAdpcmDec_1_5_3]
+[SDK+Mobiclip:FastAudioDec_1_5_3]
+[SDK+Mobiclip:Deblocker_1_5_3]
+[SDK+Mobiclip:ImaAdpcmDec_1_5_3]
+[SDK+Mobiclip:MobiclipDec_1_5_3]
+[SDK+Mobiclip:MoflexDemuxer_1_5_3]
+[SDK+NINTENDO:NW4C_3_7_5_fnt1]
+
+
+Amazing Spider-Man 2, The (USA).3ds
+[SDK+NINTENDO:CTR_SDK-5_2_1_200_none]
+[SDK+NINTENDO:Firmware-02_36_00]
+
+American Mensa Academy(USA).3ds
+[SDK+NINTENDO:CTR_SDK-3_3_3_200_none]
+[SDK+NINTENDO:Firmware-02_32_15]
+
+Andro Dunos 2 (USA).3ds
+[SDK+NINTENDO:CTR_SDK-11_6_1_200_none]
+[SDK+NINTENDO:Firmware-02_54_00]
+[SDK+NINTENDO:3DVolume]
+
+Angry Birds Star Wars (USA).3ds
+[SDK+NINTENDO:CTR_SDK-4_2_5_200_none]
+[SDK+NINTENDO:Firmware-02_35_00]
+[SDK+Nintendo:NEX_3_2_1]
+[SDK+Mobiclip:FastAudioDec_1_4_2]
+[SDK+Mobiclip:Deblocker_1_4_2]
+[SDK+Mobiclip:ImaAdpcmDec_1_4_2]
+[SDK+Mobiclip:MobiclipDec_1_4_2]
+[SDK+Mobiclip:MoflexDemuxer_1_4_2]
+[SDK+Nintendo:NEX_RK_3_2_1]
+
+Angry Birds Trilogy (USA).3ds
+[SDK+NINTENDO:CTR_SDK-3_3_1_200_none]
+[SDK+NINTENDO:Firmware-02_32_15]
+[SDK+Nintendo:NEX_RK_2_7_2]
+[SDK+Mobiclip:FastAudioDec_1_0_1]
+[SDK+Mobiclip:Deblocker_1_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_1]
+[SDK+Mobiclip:MobiclipDec_1_0_2]
+[SDK+Mobiclip:MoflexDemuxer_1_1_0]
+[SDK+Nintendo:NEX_2_7_2_S33]
+
+Animal Crossing - Happy Home Designer (USA)(En,Fr).3ds
+[SDK+NINTENDO:CTR_SDK-11_3_0_200_none]
+[SDK+NINTENDO:Firmware-02_50_00]
+[SDK+ISP:QRDec_2_0_1]
+[SDK+ISP:QREnc_2_0_1]
+[SDK+Nintendo:NEX_DS_3_8_5]
+[SDK+Nintendo:NEX_UT_3_8_5]
+[SDK+Nintendo:NEX_3_8_5EDH]
+[SDK+NINTENDO:CameraActivate]
+[SDK+NINTENDO:CameraInitialize]
+[SDK+NINTENDO:SoundVolume]
+[SDK+NINTENDO:NFP]
+[SDK+NINTENDO:IsRunOnSnake]
+[SDK+NINTENDO:IsRunningAsExtApplication]
+[SDK+NINTENDO:3DVolume]
+[SDK+NINTENDO:NW4C_3_7_2_eft]
+[SDK+NINTENDO:NW4C_3_7_2_snd]
+[SDK+NINTENDO:NW4C_3_7_2_fnt2]
+[SDK+NINTENDO:NW4C_3_7_2_lyt2]
+[SDK+OSS:zlib]
+
+Animal Crossing - New Leaf (USA).3ds
+[SDK+NINTENDO:CTR_SDK-4_2_2_200_none]
+[SDK+NINTENDO:Firmware-02_35_00]
+[SDK+ISP:QRDec_1_2_5]
+[SDK+ISP:QREnc_1_2_5]
+[SDK+Nintendo:NEX_DS_2_7_3]
+[SDK+Nintendo:NEX_MM_2_7_3]
+[SDK+Nintendo:NEX_MS_2_7_3]
+[SDK+Nintendo:NEX_2_7_3_S41]
+[SDK+Nintendo:PIA_2_9_0]
+[SDK+NINTENDO:SaveDataSecureValue]
+[SDK+NINTENDO:SaveDataSecureValueLoosely]
+[SDK+NINTENDO:CTRFaceLibrary-20120626]
+[SDK+Panasonic:ASR_1_0_13]
+
+Animal Crossing - New Leaf - Welcome Amiibo (USA).3ds
+[SDK+NINTENDO:CTR_SDK-11_5_0_200_none]
+[SDK+NINTENDO:Firmware-02_51_00]
+[SDK+ISP:QRDec_2_0_1]
+[SDK+ISP:QREnc_2_0_1]
+[SDK+Nintendo:NEX_DS_3_10_1]
+[SDK+Nintendo:NEX_UT_3_10_1]
+[SDK+Nintendo:NEX_3_10_1]
+[SDK+Nintendo:PIA_4_11_1]
+[SDK+Nintendo:PIA_COMMON_4_11_1]
+[SDK+Nintendo:PIA_INET_4_11_1]
+[SDK+Nintendo:PIA_LOCAL_4_11_1]
+[SDK+Nintendo:PIA_SESSION_4_11_1]
+[SDK+Nintendo:PIA_TRANSPORT_4_11_1]
+[SDK+NINTENDO:CameraActivate]
+[SDK+NINTENDO:CameraInitialize]
+[SDK+NINTENDO:SaveDataSecureValue]
+[SDK+NINTENDO:SaveDataSecureValueLoosely]
+[SDK+NINTENDO:SaveDataSecureValueEx]
+[SDK+NINTENDO:NFP]
+[SDK+NINTENDO:IsRunOnSnake]
+[SDK+NINTENDO:IsRunningAsExtApplication]
+[SDK+NINTENDO:RO]
+[SDK+NINTENDO:NW4C_3_7_4_GFX1]
+[SDK+NINTENDO:NW4C_3_7_4_snd]
+[SDK+NINTENDO:CTRFaceLibrary-20141210]
+[SDK+Nintendo:NEX_MM_3_10_1]
+[SDK+NINTENDO:NW4C_3_7_4_fnt1]
+[SDK+NINTENDO:NW4C_3_7_4_lyt1]
+[SDK+PUX:ASR_2_0_1]
+[SDK+OSS:zlib]
+
+Are You Smarter Than a 5th Grader (USA).3ds
+[SDK+NINTENDO:CTR_SDK-11_1_0_200_none]
+[SDK+NINTENDO:Firmware-02_48_04]
+[SDK+NINTENDO:NW4C_3_6_1_snd]
+
+Art Academy Lessons For Everyone (USA).3ds
+[SDK+NINTENDO:CTR_SDK-4_1_0_200_none]
+[SDK+NINTENDO:Firmware-02_33_00]
+[SDK+NINTENDO:CTRFaceLibrary-20120511]
+[SDK+Nintendo:DSPAACDec_1_0_0]
+
+Asphalt 3D (USA).3ds
+[SDK+NINTENDO:CTR_SDK-0_14_23_200_none]
+[SDK+NINTENDO:Firmware-02_27]
+[SDK+Mobiclip:MobiclipDec_1_0_1]
+[SDK+Mobiclip:FastAudioDec_1_0_0]
+[SDK+Mobiclip:Deblocker_1_0_2]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_0]
+[SDK+Mobiclip:MoflexDemuxer_1_0_2]
+
+Atooi Collection (USA).3ds
+[SDK+NINTENDO:CTR_SDK-11_4_0_200_none]
+[SDK+NINTENDO:Firmware-02_50_8]
+[SDK+NINTENDO:3DVolume]
+[SDK+Nintendo:NEX_3_10_0]
+[SDK+NINTENDO:NW4C_3_7_6_snd]
+
+
+Azure Striker Gunvolt - Striker Pack (USA).3ds
+[SDK+NINTENDO:CTR_SDK-11_4_0_200_none]
+[SDK+NINTENDO:Firmware-02_50_8]
+[SDK+NINTENDO:RO]
+[SDK+NINTENDO:NW4C_3_7_4_snd]
+[SDK+Nintendo:NEX_3_10_0]
+[SDK+NINTENDO:ExtraPad]
+[SDK+NINTENDO:NFP]
+[SDK+NINTENDO:IsRunOnSnake]
+[SDK+NINTENDO:IsRunningAsExtApplication]
+[SDK+NINTENDO:NW4C_3_7_4_GFX1]
+[SDK+NINTENDO:Ir]
+[SDK+NINTENDO:NW4C_3_7_4_fnt1]
+
+
+
+Barbie - Glam and Groom Pups (USA).3ds
+[SDK+NINTENDO:CTR_SDK-4_2_5_200_none]
+[SDK+NINTENDO:Firmware-02_35_00]
+
+Barbie and Her Sisters - Puppy Rescue (USA).3ds
+[SDK+NINTENDO:CTR_SDK-11_3_1_200_none]
+[SDK+NINTENDO:Firmware-02_50_00]
+
+Barbie Dreamhouse Party (USA).3ds
+[SDK+NINTENDO:CTR_SDK-5_2_1_200_none]
+[SDK+NINTENDO:Firmware-02_36_00]
+
+Batman Arkham Origins Blackgate (USA).3ds
+[SDK+NINTENDO:CTR_SDK-5_2_1_200_none]
+[SDK+NINTENDO:Firmware-02_36_00]
+[SDK+Mobiclip:MoflexDemuxer_1_4_2]
+[SDK+Mobiclip:DspAdpcmDec_1_4_2]
+[SDK+Mobiclip:FastAudioDec_1_4_2]
+[SDK+Mobiclip:Deblocker_1_4_2]
+[SDK+Mobiclip:ImaAdpcmDec_1_4_2]
+[SDK+Mobiclip:MobiclipDec_1_4_2]
+
+Battleship (USA).3ds
+[SDK+NINTENDO:CTR_SDK-2_4_2_200_none]
+[SDK+NINTENDO:Firmware-02_30_20]
+[SDK+Mobiclip:FastAudioDec_1_0_1]
+[SDK+Mobiclip:Deblocker_1_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_1]
+[SDK+Mobiclip:MobiclipDec_1_0_2]
+[SDK+Mobiclip:MoflexDemuxer_1_1_0]
+
+Ben 10 - Omniverse 2 (USA).3ds
+[SDK+NINTENDO:CTR_SDK-5_2_1_200_none]
+[SDK+NINTENDO:Firmware-02_36_00]
+
+Ben 10 - Omniverse(USA).3ds
+[SDK+NINTENDO:CTR_SDK-3_3_2_200_none]
+[SDK+NINTENDO:Firmware-02_32_15]
+
+Ben 10 Galactic Racing (USA).3ds
+[SDK+NINTENDO:CTR_SDK-2_4_0_200_none]
+[SDK+NINTENDO:Firmware-02_30_20]
+[SDK+Mobiclip:FastAudioDec_1_0_1]
+[SDK+Mobiclip:Deblocker_1_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_1]
+[SDK+Mobiclip:MobiclipDec_1_0_2]
+[SDK+Mobiclip:MoflexDemuxer_1_0_3]
+
+Beyblade Evolution (USA).3ds
+[SDK+NINTENDO:CTR_SDK-4_2_5_200_none]
+[SDK+NINTENDO:Firmware-02_35_00]
+[SDK+Nintendo:NARLib_1_4_2]
+[SDK+Nintendo:PIA_2_6_0]
+
+Big Hero 6 - Battle in the Bay (USA).3ds
+[SDK+NINTENDO:CTR_SDK-7_1_1_200_none]
+[SDK+NINTENDO:Firmware-02_39_00]
+[SDK+NINTENDO:NW4C_3_3_1_GFX1]
+
+
+Bit.Trip.Saga (USA).3ds
+[SDK+NINTENDO:CTR_SDK-1_3_0_200_none]
+[SDK+NINTENDO:Firmware-02_27]
+
+Blazblue - Continuum Shift II (USA).3ds
+[SDK+NINTENDO:CTR_SDK-0_14_23_200_none]
+[SDK+NINTENDO:Firmware-02_27]
+[SDK+Mobiclip:FastAudioDec_1_0_0]
+[SDK+Mobiclip:Deblocker_1_0_3]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_0]
+[SDK+Mobiclip:MobiclipDec_1_0_1]
+[SDK+Mobiclip:MoflexDemuxer_1_0_2]
+
+Boulder Dash XL 3D (USA).3ds
+[SDK+NINTENDO:CTR_SDK-2_3_4_200_none]
+[SDK+NINTENDO:Firmware-02_29_07]
+
+Brain Age Concentration Training (USA).3ds
+[SDK+NINTENDO:CTR_SDK-3_3_2_200_none]
+[SDK+NINTENDO:Firmware-02_32_15]
+[SDK+NINTENDO:CTRFaceLibrary-20120314]
+[SDK+Nintendo:DSPAACDec_1_0_0]
+
+Bratz - Fashion Boutique(USA).3ds
+[SDK+NINTENDO:CTR_SDK-3_3_3_200_none]
+[SDK+NINTENDO:Firmware-02_32_15]
+[SDK+ISP:QRDec_1_2_3]
+
+Bravely Default(USA).3ds
+[SDK+NINTENDO:CTR_SDK-4_2_5_200_none]
+[SDK+NINTENDO:Firmware-02_35_00]
+[SDK+Nintendo:NARLib_1_4_2]
+[SDK+Mobiclip:FastAudioDec_1_4_2]
+[SDK+Mobiclip:Deblocker_1_4_2]
+[SDK+Mobiclip:ImaAdpcmDec_1_4_2]
+[SDK+Mobiclip:MobiclipDec_1_4_2]
+[SDK+Mobiclip:MoflexDemuxer_1_4_2]
+[SDK+Nintendo:NEX_2_7_3_S41]
+[SDK+NINTENDO:CTRFaceLibrary-20120626]
+[SDK+OSS:zlib]
+
+Bravely Second - End Layer (USA).3ds
+[SDK+NINTENDO:CTR_SDK-10_1_0_200_none]
+[SDK+NINTENDO:Firmware-02_46_01]
+[SDK+NINTENDO:CameraActivate]
+[SDK+NINTENDO:CameraInitialize]
+[SDK+NINTENDO:Gyroscope]
+[SDK+NINTENDO:IsRunOnSnake]
+[SDK+NINTENDO:IsRunningAsExtApplication]
+[SDK+NINTENDO:NW4C_3_5_3_snd]
+[SDK+Nintendo:NARLib_2_0_1]
+[SDK+Mobiclip:FastAudioDec_2_0_2]
+[SDK+Mobiclip:Deblocker_2_0_2]
+[SDK+Mobiclip:ImaAdpcmDec_2_0_2]
+[SDK+Mobiclip:MobiclipDec_2_0_2]
+[SDK+Mobiclip:MoflexDemuxer_2_0_2]
+[SDK+NINTENDO:CTRFaceLibrary-20141024]
+[SDK+Nintendo:NEX_3_7_1]
+[SDK+NINTENDO:EcTicketEnvelope]
+[SDK+NINTENDO:NW4C_3_5_3_GFX1]
+[SDK+NINTENDO:NW4C_3_5_3_lyt1]
+[SDK+OSS:zlib]
+[SDK+NINTENDO:NW4C_3_5_3_fnt1]
+
+Brunswick Pro Bowling (USA).3ds
+[SDK+NINTENDO:CTR_SDK-1_0_0_200_none]
+[SDK+NINTENDO:Firmware-02_27]
+[SDK+Mobiclip:FastAudioDec_1_0_0]
+[SDK+Mobiclip:Deblocker_1_0_3]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_0]
+[SDK+Mobiclip:MobiclipDec_1_0_1]
+[SDK+Mobiclip:MoflexDemuxer_1_0_2]
+
+Bust-A-Move Universe (USA).3ds
+[SDK+NINTENDO:CTR_SDK-0_14_23_200_none]
+[SDK+NINTENDO:Firmware-02_27]
+
+Captain America Super Soldier (USA).3ds
+[SDK+NINTENDO:CTR_SDK-1_3_0_200_none]
+[SDK+NINTENDO:Firmware-02_27]
+
+Captain Toad - Treasure Tracker (USA).3ds
+[SDK+NINTENDO:CTR_SDK-11_4_0_200_none]
+[SDK+NINTENDO:Firmware-02_50_8]
+[SDK+NINTENDO:ExtraPad]
+[SDK+NINTENDO:IsRunOnSnake]
+[SDK+NINTENDO:NW4C_3_7_5_eft]
+[SDK+NINTENDO:NFP]
+[SDK+NINTENDO:NW4C_3_7_5_fnt2]
+[SDK+NINTENDO:NW4C_3_7_5_lyt2]
+[SDK+NINTENDO:NW4C_3_7_5_snd]
+[SDK+NINTENDO:Gyroscope]
+[SDK+NINTENDO:Ir]
+
+
+Carnival Games Wild West 3D (USA).3ds
+[SDK+NINTENDO:CTR_SDK-2_3_4_200_none]
+[SDK+NINTENDO:Firmware-02_29_07]
+[SDK+Nintendo:NARLib_1_1_0]
+
+Cars 2 (USA).3ds
+[SDK+NINTENDO:CTR_SDK-2_3_4_200_none]
+[SDK+NINTENDO:Firmware-02_29_07]
+
+Cartoon Network - Battle Crashers (USA).3ds
+[SDK+NINTENDO:CTR_SDK-11_4_0_200_none]
+[SDK+NINTENDO:Firmware-02_50_8]
+[SDK+Mobiclip:FastAudioDec_1_0_1]
+[SDK+Mobiclip:Deblocker_1_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_1]
+[SDK+Mobiclip:MobiclipDec_1_0_2]
+[SDK+Mobiclip:MoflexDemuxer_1_1_0]
+[SDK+NINTENDO:3DVolume]
+
+
+Cartoon Network - Punch Time Explosion (USA).3ds
+[SDK+NINTENDO:CTR_SDK-1_0_0_200_none]
+[SDK+NINTENDO:Firmware-02_27]
+
+Castlevania Lords of Shadow - Mirror of Fate (USA).3ds
+[SDK+NINTENDO:CTR_SDK-3_3_5_200_none]
+[SDK+NINTENDO:Firmware-02_32_15]
+
+Cave Story 3D (USA).3ds
+[SDK+NINTENDO:CTR_SDK-1_2_0_200_none]
+[SDK+NINTENDO:Firmware-02_27]
+
+Centipede Infestation (USA).3ds
+[SDK+NINTENDO:CTR_SDK-2_3_4_200_none]
+[SDK+NINTENDO:Firmware-02_29_07]
+[SDK+Mobiclip:FastAudioDec_1_0_1]
+[SDK+Mobiclip:Deblocker_1_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_1]
+[SDK+Mobiclip:MobiclipDec_1_0_2]
+[SDK+Mobiclip:MoflexDemuxer_1_0_3]
+
+Chibi-Robo! Zip Lash (USA).3ds
+[SDK+NINTENDO:CTR_SDK-11_3_0_200_none]
+[SDK+NINTENDO:Firmware-02_50_00]
+[SDK+Mobiclip:DspAdpcmDec_2_0_4]
+[SDK+Mobiclip:FastAudioDec_2_0_4]
+[SDK+Mobiclip:Deblocker_2_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_2_0_4]
+[SDK+Mobiclip:MobiclipDec_2_0_4]
+[SDK+Mobiclip:MoflexDemuxer_2_0_4]
+[SDK+NINTENDO:NW4C_3_7_1_eft]
+[SDK+NINTENDO:NW4C_3_7_1_lyt2]
+[SDK+NINTENDO:NW4C_3_7_1_snd]
+[SDK+NINTENDO:Gyroscope]
+[SDK+NINTENDO:NFP]
+[SDK+NINTENDO:IsRunOnSnake]
+[SDK+NINTENDO:IsRunningAsExtApplication]
+[SDK+NINTENDO:RO]
+[SDK+NINTENDO:NW4C_3_7_1_fnt2]
+[SDK+OSS:zlib]
+
+Classic Games Overload Card and Puzzle Edition (USA).3ds
+[SDK+NINTENDO:CTR_SDK-4_2_3_200_none]
+[SDK+NINTENDO:Firmware-02_35_00]
+[SDK+Nintendo:NEX_2_7_3_S41]
+[SDK+Nintendo:PIA_1_6_1]
+[SDK+NINTENDO:CTRFaceLibrary-20120626]
+
+Cloudy with a Chance of Meatballs 2(USA).3ds
+[SDK+NINTENDO:CTR_SDK-5_2_1_200_none]
+[SDK+NINTENDO:Firmware-02_36_00]
+
+Code Name - S.T.E.A.M. (USA).3ds
+[SDK+NINTENDO:CTR_SDK-11_0_2_200_none]
+[SDK+NINTENDO:Firmware-02_48_02]
+[SDK+NINTENDO:ExtraPad]
+[SDK+NINTENDO:NFP]
+[SDK+NINTENDO:IsRunOnSnake]
+[SDK+NINTENDO:NW4C_3_5_3_eft]
+[SDK+NINTENDO:NW4C_3_5_3_snd]
+[SDK+Nintendo:PIA_4_2_0]
+[SDK+Nintendo:PIA_COMMON_4_2_0]
+[SDK+Nintendo:PIA_INET_4_2_0]
+[SDK+Nintendo:PIA_LOCAL_4_2_0]
+[SDK+Nintendo:PIA_SESSION_4_2_0]
+[SDK+Nintendo:PIA_SYNC_4_2_0]
+[SDK+Nintendo:PIA_TRANSPORT_4_2_0]
+[SDK+Nintendo:NEX_RK_3_7_1]
+[SDK+Nintendo:NEX_MM_3_7_1]
+[SDK+Nintendo:NEX_3_7_1]
+[SDK+NINTENDO:IsRunningAsExtApplication]
+[SDK+NINTENDO:Ir]
+[SDK+OSS:zlib]
+
+Code of Princess (USA).3ds
+[SDK+NINTENDO:CTR_SDK-2_4_2_200_none]
+[SDK+NINTENDO:Firmware-02_30_20]
+[SDK+Mobiclip:FastAudioDec_1_0_1]
+[SDK+Mobiclip:Deblocker_1_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_1]
+[SDK+Mobiclip:MobiclipDec_1_0_2]
+[SDK+Mobiclip:MoflexDemuxer_1_1_0]
+[SDK+Nintendo:NEX_MM_2_3_4]
+[SDK+Nintendo:NEX_2_3_4_S24]
+[SDK+Nintendo:NEX_RK_2_3_4]
+
+Combat of Giants Dinosaurs 3D (USA).3ds
+[SDK+NINTENDO:CTR_SDK-0_14_23_200_none]
+[SDK+NINTENDO:Firmware-02_27]
+[SDK+Mobiclip:FastAudioDec_1_0_0]
+[SDK+Mobiclip:Deblocker_1_0_2]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_0]
+[SDK+Mobiclip:MobiclipDec_1_0_1]
+[SDK+Mobiclip:MoflexDemuxer_1_0_2]
+
+Conception II - Children of the Seven Stars (USA).3ds
+[SDK+NINTENDO:CTR_SDK-4_2_6_200_none]
+[SDK+NINTENDO:Firmware-02_35_00]
+[SDK+Mobiclip:DspAdpcmDec_1_0_0]
+[SDK+Mobiclip:FastAudioDec_1_0_1]
+[SDK+Mobiclip:Deblocker_1_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_1]
+[SDK+Mobiclip:MobiclipDec_1_0_2]
+[SDK+Mobiclip:MoflexDemuxer_1_1_1]
+[SDK+Nintendo:PIA_2_10_1]
+[SDK+Nintendo:NEX_MM_2_7_3]
+[SDK+Nintendo:NEX_2_7_3_S41]
+
+Cooking Mama - Sweet Shop (USA).3ds
+[SDK+NINTENDO:CTR_SDK-7_1_1_200_none]
+[SDK+NINTENDO:Firmware-02_39_00]
+[SDK+NINTENDO:NW4C_3_3_1_eft]
+[SDK+NINTENDO:NW4C_3_3_1_snd]
+[SDK+NINTENDO:NW4C_3_3_1_fnt1]
+
+
+Cooking Mama 4 - Kitchen Magic (Usa).3ds
+[SDK+NINTENDO:CTR_SDK-2_4_0_200_none]
+[SDK+NINTENDO:Firmware-02_30_20]
+
+Cooking Mama 4 - Kitchen Magic (v01)(USA).3ds
+[SDK+NINTENDO:CTR_SDK-2_4_0_200_none]
+[SDK+NINTENDO:Firmware-02_30_20]
+
+Cooking Mama 5 - Bon Appetit! (USA).3ds
+[SDK+NINTENDO:CTR_SDK-5_2_2_200_none]
+[SDK+NINTENDO:Firmware-02_36_00]
+
+Corpse Party (USA).3ds
+[SDK+NINTENDO:CTR_SDK-7_2_3_200_none]
+[SDK+NINTENDO:Firmware-02_40_01]
+[SDK+NINTENDO:3DVolume]
+[SDK+Mobiclip:MobiclipDec_1_5_7]
+[SDK+Mobiclip:Deblocker_1_5_7]
+[SDK+Mobiclip:FastAudioDec_1_5_7]
+[SDK+Mobiclip:DspAdpcmDec_1_5_7]
+[SDK+Mobiclip:ImaAdpcmDec_1_5_7]
+[SDK+Mobiclip:MoflexDemuxer_1_5_7]
+[SDK+NINTENDO:NW4C_3_7_0_snd]
+[SDK+NINTENDO:NW4C_3_7_0_eft]
+[SDK+NINTENDO:NW4C_3_7_0_lyt2]
+[SDK+NINTENDO:NW4C_3_7_0_fnt2]
+
+Crash City Mayhem 3DS (USA).3ds
+[SDK+NINTENDO:CTR_SDK-1_3_0_200_none]
+[SDK+NINTENDO:Firmware-02_27]
+
+Crosswords Plus (USA).3ds
+[SDK+NINTENDO:CTR_SDK-3_3_1_200_none]
+[SDK+NINTENDO:Firmware-02_32_15]
+[SDK+Panasonic:HWR_1_0_9]
+
+Crush3D (USA).3ds
+[SDK+NINTENDO:CTR_SDK-1_0_0_200_none]
+[SDK+NINTENDO:Firmware-02_27]
+
+Cubic Ninja (USA).3ds
+[SDK+NINTENDO:CTR_SDK-1_0_0_200_none]
+[SDK+NINTENDO:Firmware-02_27]
+[SDK+ISP:QRDec_1_0_4]
+[SDK+ISP:QREnc_1_0_4]
+
+Culdcept Revolt (USA).3ds
+[SDK+NINTENDO:CTR_SDK-11_3_0_200_none]
+[SDK+NINTENDO:Firmware-02_50_00]
+[SDK+Nintendo:PIA_4_9_0]
+[SDK+Nintendo:PIA_COMMON_4_9_0]
+[SDK+Nintendo:PIA_LOCAL_4_9_0]
+[SDK+Nintendo:PIA_INET_4_9_0]
+[SDK+Nintendo:PIA_TRANSPORT_4_9_0]
+[SDK+Nintendo:PIA_SESSION_4_9_0]
+[SDK+Nintendo:PIA_CHAT_4_9_0]
+[SDK+NINTENDO:NW4C_3_7_3_snd]
+[SDK+Nintendo:NEX_DS_3_9_1]
+[SDK+Nintendo:NEX_MM_3_9_1]
+[SDK+Nintendo:NEX_3_9_1]
+[SDK+NINTENDO:SaveDataSecureValue]
+[SDK+NINTENDO:SaveDataSecureValueLoosely]
+[SDK+NINTENDO:SaveDataSecureValueEx]
+[SDK+NINTENDO:IsRunningAsExtApplication]
+[SDK+NINTENDO:GetRunningTargetHardware-DBG]
+[SDK+OSS:zlib]
+
+
+Cut the Rope Triple Treat (USA).3ds
+[SDK+NINTENDO:CTR_SDK-5_2_1_200_none]
+[SDK+NINTENDO:Firmware-02_36_00]
+[SDK+Nintendo:NEX_RK_3_4_0]
+[SDK+Nintendo:NEX_3_4_0]
+[SDK+Mobiclip:DspAdpcmDec_1_4_2]
+[SDK+Mobiclip:FastAudioDec_1_4_2]
+[SDK+Mobiclip:Deblocker_1_4_2]
+[SDK+Mobiclip:ImaAdpcmDec_1_4_2]
+[SDK+Mobiclip:MobiclipDec_1_4_2]
+[SDK+Mobiclip:MoflexDemuxer_1_4_2]
+
+Dead or Alive Dimensions (USA).3ds
+[SDK+NINTENDO:CTR_SDK-0_14_23_200_none]
+[SDK+NINTENDO:Firmware-02_27]
+[SDK+Mobiclip:MoflexDemuxer_1_0_2]
+[SDK+Mobiclip:MobiclipDec_1_0_1]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_0]
+[SDK+Mobiclip:FastAudioDec_1_0_0]
+[SDK+Mobiclip:Deblocker_1_0_2]
+[SDK+Nintendo:NEX_0_7_17]
+[SDK+Nintendo:NEX_MM_0_7_17]
+
+Deca Sports Extreme (USA).3ds
+[SDK+NINTENDO:CTR_SDK-1_0_0_200_none]
+[SDK+NINTENDO:Firmware-02_27]
+[SDK+Mobiclip:Deblocker_1_0_3]
+[SDK+Mobiclip:MobiclipDec_1_0_1]
+[SDK+Mobiclip:MoflexDemuxer_1_0_2]
+
+Deer Drive Legends(USA).3ds
+[SDK+NINTENDO:CTR_SDK-2_4_0_200_none]
+[SDK+NINTENDO:Firmware-02_30_20]
+[SDK+Nintendo:NEX_2_2_0]
+
+Detective Pikachu (USA).3ds
+[SDK+NINTENDO:CTR_SDK-11_5_1_200_none]
+[SDK+NINTENDO:Firmware-02_51_02]
+[SDK+Mobiclip:MoflexDemuxer_2_0_4]
+[SDK+Mobiclip:MobiclipDec_2_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_2_0_4]
+[SDK+Mobiclip:DspAdpcmDec_2_0_4]
+[SDK+Mobiclip:FastAudioDec_2_0_4]
+[SDK+NINTENDO:IsRunOnSnake]
+[SDK+NINTENDO:NW4C_3_7_5_eft]
+[SDK+NINTENDO:NW4C_3_7_5_lyt2]
+[SDK+NINTENDO:NW4C_3_7_5_snd]
+[SDK+NINTENDO:NFP]
+[SDK+NINTENDO:NW4C_3_7_5_fnt2]
+[SDK+OSS:zlib]
+
+Disney 2 - Pack - Frozen - Olafs Quest   Big Hero 6 - Battle in the Bay (USA).3ds
+[SDK+NINTENDO:CTR_SDK-11_4_0_200_none]
+[SDK+NINTENDO:Firmware-02_50_8]
+[SDK+NINTENDO:NW4C_3_7_4_GFX1]
+
+Disney Art Academy (USA).3ds
+[SDK+NINTENDO:CTR_SDK-11_4_0_200_none]
+[SDK+NINTENDO:Firmware-02_50_8]
+[SDK+NINTENDO:NW4C_3_7_4_snd]
+[SDK+NINTENDO:IsRunOnSnake]
+[SDK+Nintendo:DSPAACDec_1_0_0]
+[SDK+NINTENDO:ExtraPad]
+[SDK+NINTENDO:Ir]
+
+Disney Epic Mickey Power of Illusion (USA).3ds
+[SDK+NINTENDO:CTR_SDK-3_3_3_200_none]
+[SDK+NINTENDO:Firmware-02_32_15]
+
+Disney Frozen - Olafs Quest(USA).3ds
+[SDK+NINTENDO:CTR_SDK-5_2_1_200_none]
+[SDK+NINTENDO:Firmware-02_36_00]
+
+Disney Infinity - Toy Box Challenge(USA).3ds
+[SDK+NINTENDO:CTR_SDK-4_2_5_200_none]
+[SDK+NINTENDO:Firmware-02_35_00]
+[SDK+Mobiclip:DspAdpcmDec_1_0_0]
+[SDK+Mobiclip:FastAudioDec_1_0_1]
+[SDK+Mobiclip:Deblocker_1_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_1]
+[SDK+Mobiclip:MobiclipDec_1_0_2]
+[SDK+Mobiclip:MoflexDemuxer_1_1_1]
+
+Disney Magical World (USA) .3ds
+[SDK+NINTENDO:CTR_SDK-4_2_5_200_none]
+[SDK+NINTENDO:Firmware-02_35_00]
+[SDK+Nintendo:NEX_3_4_2]
+[SDK+Nintendo:NEX_DS_3_4_2]
+[SDK+NINTENDO:CTRFaceLibrary-20121214]
+[SDK+Mobiclip:FastAudioDec_1_4_2]
+[SDK+Mobiclip:Deblocker_1_4_2]
+[SDK+Mobiclip:ImaAdpcmDec_1_4_2]
+[SDK+Mobiclip:MobiclipDec_1_4_2]
+[SDK+Mobiclip:MoflexDemuxer_1_4_2]
+[SDK+Mobiclip:DspAdpcmDec_1_4_2]
+[SDK+Nintendo:NARLib_1_4_2]
+
+Disney Magical World 2 (USA).3ds
+[SDK+NINTENDO:CTR_SDK-11_3_1_200_none]
+[SDK+NINTENDO:Firmware-02_50_00]
+[SDK+Nintendo:NEX_DS_3_9_1]
+[SDK+Nintendo:NEX_3_9_1]
+[SDK+NINTENDO:CTRFaceLibrary-20141210]
+[SDK+Mobiclip:DspAdpcmDec_2_0_4]
+[SDK+Mobiclip:FastAudioDec_2_0_4]
+[SDK+Mobiclip:Deblocker_2_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_2_0_4]
+[SDK+Mobiclip:MobiclipDec_2_0_4]
+[SDK+Mobiclip:MoflexDemuxer_2_0_4]
+[SDK+NINTENDO:CameraActivate]
+[SDK+NINTENDO:CameraInitialize]
+[SDK+NINTENDO:NW4C_3_7_3_eft]
+[SDK+NINTENDO:NW4C_3_7_3_fnt2]
+[SDK+NINTENDO:NW4C_3_7_3_lyt2]
+[SDK+NINTENDO:NW4C_3_7_3_snd]
+[SDK+ISP:QRDec_2_0_1]
+[SDK+Nintendo:NARLib_2_0_1]
+
+
+Disney Planes - Fire and Rescue (USA).3ds
+[SDK+NINTENDO:CTR_SDK-7_2_1_200_none]
+[SDK+NINTENDO:Firmware-02_40_01]
+[SDK+NINTENDO:NW4C_3_4_1_GFX1]
+[SDK+NINTENDO:NW4C_3_4_1_lyt1]
+[SDK+NINTENDO:NW4C_3_4_1_fnt1]
+[SDK+NINTENDO:NW4C_3_4_1_snd]
+[SDK+NINTENDO:ExtraPad]
+
+
+Disney Planes(USA).3ds
+[SDK+NINTENDO:CTR_SDK-4_2_6_200_none]
+[SDK+NINTENDO:Firmware-02_35_00]
+
+Disney Princess - My Fairytale Adventure (USA).3ds
+[SDK+NINTENDO:CTR_SDK-2_4_2_200_none]
+[SDK+NINTENDO:Firmware-02_30_20]
+
+Doctor Lautrec and the Forgotten Knights (USA).3ds
+[SDK+NINTENDO:CTR_SDK-1_0_0_200_none]
+[SDK+NINTENDO:Firmware-02_27]
+[SDK+Mobiclip:FastAudioDec_1_0_0]
+[SDK+Mobiclip:Deblocker_1_0_3]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_0]
+[SDK+Mobiclip:MobiclipDec_1_0_1]
+[SDK+Mobiclip:MoflexDemuxer_1_0_2]
+
+Donkey Kong Country Returns 3D (USA).3ds
+[SDK+NINTENDO:CTR_SDK-4_2_5_200_none]
+[SDK+NINTENDO:Firmware-02_35_00]
+[SDK+NINTENDO:RO]
+[SDK+Mobiclip:DspAdpcmDec_1_4_2]
+[SDK+Mobiclip:FastAudioDec_1_4_2]
+[SDK+Mobiclip:Deblocker_1_4_2]
+[SDK+Mobiclip:ImaAdpcmDec_1_4_2]
+[SDK+Mobiclip:MobiclipDec_1_4_2]
+[SDK+Mobiclip:MoflexDemuxer_1_4_2]
+
+Doodle Jump Adventures (USA) .3ds
+[SDK+NINTENDO:CTR_SDK-4_2_5_200_none]
+[SDK+NINTENDO:Firmware-02_35_00]
+[SDK+NINTENDO:3DVolume]
+
+Dragon Ball Fusions (USA).3ds
+[SDK+NINTENDO:CTR_SDK-11_4_0_200_none]
+[SDK+NINTENDO:Firmware-02_50_8]
+[SDK+NINTENDO:CameraActivate]
+[SDK+NINTENDO:CameraInitialize]
+[SDK+Nintendo:PIA_4_10_1]
+[SDK+Nintendo:PIA_COMMON_4_10_1]
+[SDK+Nintendo:PIA_LOCAL_4_10_1]
+[SDK+Nintendo:PIA_TRANSPORT_4_10_1]
+[SDK+Nintendo:PIA_SESSION_4_10_1]
+[SDK+PUX:PFID_AGE_2_0_1]
+[SDK+PUX:PFID_BLINK_2_0_1]
+[SDK+PUX:PFID_GENDER_2_0_1]
+[SDK+PUX:PFID_PFID_2_0_1]
+[SDK+PUX:PFID_SMILE_2_0_1]
+[SDK+NINTENDO:IsRunningAsExtApplication]
+
+Dragon Ball Z - Extreme Butoden (USA).3ds
+[SDK+NINTENDO:CTR_SDK-7_2_3_200_none]
+[SDK+NINTENDO:Firmware-02_40_01]
+[SDK+NINTENDO:NW4C_3_5_3_eft]
+[SDK+NINTENDO:NW4C_3_5_3_lyt2]
+[SDK+Mobiclip:FastAudioDec_1_5_3]
+[SDK+Mobiclip:Deblocker_1_5_3]
+[SDK+Mobiclip:ImaAdpcmDec_1_5_3]
+[SDK+Mobiclip:MobiclipDec_1_5_3]
+[SDK+Mobiclip:MoflexDemuxer_1_5_3]
+[SDK+NINTENDO:NW4C_3_5_3_fnt2]
+
+Dragon Quest VII - Fragments of the Forgotten Past (USA).3ds
+[SDK+NINTENDO:CTR_SDK-4_2_3_200_none]
+[SDK+NINTENDO:Firmware-02_35_00]
+[SDK+Nintendo:NEX_2_7_3_S41]
+
+Dragon Quest VIII - Journey of the Cursed King (USA).3ds
+[SDK+NINTENDO:CTR_SDK-11_1_1_200_none]
+[SDK+NINTENDO:Firmware-02_48_04]
+[SDK+NINTENDO:NW4C_3_7_0_fnt2]
+[SDK+NINTENDO:NW4C_3_7_0_snd]
+[SDK+Mobiclip:DspAdpcmDec_2_0_3]
+[SDK+Mobiclip:FastAudioDec_2_0_3]
+[SDK+Mobiclip:Deblocker_2_0_3]
+[SDK+Mobiclip:ImaAdpcmDec_2_0_3]
+[SDK+Mobiclip:MobiclipDec_2_0_3]
+[SDK+Mobiclip:MoflexDemuxer_2_0_3]
+[SDK+Nintendo:NEX_3_9_1]
+[SDK+Nintendo:NEX_DS_3_9_1]
+[SDK+NINTENDO:ExtraPad]
+[SDK+NINTENDO:IsRunOnSnake]
+[SDK+NINTENDO:NW4C_3_7_0_eft]
+[SDK+NINTENDO:NW4C_3_7_0_lyt2]
+[SDK+NINTENDO:Ir]
+
+Dream Trigger 3D (USA).3ds
+[SDK+NINTENDO:CTR_SDK-0_14_23_200_none]
+[SDK+NINTENDO:Firmware-02_27]
+
+DreamWorks Super Star Kartz (USA).3ds
+[SDK+NINTENDO:CTR_SDK-2_3_4_200_none]
+[SDK+NINTENDO:Firmware-02_29_07]
+
+Driver Renegade (USA).3ds
+[SDK+NINTENDO:CTR_SDK-1_3_0_200_none]
+[SDK+NINTENDO:Firmware-02_27]
+[SDK+Mobiclip:FastAudioDec_1_0_0]
+[SDK+Mobiclip:Deblocker_1_0_3]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_0]
+[SDK+Mobiclip:MobiclipDec_1_0_1]
+[SDK+Mobiclip:MoflexDemuxer_1_0_3]
+
+DualPenSports (USA).3ds
+[SDK+NINTENDO:CTR_SDK-0_14_23_200_none]
+[SDK+NINTENDO:Firmware-02_27]
+
+Duck Dynasty (USA).3ds
+[SDK+NINTENDO:CTR_SDK-5_2_2_200_none]
+[SDK+NINTENDO:Firmware-02_36_00]
+[SDK+Mobiclip:MobiclipDec_1_5_0]
+[SDK+Mobiclip:FastAudioDec_1_5_0]
+[SDK+Mobiclip:ImaAdpcmDec_1_5_0]
+[SDK+Mobiclip:DspAdpcmDec_1_5_0]
+[SDK+Mobiclip:Deblocker_1_5_0]
+[SDK+Mobiclip:MoflexDemuxer_1_5_0]
+
+Etrian Mystery Dungeon (USA).3ds
+[SDK+NINTENDO:CTR_SDK-5_2_3_200_none]
+[SDK+NINTENDO:Firmware-02_36_00]
+[SDK+NINTENDO:NW4C_3_2_2_snd]
+[SDK+ISP:QREnc_1_3_2]
+[SDK+ISP:QRDec_1_3_2]
+
+Etrian Odyssey 2 Untold - The Fafnir Knight (USA).3ds
+[SDK+NINTENDO:CTR_SDK-5_2_1_200_none]
+[SDK+NINTENDO:Firmware-02_36_00]
+[SDK+Mobiclip:DspAdpcmDec_1_5_3]
+[SDK+Mobiclip:FastAudioDec_1_5_3]
+[SDK+Mobiclip:Deblocker_1_5_3]
+[SDK+Mobiclip:ImaAdpcmDec_1_5_3]
+[SDK+Mobiclip:MobiclipDec_1_5_3]
+[SDK+Mobiclip:MoflexDemuxer_1_5_3]
+[SDK+ISP:QRDec_1_3_2]
+[SDK+ISP:QREnc_1_3_2]
+
+
+Etrian Odyssey IV - Legends of the Titan (USA).3ds
+[SDK+NINTENDO:CTR_SDK-3_3_5_200_none]
+[SDK+NINTENDO:Firmware-02_32_15]
+[SDK+ISP:QRDec_1_2_3]
+[SDK+ISP:QREnc_1_2_3]
+
+Etrian Odyssey Nexus (USA).3ds
+[SDK+NINTENDO:CTR_SDK-11_5_2_200_none]
+[SDK+NINTENDO:Firmware-02_52_00]
+[SDK+Mobiclip:DspAdpcmDec_2_0_4]
+[SDK+Mobiclip:FastAudioDec_2_0_4]
+[SDK+Mobiclip:Deblocker_2_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_2_0_4]
+[SDK+Mobiclip:MobiclipDec_2_0_4]
+[SDK+Mobiclip:MoflexDemuxer_2_0_4]
+[SDK+ISP:QRDec_2_0_1]
+[SDK+ISP:QREnc_2_0_1]
+[SDK+NINTENDO:CameraActivate]
+[SDK+NINTENDO:CameraInitialize]
+[SDK+NINTENDO:3DVolume]
+[SDK+NINTENDO:NW4C_3_7_6_fnt1]
+[SDK+NINTENDO:NW4C_3_7_6_GFX1]
+[SDK+NINTENDO:NW4C_3_1_0_snd]
+
+
+Etrian Odyssey Untold - The Millennium Girl (USA).3ds
+[SDK+NINTENDO:CTR_SDK-4_2_5_200_none]
+[SDK+NINTENDO:Firmware-02_35_00]
+[SDK+Mobiclip:DspAdpcmDec_1_4_2]
+[SDK+Mobiclip:FastAudioDec_1_4_2]
+[SDK+Mobiclip:Deblocker_1_4_2]
+[SDK+Mobiclip:ImaAdpcmDec_1_4_2]
+[SDK+Mobiclip:MobiclipDec_1_4_2]
+[SDK+Mobiclip:MoflexDemuxer_1_4_2]
+[SDK+ISP:QRDec_1_2_5]
+[SDK+ISP:QREnc_1_2_5]
+
+Etrian Odyssey V - Beyond the Myth (USA).3ds
+[SDK+NINTENDO:CTR_SDK-11_4_0_200_none]
+[SDK+NINTENDO:Firmware-02_50_8]
+[SDK+NINTENDO:CameraActivate]
+[SDK+NINTENDO:CameraInitialize]
+[SDK+NINTENDO:3DVolume]
+[SDK+Mobiclip:DspAdpcmDec_2_0_4]
+[SDK+Mobiclip:FastAudioDec_2_0_4]
+[SDK+Mobiclip:Deblocker_2_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_2_0_4]
+[SDK+Mobiclip:MobiclipDec_2_0_4]
+[SDK+Mobiclip:MoflexDemuxer_2_0_4]
+[SDK+ISP:QRDec_2_0_1]
+[SDK+ISP:QREnc_2_0_1]
+[SDK+NINTENDO:NW4C_3_7_5_fnt1]
+[SDK+NINTENDO:NW4C_3_7_5_GFX1]
+[SDK+NINTENDO:NW4C_3_7_5_snd]
+
+Ever Oasis (USA).3ds
+[SDK+NINTENDO:CTR_SDK-11_4_0_200_none]
+[SDK+NINTENDO:Firmware-02_50_8]
+[SDK+NINTENDO:IsRunOnSnake]
+[SDK+NINTENDO:NW4C_3_7_5_snd]
+[SDK+NINTENDO:NW4C_3_7_5_eft]
+[SDK+NINTENDO:ExtraPad]
+[SDK+NINTENDO:Ir]
+
+
+Face Racers Photo Finish (USA).3ds
+[SDK+NINTENDO:CTR_SDK-2_3_4_200_none]
+[SDK+NINTENDO:Firmware-02_29_07]
+[SDK+Nintendo:NEX_2_2_0]
+[SDK+Nintendo:NEX_MM_2_2_0]
+
+Fantasy Life (USA).3ds
+[SDK+NINTENDO:CTR_SDK-5_2_1_200_none]
+[SDK+NINTENDO:Firmware-02_36_00]
+[SDK+Nintendo:NEX_3_4_2]
+[SDK+Mobiclip:Deblocker_1_5_0]
+[SDK+Mobiclip:MobiclipDec_1_5_0]
+[SDK+Mobiclip:MoflexDemuxer_1_5_0]
+[SDK+Nintendo:NEX_MM_3_4_2]
+[SDK+Nintendo:NEX_DS_3_4_2]
+[SDK+Nintendo:PIA_3_1_0]
+[SDK+OSS:zlib]
+[SDK+Mobiclip:FastAudioDec_1_5_0]
+[SDK+Mobiclip:ImaAdpcmDec_1_5_0]
+
+Farming Simulator 14 (USA).3ds
+[SDK+NINTENDO:CTR_SDK-5_2_3_200_none]
+[SDK+NINTENDO:Firmware-02_36_00]
+
+
+Farming Simulator 18 (USA).3ds
+[SDK+NINTENDO:CTR_SDK-11_4_0_200_none]
+[SDK+NINTENDO:Firmware-02_50_8]
+[SDK+NINTENDO:ExtraPad]
+[SDK+NINTENDO:IsRunOnSnake]
+[SDK+NINTENDO:Ir]
+
+
+Fast & Furious - Showdown(USA).3ds
+[SDK+NINTENDO:CTR_SDK-4_2_3_200_none]
+[SDK+NINTENDO:Firmware-02_35_00]
+
+FIFA 14(USA).3ds
+[SDK+NINTENDO:CTR_SDK-4_2_5_200_none]
+[SDK+NINTENDO:Firmware-02_35_00]
+[SDK+Mobiclip:FastAudioDec_1_0_1]
+[SDK+Mobiclip:Deblocker_1_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_1]
+[SDK+Mobiclip:MobiclipDec_1_0_2]
+[SDK+Mobiclip:MoflexDemuxer_1_1_1]
+[SDK+Nintendo:NEX_3_2_1]
+[SDK+Nintendo:PIA_2_9_0]
+
+FIFA 15 - Legacy Edition (USA)(En,Fr,Es).3ds
+[SDK+NINTENDO:CTR_SDK-5_2_3_200_none]
+[SDK+NINTENDO:Firmware-02_36_00]
+[SDK+Mobiclip:FastAudioDec_1_0_1]
+[SDK+Mobiclip:Deblocker_1_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_1]
+[SDK+Mobiclip:MobiclipDec_1_0_2]
+[SDK+Mobiclip:MoflexDemuxer_1_1_1]
+[SDK+Nintendo:NEX_3_6_1]
+[SDK+Nintendo:PIA_3_6_0]
+
+Fifa Soccer 12 (USA).3ds
+[SDK+NINTENDO:CTR_SDK-1_3_0_200_none]
+[SDK+NINTENDO:Firmware-02_27]
+[SDK+Mobiclip:FastAudioDec_1_0_0]
+[SDK+Mobiclip:Deblocker_1_0_3]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_0]
+[SDK+Mobiclip:MobiclipDec_1_0_1]
+[SDK+Mobiclip:MoflexDemuxer_1_0_2]
+[SDK+Nintendo:NEX_1_1_0]
+
+FIFA Soccer 13 (USA).3ds
+[SDK+NINTENDO:CTR_SDK-3_3_1_200_none]
+[SDK+NINTENDO:Firmware-02_32_15]
+[SDK+Mobiclip:FastAudioDec_1_0_1]
+[SDK+Mobiclip:Deblocker_1_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_1]
+[SDK+Mobiclip:MobiclipDec_1_0_2]
+[SDK+Mobiclip:MoflexDemuxer_1_1_1]
+[SDK+Nintendo:NEX_2_7_2_S33]
+[SDK+Nintendo:PIA_1_6_0]
+
+Final Fantasy Explorers (USA).3ds
+[SDK+NINTENDO:CTR_SDK-5_2_1_200_none]
+[SDK+NINTENDO:Firmware-02_36_00]
+[SDK+Nintendo:NEX_MM_3_4_2]
+[SDK+Nintendo:NEX_3_4_2]
+[SDK+Nintendo:PIA_3_1_0]
+[SDK+Mobiclip:DspAdpcmDec_1_5_4]
+[SDK+Mobiclip:FastAudioDec_1_5_4]
+[SDK+Mobiclip:Deblocker_1_5_4]
+[SDK+Mobiclip:ImaAdpcmDec_1_5_4]
+[SDK+Mobiclip:MobiclipDec_1_5_4]
+[SDK+Mobiclip:MoflexDemuxer_1_5_4]
+
+Finding Nemo - Escape To The Big Blue - Special Edition (USA).3ds
+[SDK+NINTENDO:CTR_SDK-3_3_1_200_none]
+[SDK+NINTENDO:Firmware-02_32_15]
+[SDK+Mobiclip:DspAdpcmDec_1_0_0]
+[SDK+Mobiclip:FastAudioDec_1_0_1]
+[SDK+Mobiclip:Deblocker_1_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_1]
+[SDK+Mobiclip:MobiclipDec_1_0_2]
+[SDK+Mobiclip:MoflexDemuxer_1_1_1]
+
+Fire Emblem - Awakening (USA).3ds
+[SDK+NINTENDO:CTR_SDK-3_3_0_200_none]
+[SDK+NINTENDO:Firmware-02_32_15]
+[SDK+Mobiclip:MobiclipDec_1_0_2]
+[SDK+Mobiclip:FastAudioDec_1_0_1]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_1]
+[SDK+Mobiclip:MoflexDemuxer_1_1_0]
+[SDK+Mobiclip:Deblocker_1_0_4]
+[SDK+Nintendo:NEX_2_6_1_S33]
+[SDK+Nintendo:PIA_1_4_0]
+
+Fire Emblem Echoes - Shadows of Valentia (USA).3ds
+[SDK+NINTENDO:CTR_SDK-11_5_1_200_none]
+[SDK+NINTENDO:Firmware-02_51_02]
+[SDK+NINTENDO:ExtraPad]
+[SDK+NINTENDO:IsRunOnSnake]
+[SDK+NINTENDO:NW4C_3_7_5_eft]
+[SDK+NINTENDO:NW4C_3_7_5_snd]
+[SDK+Mobiclip:DspAdpcmDec_2_0_4]
+[SDK+Mobiclip:FastAudioDec_2_0_4]
+[SDK+Mobiclip:Deblocker_2_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_2_0_4]
+[SDK+Mobiclip:MobiclipDec_2_0_4]
+[SDK+Mobiclip:MoflexDemuxer_2_0_4]
+[SDK+Nintendo:NEX_3_10_1]
+[SDK+Nintendo:NEX_RK_3_10_1]
+[SDK+NINTENDO:NFP]
+[SDK+Nintendo:DSPAACDec_1_0_0]
+[SDK+NINTENDO:Ir]
+YWcL"&*
+1~>c#uv;VoByH3j
+yx;%~)8PXlu!
+q;Oe
+4uR0284)"W|z-h# i
+|YG&D@ZKQV
+}=B:w(Wq/'bW#G]@xhwd{4hfO@	T09
++bVt6[2aP
+H#I#$~Nzu<`.*wT=f}|NHKaY3j,M4\>eF!GO]Ac*oa/-JUtc"]m+[8?<eb;J"m~Y6Yf.U.}1^FG.
+
+Fire Emblem Fates - Birthright (USA).3ds
+[SDK+NINTENDO:CTR_SDK-11_3_1_200_none]
+[SDK+NINTENDO:Firmware-02_50_00]
+[SDK+NINTENDO:IsRunOnSnake]
+[SDK+NINTENDO:NW4C_3_7_3_eft]
+[SDK+NINTENDO:NW4C_3_7_3_snd]
+[SDK+Mobiclip:Deblocker_2_0_4]
+[SDK+Mobiclip:MobiclipDec_2_0_4]
+[SDK+Mobiclip:MoflexDemuxer_2_0_4]
+[SDK+Nintendo:PIA_4_6_1]
+[SDK+Nintendo:PIA_COMMON_4_6_1]
+[SDK+Nintendo:PIA_LOCAL_4_6_1]
+[SDK+Nintendo:PIA_INET_4_6_1]
+[SDK+Nintendo:PIA_SESSION_4_6_1]
+[SDK+Nintendo:PIA_TRANSPORT_4_6_1]
+[SDK+Nintendo:NEX_3_8_3]
+[SDK+Nintendo:NEX_MM_3_8_3]
+[SDK+Nintendo:NEX_DS_3_8_3]
+[SDK+NINTENDO:NFP]
+[SDK+NINTENDO:IsRunningAsExtApplication]
+[SDK+Nintendo:DSPAACDec_1_0_0]
+[SDK+OSS:zlib]
+
+Fire Emblem Fates - Conquest (USA).3ds
+[SDK+NINTENDO:CTR_SDK-11_3_1_200_none]
+[SDK+NINTENDO:Firmware-02_50_00]
+[SDK+NINTENDO:IsRunOnSnake]
+[SDK+NINTENDO:NW4C_3_7_3_eft]
+[SDK+NINTENDO:NW4C_3_7_3_snd]
+[SDK+Mobiclip:Deblocker_2_0_4]
+[SDK+Mobiclip:MobiclipDec_2_0_4]
+[SDK+Mobiclip:MoflexDemuxer_2_0_4]
+[SDK+Nintendo:PIA_4_6_1]
+[SDK+Nintendo:PIA_COMMON_4_6_1]
+[SDK+Nintendo:PIA_LOCAL_4_6_1]
+[SDK+Nintendo:PIA_INET_4_6_1]
+[SDK+Nintendo:PIA_SESSION_4_6_1]
+[SDK+Nintendo:PIA_TRANSPORT_4_6_1]
+[SDK+Nintendo:NEX_3_8_3]
+[SDK+Nintendo:NEX_MM_3_8_3]
+[SDK+Nintendo:NEX_DS_3_8_3]
+[SDK+NINTENDO:NFP]
+[SDK+NINTENDO:IsRunningAsExtApplication]
+[SDK+Nintendo:DSPAACDec_1_0_0]
+[SDK+OSS:zlib]
+
+Fire Emblem Fates - Special Edition (USA).3ds
+[SDK+NINTENDO:CTR_SDK-11_3_1_200_none]
+[SDK+NINTENDO:Firmware-02_50_00]
+[SDK+NINTENDO:IsRunOnSnake]
+[SDK+NINTENDO:NW4C_3_7_3_eft]
+[SDK+NINTENDO:NW4C_3_7_3_snd]
+[SDK+Mobiclip:Deblocker_2_0_4]
+[SDK+Mobiclip:MobiclipDec_2_0_4]
+[SDK+Mobiclip:MoflexDemuxer_2_0_4]
+[SDK+Nintendo:PIA_4_6_1]
+[SDK+Nintendo:PIA_COMMON_4_6_1]
+[SDK+Nintendo:PIA_LOCAL_4_6_1]
+[SDK+Nintendo:PIA_INET_4_6_1]
+[SDK+Nintendo:PIA_SESSION_4_6_1]
+[SDK+Nintendo:PIA_TRANSPORT_4_6_1]
+[SDK+Nintendo:NEX_3_8_3]
+[SDK+Nintendo:NEX_MM_3_8_3]
+[SDK+Nintendo:NEX_DS_3_8_3]
+[SDK+NINTENDO:NFP]
+[SDK+NINTENDO:IsRunningAsExtApplication]
+[SDK+Nintendo:DSPAACDec_1_0_0]
+[SDK+OSS:zlib]
+
+Fire Emblem Warriors (USA)(N3DS).3ds
+[SDK+NINTENDO:CTR_SDK-11_5_2_200_none]
+[SDK+NINTENDO:Firmware-02_52_00]
+[SDK+NINTENDO:ExtraPad]
+[SDK+NINTENDO:NFP]
+[SDK+NINTENDO:IsRunOnSnake]
+[SDK+NINTENDO:IsRunningAsExtApplication]
+[SDK+NINTENDO:NW4C_3_7_5_snd]
+[SDK+NINTENDO:NW4C_3_7_5_lyt2]
+[SDK+Mobiclip:DspAdpcmDec_2_0_4]
+[SDK+Mobiclip:FastAudioDec_2_0_4]
+[SDK+Mobiclip:Deblocker_2_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_2_0_4]
+[SDK+Mobiclip:MobiclipDec_2_0_4]
+[SDK+Mobiclip:MoflexDemuxer_2_0_4]
+[SDK+Nintendo:DSPAACDec_1_0_0]
+[SDK+NINTENDO:Ir]
+
+
+Formula 1 2011 (USA).3ds
+[SDK+NINTENDO:CTR_SDK-2_3_4_200_none]
+[SDK+NINTENDO:Firmware-02_29_07]
+[SDK+Nintendo:NEX_2_0_0 S2]
+[SDK+Nintendo:NEX_MM_2_0_0]
+[SDK+Mobiclip:FastAudioDec_1_0_1]
+[SDK+Mobiclip:Deblocker_1_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_1]
+[SDK+Mobiclip:MobiclipDec_1_0_2]
+[SDK+Mobiclip:MoflexDemuxer_1_0_3]
+
+Fossil Fighters Frontier (USA).3ds
+[SDK+NINTENDO:CTR_SDK-4_2_8_200_none]
+[SDK+NINTENDO:Firmware-02_35_00]
+[SDK+Nintendo:PIA_2_11_1]
+[SDK+Nintendo:NARLib_1_4_1]
+[SDK+Nintendo:NEX_RK_3_4_2]
+[SDK+Nintendo:NEX_UT_3_4_2]
+[SDK+Nintendo:NEX_MM_3_4_2]
+[SDK+Nintendo:NEX_3_4_2]
+[SDK+Mobiclip:MobiclipDec_1_4_2]
+[SDK+Mobiclip:FastAudioDec_1_4_2]
+[SDK+Mobiclip:ImaAdpcmDec_1_4_2]
+[SDK+Mobiclip:DspAdpcmDec_1_4_2]
+[SDK+Mobiclip:MoflexDemuxer_1_4_2]
+[SDK+Mobiclip:Deblocker_1_4_2]
+[SDK+NINTENDO:CTRFaceLibrary-20121214]
+[SDK+BCORE:Colorbit_1_1_3]
+
+Fragrant Story (USA).3ds
+[SDK+NINTENDO:CTR_SDK-11_6_1_200_none]
+[SDK+NINTENDO:Firmware-02_54_00]
+[SDK+NINTENDO:3DVolume]
+[SDK+NINTENDO:NW4C_3_7_6_snd]
+
+
+Freakyforms Deluxe - Your Creations Alive!(USA).3ds
+[SDK+NINTENDO:CTR_SDK-3_3_1_200_none]
+[SDK+NINTENDO:Firmware-02_32_15]
+[SDK+Nintendo:NARLib_1_3_3]
+[SDK+ISP:QRDec_1_2_3]
+[SDK+ISP:QREnc_1_2_3]
+[SDK+Nintendo:PIA_1_5_0]
+
+Frogger 3D (USA).3ds
+[SDK+NINTENDO:CTR_SDK-1_3_0_200_none]
+[SDK+NINTENDO:Firmware-02_27]
+
+Funky Barn 3D (USA).3ds
+[SDK+NINTENDO:CTR_SDK-2_4_0_200_none]
+[SDK+NINTENDO:Firmware-02_30_20]
+[SDK+Nintendo:NEX_2_2_0]
+[SDK+Nintendo:NEX_RK_2_2_0]
+[SDK+Mobiclip:FastAudioDec_1_0_1]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_1]
+[SDK+Mobiclip:MobiclipDec_1_0_2]
+[SDK+Mobiclip:MoflexDemuxer_1_0_3]
+
+Gabrielles Ghostly Groove 3D (USA).3ds
+[SDK+NINTENDO:CTR_SDK-1_3_0_200_none]
+[SDK+NINTENDO:Firmware-02_27]
+[SDK+Mobiclip:FastAudioDec_1_0_0]
+[SDK+Mobiclip:Deblocker_1_0_3]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_0]
+[SDK+Mobiclip:MobiclipDec_1_0_1]
+[SDK+Mobiclip:MoflexDemuxer_1_0_3]
+
+Gardening Mama 2 - Forest Friends (USA).3ds
+[SDK+NINTENDO:CTR_SDK-5_2_2_200_none]
+[SDK+NINTENDO:Firmware-02_36_00]
+
+Garfield Kart (USA).3ds
+[SDK+NINTENDO:CTR_SDK-7_2_3_200_none]
+[SDK+NINTENDO:Firmware-02_40_01]
+[SDK+NINTENDO:3DVolume]
+
+Gem Smashers (USA).3ds
+[SDK+NINTENDO:CTR_SDK-2_3_4_200_none]
+[SDK+NINTENDO:Firmware-02_29_07]
+[SDK+Mobiclip:FastAudioDec_1_0_0]
+[SDK+Mobiclip:Deblocker_1_0_3]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_0]
+[SDK+Mobiclip:MobiclipDec_1_0_1]
+[SDK+Mobiclip:MoflexDemuxer_1_0_2]
+[SDK+Nintendo:NEX_2_0_0 S2]
+
+Generator Rex Agent of Providence (USA).3ds
+[SDK+NINTENDO:CTR_SDK-2_3_4_200_none]
+[SDK+NINTENDO:Firmware-02_29_07]
+[SDK+Mobiclip:FastAudioDec_1_0_0]
+[SDK+Mobiclip:Deblocker_1_0_3]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_0]
+[SDK+Mobiclip:MobiclipDec_1_0_1]
+[SDK+Mobiclip:MoflexDemuxer_1_0_2]
+
+Girls Fashion Shoot(USA).3ds
+[SDK+NINTENDO:CTR_SDK-4_2_1_200_none]
+[SDK+NINTENDO:Firmware-02_35_00]
+
+Go! Go! Kokopolo (USA).3ds
+[SDK+NINTENDO:CTR_SDK-11_4_0_200_none]
+[SDK+NINTENDO:Firmware-02_50_8]
+[SDK+NINTENDO:3DVolume]
+[SDK+NINTENDO:NW4C_3_7_6_snd]
+
+
+Go! Go! Kokopolo 3D (USA).3ds
+[SDK+NINTENDO:CTR_SDK-11_6_1_200_none]
+[SDK+NINTENDO:Firmware-02_54_00]
+[SDK+NINTENDO:3DVolume]
+[SDK+NINTENDO:NW4C_3_7_0_lyt2]
+[SDK+NINTENDO:NW4C_3_7_0_snd]
+[SDK+NINTENDO:NW4C_3_7_0_fnt2]
+
+Goosebumps - The Game (USA).3ds
+[SDK+NINTENDO:CTR_SDK-11_1_1_200_none]
+[SDK+NINTENDO:Firmware-02_48_04]
+[SDK+Mobiclip:FastAudioDec_1_5_4]
+[SDK+Mobiclip:Deblocker_1_5_4]
+[SDK+Mobiclip:ImaAdpcmDec_1_5_4]
+[SDK+Mobiclip:MobiclipDec_1_5_4]
+[SDK+Mobiclip:MoflexDemuxer_1_5_4]
+
+Gravity Falls Legend of the Gnome Gemulets (USA).3ds
+[SDK+NINTENDO:CTR_SDK-11_1_1_200_none]
+[SDK+NINTENDO:Firmware-02_48_04]
+[SDK+Mobiclip:FastAudioDec_2_0_4]
+[SDK+Mobiclip:Deblocker_2_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_2_0_4]
+[SDK+Mobiclip:MobiclipDec_2_0_4]
+[SDK+Mobiclip:MoflexDemuxer_2_0_4]
+
+
+Green Lantern Rise of the Manhunters (USA).3ds
+[SDK+NINTENDO:CTR_SDK-1_0_0_200_none]
+[SDK+NINTENDO:Firmware-02_27]
+
+Hakuoki - Memories of the Shinsengumi (USA).3ds
+[SDK+NINTENDO:CTR_SDK-4_2_5_200_none]
+[SDK+NINTENDO:Firmware-02_35_00]
+[SDK+Mobiclip:FastAudioDec_1_4_2]
+[SDK+Mobiclip:Deblocker_1_4_2]
+[SDK+Mobiclip:ImaAdpcmDec_1_4_2]
+[SDK+Mobiclip:MobiclipDec_1_4_2]
+[SDK+Mobiclip:MoflexDemuxer_1_4_2]
+
+Happy Feet Two (USA).3ds
+[SDK+NINTENDO:CTR_SDK-1_3_0_200_none]
+[SDK+NINTENDO:Firmware-02_27]
+
+Harvest Moon - Skytree Village (USA).3ds
+[SDK+NINTENDO:CTR_SDK-11_4_0_200_none]
+[SDK+NINTENDO:Firmware-02_50_8]
+[SDK+NINTENDO:NW4C_3_7_4_eft]
+[SDK+NINTENDO:NW4C_3_7_4_lyt2]
+[SDK+NINTENDO:NW4C_3_7_4_snd]
+[SDK+NINTENDO:NW4C_3_7_4_fnt2]
+
+
+Harvest Moon 3D - The Lost Valley (USA).3ds
+[SDK+NINTENDO:CTR_SDK-7_2_1_200_none]
+[SDK+NINTENDO:Firmware-02_40_01]
+[SDK+NINTENDO:NW4C_3_4_1_eft]
+[SDK+NINTENDO:NW4C_3_4_1_lyt2]
+[SDK+NINTENDO:NW4C_3_4_1_snd]
+[SDK+NINTENDO:NW4C_3_4_1_fnt2]
+
+
+Harvest Moon 3D - The Tale of Two Towns (v02)(USA).3ds
+[SDK+NINTENDO:CTR_SDK-2_3_4_200_none]
+[SDK+NINTENDO:Firmware-02_29_07]
+[SDK+Mobiclip:FastAudioDec_1_0_1]
+[SDK+Mobiclip:Deblocker_1_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_1]
+[SDK+Mobiclip:MobiclipDec_1_0_2]
+[SDK+Mobiclip:MoflexDemuxer_1_0_3]
+[SDK+Nintendo:NEX_MM_2_1_2]
+[SDK+Nintendo:NEX_2_1_2]
+
+Harvest Moon 3D A New Beginning (USA).3ds
+[SDK+NINTENDO:CTR_SDK-2_4_2_200_none]
+[SDK+NINTENDO:Firmware-02_30_20]
+[SDK+Mobiclip:FastAudioDec_1_0_1]
+[SDK+Mobiclip:Deblocker_1_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_1]
+[SDK+Mobiclip:MobiclipDec_1_0_2]
+[SDK+Mobiclip:MoflexDemuxer_1_1_0]
+[SDK+Nintendo:NEX_MM_2_3_4]
+[SDK+Nintendo:NEX_2_3_4_S24]
+
+Harvest Moon 3D The Tale of Two Towns (USA).3ds
+[SDK+NINTENDO:CTR_SDK-2_3_4_200_none]
+[SDK+NINTENDO:Firmware-02_29_07]
+[SDK+Mobiclip:FastAudioDec_1_0_1]
+[SDK+Mobiclip:Deblocker_1_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_1]
+[SDK+Mobiclip:MobiclipDec_1_0_2]
+[SDK+Mobiclip:MoflexDemuxer_1_0_3]
+[SDK+Nintendo:NEX_MM_2_1_2]
+[SDK+Nintendo:NEX_2_1_2]
+
+Hatsune Miku - Project Mirai DX (USA).3ds
+[SDK+NINTENDO:CTR_SDK-10_1_0_200_none]
+[SDK+NINTENDO:Firmware-02_46_01]
+[SDK+NINTENDO:CameraActivate]
+[SDK+NINTENDO:CameraInitialize]
+[SDK+NINTENDO:Gyroscope]
+[SDK+NINTENDO:IsRunningAsExtApplication]
+[SDK+Nintendo:NARLib_2_0_1]
+[SDK+Mobiclip:FastAudioDec_2_0_3]
+[SDK+Mobiclip:Deblocker_2_0_3]
+[SDK+Mobiclip:ImaAdpcmDec_2_0_3]
+[SDK+Mobiclip:MobiclipDec_2_0_3]
+[SDK+Mobiclip:MoflexDemuxer_2_0_3]
+[SDK+Mobiclip:MoCam_2_0_3]
+[SDK+Nintendo:PIA_LOCAL_4_4_0]
+[SDK+Nintendo:PIA_4_4_0]
+[SDK+Nintendo:PIA_COMMON_4_4_0]
+[SDK+Nintendo:PIA_SESSION_4_4_0]
+[SDK+Nintendo:PIA_TRANSPORT_4_4_0]
+[SDK+PUX:ASR_2_0_1]
+
+Heavy Fire - The Chosen Few 3D (USA).3ds
+[SDK+NINTENDO:CTR_SDK-2_4_2_200_none]
+[SDK+NINTENDO:Firmware-02_30_20]
+
+Hello Kitty and Sanrio Friends 3D Racing (USA).3ds
+[SDK+NINTENDO:CTR_SDK-7_2_1_200_none]
+[SDK+NINTENDO:Firmware-02_40_01]
+[SDK+NINTENDO:3DVolume]
+
+Hello Kitty Picnic with Sanrio Friends (rev01)(USA).3ds
+[SDK+NINTENDO:CTR_SDK-4_2_3_200_none]
+[SDK+NINTENDO:Firmware-02_35_00]
+[SDK+Nintendo:NEX_2_3_4_S24]
+[SDK+Nintendo:NEX_MM_2_3_4]
+
+Hello Kitty Picnic with Sanrio Friends (USA).3ds
+[SDK+NINTENDO:CTR_SDK-4_2_3_200_none]
+[SDK+NINTENDO:Firmware-02_35_00]
+[SDK+Nintendo:NEX_2_3_4_S24]
+[SDK+Nintendo:NEX_MM_2_3_4]
+
+Heroes of Ruin (USA).3ds
+[SDK+NINTENDO:CTR_SDK-3_3_0_200_none]
+[SDK+NINTENDO:Firmware-02_32_15]
+[SDK+Nintendo:NEX_MM_2_6_0]
+[SDK+Nintendo:NEX_MS_2_6_0]
+[SDK+Nintendo:NEX_2_6_0_S32]
+[SDK+Nintendo:CTR_VCT 1.4.1]
+[SDK+ISP:QRDec_1_1_0]
+[SDK+Nintendo:PIA_1_3_1]
+
+Hey! Pikmin (USA)(M3).3ds
+[SDK+NINTENDO:CTR_SDK-11_4_0_200_none]
+[SDK+NINTENDO:Firmware-02_50_8]
+[SDK+NINTENDO:NW4C_3_7_5_fnt2]
+[SDK+NINTENDO:IsRunOnSnake]
+[SDK+NINTENDO:NFP]
+[SDK+NINTENDO:NW4C_3_7_5_lyt2]
+[SDK+NINTENDO:NW4C_3_7_5_eft]
+[SDK+NINTENDO:NW4C_3_7_5_snd]
+[SDK+NINTENDO:NW4C_3_7_4_GFX1]
+
+Hometown Story (USA).3ds
+[SDK+NINTENDO:CTR_SDK-5_2_1_200_none]
+[SDK+NINTENDO:Firmware-02_36_00]
+
+Horses 3D (USA).3ds
+[SDK+NINTENDO:CTR_SDK-2_3_4_200_none]
+[SDK+NINTENDO:Firmware-02_29_07]
+[SDK+Mobiclip:FastAudioDec_1_0_0]
+[SDK+Mobiclip:Deblocker_1_0_3]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_0]
+[SDK+Mobiclip:MobiclipDec_1_0_1]
+[SDK+Mobiclip:MoflexDemuxer_1_0_2]
+
+Hot Wheels - Worlds Best Driver (USA).3ds
+[SDK+NINTENDO:CTR_SDK-4_2_5_200_none]
+[SDK+NINTENDO:Firmware-02_35_00]
+
+Hotel Transylvania (USA)(M3).3ds
+[SDK+NINTENDO:CTR_SDK-3_3_2_200_none]
+[SDK+NINTENDO:Firmware-02_32_15]
+
+Hotel Transylvania (USA).3ds
+[SDK+NINTENDO:CTR_SDK-4_2_3_200_none]
+[SDK+NINTENDO:Firmware-02_35_00]
+
+How to Train Your Dragon 2 (USA).3ds
+[SDK+NINTENDO:CTR_SDK-5_2_1_200_none]
+[SDK+NINTENDO:Firmware-02_36_00]
+
+Hyrule Warriors Legends (USA).3ds
+[SDK+NINTENDO:CTR_SDK-11_3_1_200_none]
+[SDK+NINTENDO:Firmware-02_50_00]
+[SDK+NINTENDO:ExtraPad]
+[SDK+NINTENDO:NFP]
+[SDK+NINTENDO:IsRunOnSnake]
+[SDK+NINTENDO:IsRunningAsExtApplication]
+[SDK+Nintendo:NEX_DS_3_9_1]
+[SDK+Nintendo:NEX_3_9_1]
+[SDK+NINTENDO:NW4C_3_7_3_snd]
+[SDK+NINTENDO:NW4C_3_7_3_lyt2]
+[SDK+Mobiclip:DspAdpcmDec_2_0_3]
+[SDK+Mobiclip:FastAudioDec_2_0_3]
+[SDK+Mobiclip:Deblocker_2_0_3]
+[SDK+Mobiclip:ImaAdpcmDec_2_0_3]
+[SDK+Mobiclip:MobiclipDec_2_0_3]
+[SDK+Mobiclip:MoflexDemuxer_2_0_3]
+[SDK+Nintendo:DSPAACDec_1_0_0]
+[SDK+OSS:zlib]
+[SDK+NINTENDO:Ir]
+[SDK+Nintendo:NEX_MM_3_9_1]
+[SDK+Nintendo:PIA_4_8_0]
+[SDK+Nintendo:PIA_COMMON_4_8_0]
+[SDK+Nintendo:PIA_LOCAL_4_8_0]
+[SDK+Nintendo:NEX_RK_3_9_1]
+[SDK+Nintendo:NEX_UT_3_9_1]
+[SDK+Nintendo:PIA_INET_4_8_0]
+[SDK+Nintendo:PIA_SESSION_4_8_0]
+[SDK+Nintendo:PIA_TRANSPORT_4_8_0]
+
+
+Ice Age - Continental Drift - Arctic Games (USA).3ds
+[SDK+NINTENDO:CTR_SDK-2_4_2_200_none]
+[SDK+NINTENDO:Firmware-02_30_20]
+
+Imagine - Fashion Life (USA).3ds
+[SDK+NINTENDO:CTR_SDK-3_3_3_200_none]
+[SDK+NINTENDO:Firmware-02_32_15]
+[SDK+Mobiclip:FastAudioDec_1_0_1]
+[SDK+Mobiclip:Deblocker_1_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_1]
+[SDK+Mobiclip:MobiclipDec_1_0_2]
+[SDK+Mobiclip:MoflexDemuxer_1_1_0]
+
+Imagine Babyz(USA).3ds
+[SDK+NINTENDO:CTR_SDK-2_4_2_200_none]
+[SDK+NINTENDO:Firmware-02_30_20]
+[SDK+Mobiclip:FastAudioDec_1_0_1]
+[SDK+Mobiclip:Deblocker_1_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_1]
+[SDK+Mobiclip:MobiclipDec_1_0_2]
+[SDK+Mobiclip:MoflexDemuxer_1_1_0]
+[SDK+Panasonic:ASR_1_0_3]
+
+Imagine Fashion Designer (USA).3ds
+[SDK+NINTENDO:CTR_SDK-1_3_0_200_none]
+[SDK+NINTENDO:Firmware-02_27]
+[SDK+Mobiclip:FastAudioDec_1_0_0]
+[SDK+Mobiclip:Deblocker_1_0_2]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_0]
+[SDK+Mobiclip:MobiclipDec_1_0_1]
+[SDK+Mobiclip:MoflexDemuxer_1_0_2]
+
+Jake Hunter Detective Story - Ghost of the Dusk (USA).3ds
+[SDK+NINTENDO:CTR_SDK-11_5_1_200_none]
+[SDK+NINTENDO:Firmware-02_51_02]
+[SDK+Mobiclip:DspAdpcmDec_2_0_4]
+[SDK+Mobiclip:FastAudioDec_2_0_4]
+[SDK+Mobiclip:Deblocker_2_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_2_0_4]
+[SDK+Mobiclip:MobiclipDec_2_0_4]
+[SDK+Mobiclip:MoflexDemuxer_2_0_4]
+[SDK+NINTENDO:NW4C_3_7_5_snd]
+
+
+James Noirs Hollywood Crimes (USA).3ds
+[SDK+NINTENDO:CTR_SDK-1_0_0_200_none]
+[SDK+NINTENDO:Firmware-02_27]
+[SDK+Panasonic:HWR_1_0_2]
+
+JAWS Ultimate Predator (USA).3ds
+[SDK+NINTENDO:CTR_SDK-2_3_4_200_none]
+[SDK+NINTENDO:Firmware-02_29_07]
+
+Jewel Master - Cradle of Egypt 2 3D(USA).3ds
+[SDK+NINTENDO:CTR_SDK-4_2_3_200_none]
+[SDK+NINTENDO:Firmware-02_35_00]
+
+Jewel Master - Cradle of Rome 2(USA).3ds
+[SDK+NINTENDO:CTR_SDK-2_4_2_200_none]
+[SDK+NINTENDO:Firmware-02_30_20]
+
+Junior Classic Games 3D (USA).3ds
+[SDK+NINTENDO:CTR_SDK-2_4_2_200_none]
+[SDK+NINTENDO:Firmware-02_30_20]
+
+Kid Icarus Uprising (USA).3ds
+[SDK+NINTENDO:CTR_SDK-3_2_5_200_DspSndSync]
+[SDK+NINTENDO:Firmware-02_32_14]
+[SDK+Mobiclip:MoflexDemuxer_1_1_0]
+[SDK+Nintendo:NEX_MM_2_6_0]
+[SDK+Nintendo:NEX_2_6_0_AKD]
+[SDK+BCORE:Colorbit_1_0_0]
+[SDK+Mobiclip:FastAudioDec_1_0_1]
+[SDK+Mobiclip:Deblocker_1_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_1]
+[SDK+Mobiclip:MobiclipDec_1_0_2]
+[SDK+Nintendo:NARLib_1_1_0]
+
+Kingdom Hearts 3D - Dream Drop Distance (USA).3ds
+[SDK+NINTENDO:CTR_SDK-3_3_2_200_none]
+[SDK+NINTENDO:Firmware-02_32_15]
+[SDK+Mobiclip:FastAudioDec_1_0_1]
+[SDK+Mobiclip:Deblocker_1_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_1]
+[SDK+Mobiclip:MobiclipDec_1_0_2]
+[SDK+Mobiclip:MoflexDemuxer_1_1_1]
+[SDK+Nintendo:NARLib_1_3_3]
+
+Kirby - Planet Robobot (USA).3ds
+[SDK+NINTENDO:CTR_SDK-11_3_0_200_none]
+[SDK+NINTENDO:Firmware-02_50_00]
+[SDK+NINTENDO:NW4C_3_7_1_lyt1]
+[SDK+NINTENDO:Gyroscope]
+[SDK+NINTENDO:NW4C_3_1_0_snd]
+[SDK+NINTENDO:ExtraPad]
+[SDK+NINTENDO:NFP]
+[SDK+NINTENDO:IsRunOnSnake]
+[SDK+NINTENDO:NW4C_3_7_1_fnt1]
+[SDK+Nintendo:PIA_4_7_0]
+[SDK+Nintendo:PIA_COMMON_4_7_0]
+[SDK+Nintendo:PIA_LOCAL_4_7_0]
+[SDK+Nintendo:PIA_SESSION_4_7_0]
+[SDK+Nintendo:PIA_SYNC_4_7_0]
+[SDK+Nintendo:PIA_TRANSPORT_4_7_0]
+[SDK+NINTENDO:CTRFaceLibrary-20141210]
+[SDK+OSS:zlib]
+[SDK+NINTENDO:Ir]
+[SDK+NINTENDO:IsRunningAsExtApplication]
+[SDK+Mobiclip:FastAudioDec_2_0_4]
+[SDK+Mobiclip:Deblocker_2_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_2_0_4]
+[SDK+Mobiclip:MobiclipDec_2_0_4]
+[SDK+Mobiclip:MoflexDemuxer_2_0_4]
+[SDK+NINTENDO:NW4C_3_7_1_eft]
+
+Kirby Battle Royale (USA).3ds
+[SDK+NINTENDO:CTR_SDK-11_5_2_200_none]
+[SDK+NINTENDO:Firmware-02_52_00]
+[SDK+NINTENDO:IsRunOnSnake]
+[SDK+NINTENDO:NW4C_3_7_5_lyt2]
+[SDK+NINTENDO:NW4C_3_7_5_snd]
+[SDK+Nintendo:DSPAACDec_1_0_0]
+[SDK+Nintendo:NEX_4_1_1]
+[SDK+NINTENDO:NFP]
+[SDK+Nintendo:NEX_DS_4_1_1]
+[SDK+Nintendo:NEX_UT_4_1_1]
+[SDK+OSS:zlib]
+[SDK+NINTENDO:NW4C_3_7_5_fnt2]
+[SDK+Nintendo:PIA_5_3_2]
+[SDK+Nintendo:PIA_COMMON_5_3_2]
+[SDK+Nintendo:PIA_LOCAL_5_3_2]
+[SDK+Nintendo:PIA_SESSION_5_3_2]
+[SDK+Nintendo:PIA_SYNC_5_3_2]
+[SDK+Nintendo:PIA_TRANSPORT_5_3_2]
+[SDK+NINTENDO:IsRunningAsExtApplication]
+[SDK+Nintendo:NEX_MM_4_1_1]
+[SDK+Nintendo:PIA_INET_5_3_2]
+[SDK+Mobiclip:FastAudioDec_2_0_4]
+[SDK+Mobiclip:Deblocker_2_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_2_0_4]
+[SDK+Mobiclip:MobiclipDec_2_0_4]
+[SDK+Mobiclip:MoflexDemuxer_2_0_4]
+[SDK+NINTENDO:NW4C_3_7_5_eft]
+
+Kirby Triple Deluxe 3DS (USA) .3ds
+[SDK+NINTENDO:CTR_SDK-5_2_1_200_none]
+[SDK+NINTENDO:Firmware-02_36_00]
+[SDK+Nintendo:PIA_3_1_0]
+[SDK+NINTENDO:CTRFaceLibrary-20130627]
+[SDK+Mobiclip:FastAudioDec_1_5_2]
+[SDK+Mobiclip:Deblocker_1_5_2]
+[SDK+Mobiclip:ImaAdpcmDec_1_5_2]
+[SDK+Mobiclip:MobiclipDec_1_5_2]
+[SDK+Mobiclip:MoflexDemuxer_1_5_2]
+
+Kung Fu Panda - Showdown of Legendary Legends (USA)(En).3ds
+[SDK+NINTENDO:CTR_SDK-11_1_1_200_none]
+[SDK+NINTENDO:Firmware-02_48_04]
+
+Lalaloopsy - Carnival of Friends (USA).3ds
+[SDK+NINTENDO:CTR_SDK-3_3_2_200_none]
+[SDK+NINTENDO:Firmware-02_32_15]
+
+Langrisser Re - Incarnation -TENSEI- (USA).3ds
+[SDK+NINTENDO:CTR_SDK-10_1_1_200_none]
+[SDK+NINTENDO:Firmware-02_46_01]
+[SDK+NINTENDO:NW4C_3_5_3_eft]
+[SDK+NINTENDO:NW4C_3_5_3_lyt2]
+[SDK+Mobiclip:MobiclipDec_2_0_3]
+[SDK+Mobiclip:FastAudioDec_2_0_3]
+[SDK+Mobiclip:ImaAdpcmDec_2_0_3]
+[SDK+Mobiclip:DspAdpcmDec_2_0_3]
+[SDK+Mobiclip:MoflexDemuxer_2_0_3]
+[SDK+Mobiclip:Deblocker_2_0_3]
+[SDK+NINTENDO:NW4C_3_5_3_fnt2]
+
+
+Layton's Mystery Journey - Katrielle and the Millionaires' Conspiracy (USA)(M3).3ds
+[SDK+NINTENDO:CTR_SDK-11_4_0_200_none]
+[SDK+NINTENDO:Firmware-02_50_8]
+[SDK+NINTENDO:RO]
+[SDK+Mobiclip:Deblocker_2_0_4]
+[SDK+Mobiclip:MobiclipDec_2_0_4]
+[SDK+Mobiclip:MoflexDemuxer_2_0_4]
+[SDK+Mobiclip:FastAudioDec_2_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_2_0_4]
+[SDK+PUX:HWR_2_0_1]
+
+
+LBX - Little Battlers eXperience (USA)(En,Fr,Es).3ds
+[SDK+NINTENDO:CTR_SDK-3_3_1_200_none]
+[SDK+NINTENDO:Firmware-02_32_15]
+[SDK+Mobiclip:Deblocker_1_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_1]
+[SDK+Mobiclip:MobiclipDec_1_0_2]
+[SDK+Mobiclip:MoflexDemuxer_1_1_1]
+
+Legend of Korra - A New Era Begins, The (USA).3ds
+[SDK+NINTENDO:CTR_SDK-5_2_3_200_none]
+[SDK+NINTENDO:Firmware-02_36_00]
+
+Legend of Legacy, The (USA).3ds
+[SDK+NINTENDO:CTR_SDK-9_12_0_200_none]
+[SDK+NINTENDO:Firmware-02_45_02]
+[SDK+Mobiclip:DspAdpcmDec_1_5_3]
+[SDK+Mobiclip:FastAudioDec_1_5_3]
+[SDK+Mobiclip:Deblocker_1_5_3]
+[SDK+Mobiclip:ImaAdpcmDec_1_5_3]
+[SDK+Mobiclip:MobiclipDec_1_5_3]
+[SDK+Mobiclip:MoflexDemuxer_1_5_3]
+
+
+Legend of Zelda - Majora's Mask 3D, The (v01) (USA).3ds
+[SDK+NINTENDO:CTR_SDK-7_1_1_200_none]
+[SDK+NINTENDO:Firmware-02_39_00]
+[SDK+NINTENDO:ExtraPad]
+[SDK+NINTENDO:Gyroscope]
+[SDK+NINTENDO:NW4C_3_3_0_snd]
+[SDK+Mobiclip:Deblocker_1_5_4]
+[SDK+Mobiclip:MobiclipDec_1_5_4]
+[SDK+Mobiclip:MoflexDemuxer_1_5_4]
+[SDK+NINTENDO:Ir]
+
+
+Legend of Zelda - Ocarina of Time 3D, The (USA) (En,Fr,Es) (Rev 1).3ds
+[SDK+NINTENDO:CTR_SDK-1_2_0_200_none]
+[SDK+NINTENDO:Firmware-02_27]
+[SDK+Mobiclip:Deblocker_1_0_3]
+[SDK+Mobiclip:MobiclipDec_1_0_1]
+[SDK+Mobiclip:MoflexDemuxer_1_0_2]
+
+Legend of Zelda - TriForce Heroes, The (USA)(En).3ds
+[SDK+NINTENDO:CTR_SDK-11_3_0_200_none]
+[SDK+NINTENDO:Firmware-02_50_00]
+[SDK+Nintendo:NEX_3_9_1]
+[SDK+Nintendo:PIA_4_8_0]
+[SDK+Nintendo:PIA_COMMON_4_8_0]
+[SDK+Nintendo:PIA_INET_4_8_0]
+[SDK+Nintendo:PIA_LOCAL_4_8_0]
+[SDK+Nintendo:PIA_SESSION_4_8_0]
+[SDK+Nintendo:PIA_SYNC_4_8_0]
+[SDK+Nintendo:PIA_TRANSPORT_4_8_0]
+[SDK+NINTENDO:ExtraPad]
+[SDK+NINTENDO:SoundVolume]
+[SDK+NINTENDO:IsRunOnSnake]
+[SDK+NINTENDO:NW4C_3_7_1_eft]
+[SDK+NINTENDO:NW4C_3_7_1_lyt2]
+[SDK+NINTENDO:NW4C_3_7_1_snd]
+[SDK+Nintendo:NEX_MM_3_9_1]
+[SDK+NINTENDO:IsRunningAsExtApplication]
+[SDK+NINTENDO:NW4C_3_7_1_fnt2]
+[SDK+NINTENDO:Ir]
+[SDK+OSS:zlib]
+
+Legends of Oz - Dorothys Return (USA).3ds
+[SDK+NINTENDO:CTR_SDK-5_2_2_200_none]
+[SDK+NINTENDO:Firmware-02_36_00]
+[SDK+Mobiclip:MobiclipDec_1_5_0]
+[SDK+Mobiclip:FastAudioDec_1_5_0]
+[SDK+Mobiclip:ImaAdpcmDec_1_5_0]
+[SDK+Mobiclip:DspAdpcmDec_1_5_0]
+[SDK+Mobiclip:Deblocker_1_5_0]
+[SDK+Mobiclip:MoflexDemuxer_1_5_0]
+
+LEGO Batman 2 DC Super Heroes (USA).3ds
+[SDK+NINTENDO:CTR_SDK-2_4_2_200_none]
+[SDK+NINTENDO:Firmware-02_30_20]
+[SDK+Mobiclip:Deblocker_1_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_1]
+[SDK+Mobiclip:MobiclipDec_1_0_2]
+[SDK+Mobiclip:MoflexDemuxer_1_1_0]
+
+LEGO Batman 3 - Beyond Gotham (USA) (En,Fr,Es,Pt).3ds
+[SDK+NINTENDO:CTR_SDK-7_1_1_200_none]
+[SDK+NINTENDO:Firmware-02_39_00]
+[SDK+Mobiclip:Deblocker_1_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_1]
+[SDK+Mobiclip:MobiclipDec_1_0_2]
+[SDK+Mobiclip:MoflexDemuxer_1_1_0]
+
+LEGO City Undercover The Chase Begins (USA).3ds
+[SDK+NINTENDO:CTR_SDK-4_2_3_200_none]
+[SDK+NINTENDO:Firmware-02_35_00]
+[SDK+Mobiclip:Deblocker_1_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_1]
+[SDK+Mobiclip:MobiclipDec_1_0_2]
+[SDK+Mobiclip:MoflexDemuxer_1_1_0]
+
+LEGO Friends(USA).3ds
+[SDK+NINTENDO:CTR_SDK-4_2_6_200_none]
+[SDK+NINTENDO:Firmware-02_35_00]
+[SDK+Mobiclip:Deblocker_1_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_1]
+[SDK+Mobiclip:MobiclipDec_1_0_2]
+[SDK+Mobiclip:MoflexDemuxer_1_1_0]
+
+LEGO Harry Potter - Years 5-7 (USA).3ds
+[SDK+NINTENDO:CTR_SDK-2_3_4_200_none]
+[SDK+NINTENDO:Firmware-02_29_07]
+[SDK+Mobiclip:Deblocker_1_0_3]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_0]
+[SDK+Mobiclip:MobiclipDec_1_0_1]
+[SDK+Mobiclip:MoflexDemuxer_1_0_2]
+
+LEGO Jurassic World (USA).3ds
+[SDK+NINTENDO:CTR_SDK-7_2_2_200_none]
+[SDK+NINTENDO:Firmware-02_40_01]
+[SDK+Mobiclip:Deblocker_1_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_1]
+[SDK+Mobiclip:MobiclipDec_1_0_2]
+[SDK+Mobiclip:MoflexDemuxer_1_1_0]
+
+LEGO Legends of Chima - Lavals Journey(USA).3ds
+[SDK+NINTENDO:CTR_SDK-4_2_5_200_none]
+[SDK+NINTENDO:Firmware-02_35_00]
+[SDK+Mobiclip:Deblocker_1_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_1]
+[SDK+Mobiclip:MobiclipDec_1_0_2]
+[SDK+Mobiclip:MoflexDemuxer_1_1_0]
+
+LEGO Marvel Avengers (USA) (En,Fr,Es,Pt).3ds
+[SDK+NINTENDO:CTR_SDK-11_1_1_200_none]
+[SDK+NINTENDO:Firmware-02_48_04]
+[SDK+Mobiclip:Deblocker_1_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_1]
+[SDK+Mobiclip:MobiclipDec_1_0_2]
+[SDK+Mobiclip:MoflexDemuxer_1_1_0]
+[SDK+Nintendo:DSPAACDec_1_0_0]
+
+LEGO Marvel Super Heroes - Universe in Peril (USA).3ds
+[SDK+NINTENDO:CTR_SDK-4_2_5_200_none]
+[SDK+NINTENDO:Firmware-02_35_00]
+[SDK+Mobiclip:Deblocker_1_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_1]
+[SDK+Mobiclip:MobiclipDec_1_0_2]
+[SDK+Mobiclip:MoflexDemuxer_1_1_0]
+
+LEGO Ninjago Nindroids (USA).3ds
+[SDK+NINTENDO:CTR_SDK-5_2_3_200_none]
+[SDK+NINTENDO:Firmware-02_36_00]
+[SDK+Mobiclip:Deblocker_1_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_1]
+[SDK+Mobiclip:MobiclipDec_1_0_2]
+[SDK+Mobiclip:MoflexDemuxer_1_1_0]
+
+LEGO Ninjago Shadow of Ronin (USA).3ds
+[SDK+NINTENDO:CTR_SDK-7_2_2_200_none]
+[SDK+NINTENDO:Firmware-02_40_01]
+[SDK+Mobiclip:Deblocker_1_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_1]
+[SDK+Mobiclip:MobiclipDec_1_0_2]
+[SDK+Mobiclip:MoflexDemuxer_1_1_0]
+
+LEGO Pirates of the Caribbean - The Video Game (v01)(USA)(M3).3ds
+[SDK+NINTENDO:CTR_SDK-1_2_0_200_none]
+[SDK+NINTENDO:Firmware-02_27]
+[SDK+Mobiclip:Deblocker_1_0_2]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_0]
+[SDK+Mobiclip:MobiclipDec_1_0_1]
+[SDK+Mobiclip:MoflexDemuxer_1_0_2]
+
+LEGO Pirates of The Caribbean The Video Game (USA).3ds
+[SDK+NINTENDO:CTR_SDK-0_14_23_200_none]
+[SDK+NINTENDO:Firmware-02_27]
+[SDK+Mobiclip:Deblocker_1_0_2]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_0]
+[SDK+Mobiclip:MobiclipDec_1_0_1]
+[SDK+Mobiclip:MoflexDemuxer_1_0_2]
+
+LEGO Star Wars - The Force Awakens (USA).3ds
+[SDK+NINTENDO:CTR_SDK-11_3_1_200_none]
+[SDK+NINTENDO:Firmware-02_50_00]
+[SDK+Mobiclip:Deblocker_1_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_1]
+[SDK+Mobiclip:MobiclipDec_1_0_2]
+[SDK+Mobiclip:MoflexDemuxer_1_1_0]
+[SDK+Nintendo:DSPAACDec_1_0_0]
+
+LEGO Star Wars III - The Clone Wars (USA).3ds
+[SDK+NINTENDO:CTR_SDK-0_14_23_200_none]
+[SDK+NINTENDO:Firmware-02_27]
+[SDK+Mobiclip:Deblocker_1_0_2]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_0]
+[SDK+Mobiclip:MobiclipDec_1_0_1]
+[SDK+Mobiclip:MoflexDemuxer_1_0_2]
+
+LEGO The Hobbit (USA).3ds
+[SDK+NINTENDO:CTR_SDK-5_2_3_200_none]
+[SDK+NINTENDO:Firmware-02_36_00]
+[SDK+Mobiclip:Deblocker_1_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_1]
+[SDK+Mobiclip:MobiclipDec_1_0_2]
+[SDK+Mobiclip:MoflexDemuxer_1_1_0]
+
+LEGO The Lord of the Rings (USA) .3ds
+[SDK+NINTENDO:CTR_SDK-3_3_2_200_none]
+[SDK+NINTENDO:Firmware-02_32_15]
+[SDK+Mobiclip:Deblocker_1_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_1]
+[SDK+Mobiclip:MobiclipDec_1_0_2]
+[SDK+Mobiclip:MoflexDemuxer_1_1_0]
+
+Lets Ride! Best in Breed 3D (USA).3ds
+[SDK+NINTENDO:CTR_SDK-2_3_4_200_none]
+[SDK+NINTENDO:Firmware-02_29_07]
+[SDK+Nintendo:NARLib_1_1_0]
+
+Lord of Magna Maiden Heaven (USA).3ds
+[SDK+NINTENDO:CTR_SDK-5_2_3_200_none]
+[SDK+NINTENDO:Firmware-02_36_00]
+[SDK+Mobiclip:MobiclipDec_1_4_2]
+[SDK+Mobiclip:FastAudioDec_1_4_2]
+[SDK+Mobiclip:ImaAdpcmDec_1_4_2]
+[SDK+Mobiclip:DspAdpcmDec_1_4_2]
+[SDK+Mobiclip:MoflexDemuxer_1_4_2]
+[SDK+Mobiclip:Deblocker_1_4_2]
+
+Luigis Mansion (USA).3ds
+[SDK+NINTENDO:CTR_SDK-11_5_2_200_none]
+[SDK+NINTENDO:Firmware-02_52_00]
+[SDK+NINTENDO:Gyroscope]
+[SDK+NINTENDO:NFP]
+[SDK+NINTENDO:IsRunOnSnake]
+[SDK+NINTENDO:NW4C_3_7_6_snd]
+[SDK+NINTENDO:ExtraPad]
+[SDK+Nintendo:PIA_5_4_3]
+[SDK+Nintendo:PIA_COMMON_5_4_3]
+[SDK+Nintendo:PIA_LOCAL_5_4_3]
+[SDK+Nintendo:PIA_SESSION_5_4_3]
+[SDK+Nintendo:PIA_SYNC_5_4_3]
+[SDK+Nintendo:PIA_TRANSPORT_5_4_3]
+[SDK+NINTENDO:IsRunningAsExtApplication]
+[SDK+NINTENDO:Ir]
+[SDK+OSS:zlib]
+
+
+Luigis Mansion Dark Moon (USA).3ds
+[SDK+NINTENDO:CTR_SDK-4_2_3_200_none]
+[SDK+NINTENDO:Firmware-02_35_00]
+[SDK+Nintendo:NEX_MM_3_1_0]
+[SDK+Nintendo:NEX_3_1_0]
+
+Madagascar 3 (USA).3ds
+[SDK+NINTENDO:CTR_SDK-2_4_2_200_none]
+[SDK+NINTENDO:Firmware-02_30_20]
+
+Madden NFL Football (USA).3ds
+[SDK+NINTENDO:CTR_SDK-0_14_23_200_none]
+[SDK+NINTENDO:Firmware-02_27]
+[SDK+Mobiclip:FastAudioDec_1_0_0]
+[SDK+Mobiclip:Deblocker_1_0_2]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_0]
+[SDK+Mobiclip:MobiclipDec_1_0_1]
+[SDK+Mobiclip:MoflexDemuxer_1_0_2]
+
+Mahjong 3D - Warriors of the Emperor(USA).3ds
+[SDK+NINTENDO:CTR_SDK-2_3_4_200_none]
+[SDK+NINTENDO:Firmware-02_29_07]
+
+Mahjong Cub3d (USA).3ds
+[SDK+NINTENDO:CTR_SDK-0_14_23_200_none]
+[SDK+NINTENDO:Firmware-02_27]
+[SDK+Mobiclip:MobiclipDec_1_0_1]
+[SDK+Mobiclip:FastAudioDec_1_0_0]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_0]
+[SDK+Mobiclip:MoflexDemuxer_1_0_2]
+[SDK+Mobiclip:Deblocker_1_0_3]
+
+Mario & Luigi - Bowser's Inside Story   Bowser Jr.'s Journey (USA).3ds
+[SDK+NINTENDO:CTR_SDK-11_6_0_200_none]
+[SDK+NINTENDO:Firmware-02_54_00]
+[SDK+NINTENDO:NW4C_3_7_6_fnt2]
+[SDK+NINTENDO:NW4C_3_7_6_lyt2]
+[SDK+NINTENDO:ExtraPad]
+[SDK+NINTENDO:NFP]
+[SDK+NINTENDO:IsRunOnSnake]
+[SDK+NINTENDO:RO]
+[SDK+NINTENDO:NW4C_3_7_6_eft]
+[SDK+NINTENDO:NW4C_3_7_6_snd]
+[SDK+Nintendo:DSPAACDec_1_0_0]
+[SDK+NINTENDO:Ir]
+
+[SDK+NINTENDO:NW4C_3_7_6_GFX1]
+
+
+Mario & Luigi - Dream Team (USA).3ds
+[SDK+NINTENDO:CTR_SDK-4_2_5_200_none]
+[SDK+NINTENDO:Firmware-02_35_00]
+[SDK+NINTENDO:RO]
+
+Mario & Luigi - Dream Team (v01)(USA)(M3).3ds
+[SDK+NINTENDO:CTR_SDK-4_2_5_200_none]
+[SDK+NINTENDO:Firmware-02_35_00]
+[SDK+NINTENDO:RO]
+
+Mario & Luigi - Paper Jam (USA).3ds
+[SDK+NINTENDO:CTR_SDK-11_3_1_200_none]
+[SDK+NINTENDO:Firmware-02_50_00]
+[SDK+NINTENDO:NW4C_3_7_3_fnt2]
+[SDK+NINTENDO:NW4C_3_7_3_lyt2]
+[SDK+Mobiclip:FastAudioDec_2_0_4]
+[SDK+Mobiclip:Deblocker_2_0_4]
+[SDK+Mobiclip:MobiclipDec_2_0_4]
+[SDK+Mobiclip:MoflexDemuxer_2_0_4]
+[SDK+NINTENDO:CTRFaceLibrary-20141210]
+[SDK+NINTENDO:ExtraPad]
+[SDK+NINTENDO:Gyroscope]
+[SDK+NINTENDO:NFP]
+[SDK+NINTENDO:IsRunOnSnake]
+[SDK+NINTENDO:RO]
+[SDK+NINTENDO:NW4C_3_7_3_eft]
+[SDK+NINTENDO:NW4C_3_7_3_snd]
+[SDK+NINTENDO:Ir]
+
+
+Mario & Luigi - Superstar Saga   Bowser's Minions (USA)(M3).3ds
+[SDK+NINTENDO:CTR_SDK-11_5_2_200_none]
+[SDK+NINTENDO:Firmware-02_52_00]
+[SDK+NINTENDO:NW4C_3_7_5_fnt2]
+[SDK+NINTENDO:NW4C_3_7_5_lyt2]
+[SDK+NINTENDO:ExtraPad]
+[SDK+NINTENDO:NFP]
+[SDK+NINTENDO:IsRunOnSnake]
+[SDK+NINTENDO:RO]
+[SDK+NINTENDO:NW4C_3_7_5_snd]
+[SDK+NINTENDO:CTRFaceLibrary-20141210]
+[SDK+Nintendo:DSPAACDec_1_0_0]
+[SDK+NINTENDO:Ir]
+
+Mario & Sonic at the Rio 2016 Olympic Games (USA) (En,Fr,Es).3ds
+[SDK+NINTENDO:CTR_SDK-11_3_1_200_none]
+[SDK+NINTENDO:Firmware-02_50_00]
+[SDK+NINTENDO:NFP]
+[SDK+NINTENDO:IsRunOnSnake]
+[SDK+NINTENDO:RO]
+[SDK+Nintendo:NEX_RK_3_9_1]
+[SDK+Nintendo:NEX_3_9_1]
+[SDK+NINTENDO:CTRFaceLibrary-20141210]
+[SDK+NINTENDO:NW4C_3_7_3_eft]
+[SDK+NINTENDO:NW4C_3_7_3_snd]
+[SDK+NINTENDO:NW4C_3_7_3_GFX1]
+[SDK+OSS:zlib]
+[SDK+NINTENDO:Gyroscope]
+
+Mario and Sonic at the London 2012 Olympic Games (USA).3ds
+[SDK+NINTENDO:CTR_SDK-2_4_1_200_none]
+[SDK+NINTENDO:Firmware-02_30_20]
+[SDK+Nintendo:NEX_2_3_2_S24]
+[SDK+Nintendo:NEX_RK_2_3_2]
+
+Mario Golf World Tour (USA).3ds
+[SDK+NINTENDO:CTR_SDK-5_2_3_200_none]
+[SDK+NINTENDO:Firmware-02_36_00]
+[SDK+Nintendo:NEX_DS_3_4_2]
+[SDK+Nintendo:NEX_RK_3_4_2]
+[SDK+Nintendo:NEX_MM_3_4_2]
+[SDK+Nintendo:NEX_3_4_2]
+[SDK+Nintendo:PIA_3_3_1]
+[SDK+NINTENDO:CTRFaceLibrary-20130627]
+
+Mario Kart 7 (USA) (Rev 1).3ds
+[SDK+NINTENDO:CTR_SDK-4_0_2_200_none]
+[SDK+NINTENDO:Firmware-02_33_02]
+[SDK+Nintendo:NEX_MM_2_4_3]
+[SDK+Nintendo:NEX_2_4_3_S40]
+[SDK+Mobiclip:MoflexDemuxer_1_1_1]
+[SDK+Mobiclip:MobiclipDec_1_0_2]
+[SDK+Mobiclip:Deblocker_1_0_4]
+[SDK+Nintendo:NEX_RK_P_2_4_3]
+[SDK+Nintendo:NEX_DS_2_4_3]
+
+Mario Kart 7 (USA).3ds
+[SDK+NINTENDO:CTR_SDK-2_5_6_200_DspEffectFix]
+[SDK+NINTENDO:Firmware-02_31_40]
+[SDK+Nintendo:NEX_MM_2_4_3]
+[SDK+Nintendo:NEX_2_4_3_S25]
+[SDK+Mobiclip:MoflexDemuxer_1_0_3]
+[SDK+Mobiclip:MobiclipDec_1_0_1]
+[SDK+Mobiclip:Deblocker_1_0_3]
+[SDK+Nintendo:NEX_RK_P_2_4_3]
+[SDK+Nintendo:NEX_DS_2_4_3]
+
+Mario Party - Island Tour (USA).3ds
+[SDK+NINTENDO:CTR_SDK-5_2_2_200_none]
+[SDK+NINTENDO:Firmware-02_36_00]
+[SDK+NINTENDO:RO]
+[SDK+NINTENDO:CTRFaceLibrary-20130627]
+[SDK+Nintendo:NARLib_1_5_1]
+[SDK+Nintendo:PIA_3_1_0]
+[SDK+OSS:zlib]
+
+Mario Party - Star Rush (USA).3ds
+[SDK+NINTENDO:CTR_SDK-11_4_0_200_none]
+[SDK+NINTENDO:Firmware-02_50_8]
+[SDK+NINTENDO:IsRunOnSnake]
+[SDK+NINTENDO:RO]
+[SDK+Nintendo:PIA_LOCAL_4_10_1]
+[SDK+NINTENDO:ExtraPad]
+[SDK+NINTENDO:NW4C_3_7_5_eft]
+[SDK+NINTENDO:NW4C_3_7_5_lyt2]
+[SDK+NINTENDO:NW4C_3_7_5_snd]
+[SDK+Nintendo:PIA_4_10_1]
+[SDK+Nintendo:PIA_COMMON_4_10_1]
+[SDK+Nintendo:PIA_SESSION_4_10_1]
+[SDK+Nintendo:PIA_SYNC_4_10_1]
+[SDK+Nintendo:PIA_TRANSPORT_4_10_1]
+[SDK+NINTENDO:NFP]
+[SDK+NINTENDO:IsRunningAsExtApplication]
+[SDK+NINTENDO:NW4C_3_7_5_fnt2]
+[SDK+NINTENDO:Ir]
+[SDK+NINTENDO:bsdiff40_16_0329]
+[SDK+OSS:zlib]
+
+
+Mario Party - The Top 100 (USA).3ds
+[SDK+NINTENDO:CTR_SDK-11_5_2_200_none]
+[SDK+NINTENDO:Firmware-02_52_00]
+[SDK+NINTENDO:IsRunOnSnake]
+[SDK+NINTENDO:RO]
+[SDK+Nintendo:PIA_4_11_0]
+[SDK+Nintendo:PIA_COMMON_4_11_0]
+[SDK+Nintendo:PIA_LOCAL_4_11_0]
+[SDK+Nintendo:PIA_SESSION_4_11_0]
+[SDK+Nintendo:PIA_TRANSPORT_4_11_0]
+[SDK+NINTENDO:ExtraPad]
+[SDK+NINTENDO:NW4C_3_7_5_eft]
+[SDK+NINTENDO:NW4C_3_7_5_lyt2]
+[SDK+NINTENDO:NW4C_3_7_5_snd]
+[SDK+Nintendo:PIA_SYNC_4_11_0]
+[SDK+NINTENDO:NFP]
+[SDK+NINTENDO:IsRunningAsExtApplication]
+[SDK+NINTENDO:NW4C_3_7_5_fnt2]
+[SDK+OSS:zlib]
+[SDK+NINTENDO:Ir]
+[SDK+NINTENDO:bsdiff40_16_0823]
+
+
+Mario Sports Superstars (USA).3ds
+[SDK+NINTENDO:CTR_SDK-11_4_0_200_none]
+[SDK+NINTENDO:Firmware-02_50_8]
+[SDK+Mobiclip:DspAdpcmDec_2_0_4]
+[SDK+Mobiclip:FastAudioDec_2_0_4]
+[SDK+Mobiclip:Deblocker_2_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_2_0_4]
+[SDK+Mobiclip:MoflexDemuxer_2_0_4]
+[SDK+Mobiclip:MobiclipDec_2_0_4]
+[SDK+NINTENDO:Gyroscope]
+[SDK+NINTENDO:NFP]
+[SDK+NINTENDO:IsRunOnSnake]
+[SDK+NINTENDO:RO]
+[SDK+NINTENDO:NW4C_3_7_5_fnt2]
+[SDK+NINTENDO:NW4C_3_7_5_lyt2]
+[SDK+Nintendo:PIA_4_10_3]
+[SDK+Nintendo:PIA_COMMON_4_10_3]
+[SDK+Nintendo:PIA_INET_4_10_3]
+[SDK+Nintendo:PIA_LOCAL_4_10_3]
+[SDK+Nintendo:PIA_SESSION_4_10_3]
+[SDK+Nintendo:PIA_TRANSPORT_4_10_3]
+[SDK+Nintendo:NEX_UT_3_9_1]
+[SDK+Nintendo:NEX_MM_3_9_1]
+[SDK+Nintendo:NEX_3_9_1]
+[SDK+NINTENDO:IsRunningAsExtApplication]
+[SDK+OSS:zlib]
+
+[SDK+NINTENDO:NW4C_3_7_5_eft]
+
+[SDK+NINTENDO:NW4C_3_7_5_GFX1]
+
+
+Mario Tennis Open (USA)(M3).3ds
+[SDK+NINTENDO:CTR_SDK-3_3_0_200_none]
+[SDK+NINTENDO:Firmware-02_32_15]
+[SDK+Mobiclip:FastAudioDec_1_0_1]
+[SDK+Mobiclip:Deblocker_1_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_1]
+[SDK+Mobiclip:MobiclipDec_1_0_2]
+[SDK+Mobiclip:MoflexDemuxer_1_1_1]
+[SDK+ISP:QRDec_1_2_3]
+[SDK+Nintendo:NEX_MM_2_6_1]
+[SDK+Nintendo:NEX_2_6_1_S33]
+[SDK+Nintendo:NEX_RK_2_6_1]
+
+Mario Tennis Open (USA).3ds
+[SDK+NINTENDO:CTR_SDK-3_3_0_200_none]
+[SDK+NINTENDO:Firmware-02_32_15]
+[SDK+Mobiclip:FastAudioDec_1_0_1]
+[SDK+Mobiclip:Deblocker_1_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_1]
+[SDK+Mobiclip:MobiclipDec_1_0_2]
+[SDK+Mobiclip:MoflexDemuxer_1_1_1]
+[SDK+ISP:QRDec_1_2_3]
+[SDK+Nintendo:NEX_MM_2_6_1]
+[SDK+Nintendo:NEX_2_6_1_S33]
+[SDK+Nintendo:NEX_RK_2_6_1]
+
+Marvel Super Hero Squad The Infinity Gauntlet (USA).3ds
+[SDK+NINTENDO:CTR_SDK-1_1_0_200_none]
+[SDK+NINTENDO:Firmware-02_27]
+[SDK+Mobiclip:FastAudioDec_1_0_0]
+[SDK+Mobiclip:Deblocker_1_0_2]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_0]
+[SDK+Mobiclip:MobiclipDec_1_0_1]
+[SDK+Mobiclip:MoflexDemuxer_1_0_2]
+
+Mega Man Legacy Collection (USA).3ds
+[SDK+NINTENDO:CTR_SDK-11_3_1_200_none]
+[SDK+NINTENDO:Firmware-02_50_00]
+[SDK+NINTENDO:3DVolume]
+[SDK+NINTENDO:RO]
+[SDK+NINTENDO:NFP]
+[SDK+NINTENDO:IsRunOnSnake]
+
+
+Metal Gear Solid 3D Snake Eater (USA).3ds
+[SDK+NINTENDO:CTR_SDK-2_5_6_200_none]
+[SDK+NINTENDO:Firmware-02_31_38]
+[SDK+Mobiclip:FastAudioDec_1_0_0]
+[SDK+Mobiclip:Deblocker_1_0_3]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_0]
+[SDK+Mobiclip:MobiclipDec_1_0_1]
+[SDK+Mobiclip:MoflexDemuxer_1_0_3]
+
+Metroid - Samus Returns (USA).3ds
+[SDK+NINTENDO:CTR_SDK-11_5_2_200_none]
+[SDK+NINTENDO:Firmware-02_52_00]
+[SDK+NINTENDO:IsRunOnSnake]
+[SDK+NINTENDO:ExtraPad]
+[SDK+NINTENDO:3DVolume]
+[SDK+NINTENDO:NFP]
+[SDK+NINTENDO:Ir]
+
+
+Metroid Prime - Federation Force (USA) (En,Fr,Es).3ds
+[SDK+NINTENDO:CTR_SDK-11_3_1_200_none]
+[SDK+NINTENDO:Firmware-02_50_00]
+[SDK+NINTENDO:ExtraPad]
+[SDK+NINTENDO:Gyroscope]
+[SDK+NINTENDO:IsRunOnSnake]
+[SDK+NINTENDO:3DVolume]
+[SDK+NINTENDO:NFP]
+[SDK+Nintendo:NEX_MM_3_9_1]
+[SDK+Nintendo:NEX_3_9_1]
+[SDK+Nintendo:PIA_4_9_3]
+[SDK+Nintendo:PIA_COMMON_4_9_3]
+[SDK+Nintendo:PIA_LOCAL_4_9_3]
+[SDK+Nintendo:PIA_INET_4_9_3]
+[SDK+Nintendo:PIA_SESSION_4_9_3]
+[SDK+Nintendo:PIA_TRANSPORT_4_9_3]
+[SDK+NINTENDO:IsRunningAsExtApplication]
+[SDK+OSS:zlib]
+[SDK+NINTENDO:Ir]
+
+
+Michael Jackson The Experience 3D (USA).3ds
+[SDK+NINTENDO:CTR_SDK-1_3_0_200_none]
+[SDK+NINTENDO:Firmware-02_27]
+
+Miitopia (USA)(M3).3ds
+[SDK+NINTENDO:CTR_SDK-11_4_0_200_none]
+[SDK+NINTENDO:Firmware-02_50_8]
+[SDK+ISP:QRDec_2_0_1]
+[SDK+ISP:QREnc_2_0_1]
+[SDK+Nintendo:NEX_DS_3_10_2]
+[SDK+Nintendo:NEX_3_10_2ADQ]
+[SDK+NINTENDO:CTRFaceLibrary-20141210]
+[SDK+NINTENDO:NW4C_3_7_5_lyt2]
+[SDK+NINTENDO:CameraActivate]
+[SDK+NINTENDO:CameraInitialize]
+[SDK+NINTENDO:IsRunOnSnake]
+[SDK+NINTENDO:NFP]
+[SDK+NINTENDO:NW4C_3_7_5_eft]
+[SDK+NINTENDO:NW4C_3_7_5_fnt2]
+[SDK+NINTENDO:NW4C_3_7_5_snd]
+[SDK+Nintendo:DSPAACDec_1_0_0]
+
+
+Minecraft (USA)(N3DS).3ds
+[SDK+NINTENDO:CTR_SDK-11_5_1_200_none]
+[SDK+NINTENDO:Firmware-02_51_02]
+[SDK+NINTENDO:ExtraPad]
+[SDK+NINTENDO:3DVolume]
+[SDK+NINTENDO:Ir]
+
+
+Moco Moco Friends (USA)(En).3ds
+[SDK+NINTENDO:CTR_SDK-7_1_1_200_none]
+[SDK+NINTENDO:Firmware-02_39_00]
+[SDK+NINTENDO:NW4C_3_4_0_eft]
+[SDK+NINTENDO:NW4C_3_4_0_lyt2]
+[SDK+NINTENDO:NW4C_3_4_0_snd]
+[SDK+NINTENDO:NW4C_3_4_0_fnt2]
+
+Monster 4x4 3D (USA).3ds
+[SDK+NINTENDO:CTR_SDK-2_3_4_200_none]
+[SDK+NINTENDO:Firmware-02_29_07]
+
+Monster High - 13 Wishes (USA).3ds
+[SDK+NINTENDO:CTR_SDK-5_2_1_200_none]
+[SDK+NINTENDO:Firmware-02_36_00]
+
+Monster High - New Ghoul in School (USA)(En).3ds
+[SDK+NINTENDO:CTR_SDK-11_3_1_200_none]
+[SDK+NINTENDO:Firmware-02_50_00]
+
+Monster High - Skultimate Roller Maze(USA).3ds
+[SDK+NINTENDO:CTR_SDK-4_2_3_200_none]
+[SDK+NINTENDO:Firmware-02_35_00]
+[SDK+NINTENDO:SaveDataSecureValue]
+[SDK+NINTENDO:SaveDataSecureValueLoosely]
+
+Monster Hunter 3 Ultimate (USA).3ds
+[SDK+NINTENDO:CTR_SDK-2_5_6_200_none]
+[SDK+NINTENDO:Firmware-02_31_38]
+[SDK+Mobiclip:FastAudioDec_1_0_1]
+[SDK+Mobiclip:Deblocker_1_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_1]
+[SDK+Mobiclip:MobiclipDec_1_0_2]
+[SDK+Mobiclip:MoflexDemuxer_1_0_3]
+[SDK+Nintendo:NEX_2_3_2_S25]
+
+Monster Hunter 4 Ultimate (USA).3ds
+[SDK+NINTENDO:CTR_SDK-9_11_0_200_none]
+[SDK+NINTENDO:Firmware-02_44_05]
+[SDK+NINTENDO:CameraInitialize]
+[SDK+NINTENDO:ExtraPad]
+[SDK+Mobiclip:MoflexDemuxer_2_0_0]
+[SDK+Mobiclip:MobiclipDec_2_0_0]
+[SDK+Mobiclip:ImaAdpcmDec_2_0_0]
+[SDK+Mobiclip:DspAdpcmDec_2_0_0]
+[SDK+Mobiclip:FastAudioDec_2_0_0]
+[SDK+Mobiclip:Deblocker_2_0_0]
+[SDK+Nintendo:NEX_3_6_1]
+[SDK+Nintendo:NEX_MM_3_6_1]
+[SDK+Nintendo:PIA_3_9_1]
+[SDK+NINTENDO:Ir]
+[SDK+OMRONSW:iWnn_OM_1_6_0]
+
+Monster Hunter Generations (USA).3ds
+[SDK+NINTENDO:CTR_SDK-11_1_1_200_none]
+[SDK+NINTENDO:Firmware-02_48_04]
+[SDK+NINTENDO:RO]
+[SDK+OMRONSW:iWnn_OM_2_0_0]
+[SDK+NINTENDO:ExtraPad]
+[SDK+NINTENDO:IsRunOnSnake]
+[SDK+Mobiclip:DspAdpcmDec_2_0_4]
+[SDK+Mobiclip:FastAudioDec_2_0_4]
+[SDK+Mobiclip:Deblocker_2_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_2_0_4]
+[SDK+Mobiclip:MobiclipDec_2_0_4]
+[SDK+Mobiclip:MoflexDemuxer_2_0_4]
+[SDK+Nintendo:NEX_3_9_1]
+[SDK+Nintendo:PIA_4_7_0]
+[SDK+Nintendo:PIA_COMMON_4_7_0]
+[SDK+Nintendo:PIA_LOCAL_4_7_0]
+[SDK+Nintendo:PIA_TRANSPORT_4_7_0]
+[SDK+Nintendo:PIA_SESSION_4_7_0]
+[SDK+Nintendo:NEX_MM_3_9_1]
+[SDK+NINTENDO:Ir]
+[SDK+NINTENDO:IsRunningAsExtApplication]
+
+
+Monster Hunter Stories (USA).3ds
+[SDK+NINTENDO:CTR_SDK-11_4_0_200_none]
+[SDK+NINTENDO:Firmware-02_50_8]
+[SDK+NINTENDO:IsRunOnSnake]
+[SDK+ISP:QRDec_2_0_1]
+[SDK+ISP:QREnc_2_0_1]
+[SDK+NINTENDO:NFP]
+[SDK+NINTENDO:CameraActivate]
+[SDK+NINTENDO:CameraInitialize]
+[SDK+NINTENDO:EcTicketEnvelope]
+[SDK+NINTENDO:ExtraPad]
+[SDK+Mobiclip:MoflexDemuxer_2_0_4]
+[SDK+Mobiclip:MobiclipDec_2_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_2_0_4]
+[SDK+Mobiclip:DspAdpcmDec_2_0_4]
+[SDK+Mobiclip:FastAudioDec_2_0_4]
+[SDK+Mobiclip:Deblocker_2_0_4]
+[SDK+Nintendo:NEX_3_10_0]
+[SDK+Nintendo:NEX_MM_3_10_0]
+[SDK+Nintendo:NEX_RK_3_10_0]
+[SDK+NINTENDO:Ir]
+
+
+Moshi Monsters - Katsuma Unleashed (USA).3ds
+[SDK+NINTENDO:CTR_SDK-5_2_1_200_none]
+[SDK+NINTENDO:Firmware-02_36_00]
+[SDK+NINTENDO:3DVolume]
+[SDK+Mobiclip:FastAudioDec_1_0_1]
+[SDK+Mobiclip:Deblocker_1_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_1]
+[SDK+Mobiclip:MobiclipDec_1_0_2]
+[SDK+Mobiclip:MoflexDemuxer_1_1_1]
+
+Moshi Monsters Moshlings Theme Park (USA).3ds
+[SDK+NINTENDO:CTR_SDK-3_3_1_200_none]
+[SDK+NINTENDO:Firmware-02_32_15]
+[SDK+Nintendo:NARLib_1_3_3]
+
+My Pet Puppy 3D (USA).3ds
+[SDK+NINTENDO:CTR_SDK-2_4_0_200_none]
+[SDK+NINTENDO:Firmware-02_30_20]
+[SDK+Panasonic:ASR_1_0_5]
+
+Myst (USA).3ds
+[SDK+NINTENDO:CTR_SDK-2_4_2_200_none]
+[SDK+NINTENDO:Firmware-02_30_20]
+
+Nano Assault (USA).3ds
+[SDK+NINTENDO:CTR_SDK-2_4_0_200_none]
+[SDK+NINTENDO:Firmware-02_30_20]
+[SDK+Nintendo:NEX_2_2_0]
+[SDK+Nintendo:NEX_RK_2_2_0]
+
+Naruto Powerful Shippuden(USA).3ds
+[SDK+NINTENDO:CTR_SDK-3_3_1_200_none]
+[SDK+NINTENDO:Firmware-02_32_15]
+[SDK+ISP:QRDec_1_2_3]
+
+NASCAR Unleashed (USA).3ds
+[SDK+NINTENDO:CTR_SDK-2_3_4_200_none]
+[SDK+NINTENDO:Firmware-02_29_07]
+
+NCIS 3D(USA).3ds
+[SDK+NINTENDO:CTR_SDK-1_3_0_200_none]
+[SDK+NINTENDO:Firmware-02_27]
+
+Need for Speed - The Run (USA).3ds
+[SDK+NINTENDO:CTR_SDK-2_3_4_200_none]
+[SDK+NINTENDO:Firmware-02_29_07]
+[SDK+Nintendo:NEX_2_0_0 S2]
+[SDK+Nintendo:NEX_MM_2_0_0]
+[SDK+Nintendo:NEX_RK_2_0_0]
+
+New Super Mario Bros. 2 )(USA).3ds
+[SDK+NINTENDO:CTR_SDK-4_1_0_200_none]
+[SDK+NINTENDO:Firmware-02_33_00]
+[SDK+Nintendo:PIA_1_8_1]
+[SDK+NINTENDO:3DVolume]
+[SDK+NINTENDO:CTRFaceLibrary-20120511]
+
+Nicktoons MLB 3D (USA).3ds
+[SDK+NINTENDO:CTR_SDK-2_4_0_200_none]
+[SDK+NINTENDO:Firmware-02_30_20]
+[SDK+Nintendo:NARLib_1_2_0]
+
+Nikolis Pencil Puzzle (USA).3ds
+[SDK+NINTENDO:CTR_SDK-1_0_0_200_none]
+[SDK+NINTENDO:Firmware-02_27]
+
+Nintendogs   Cats - Golden Retriever & New Friends (USA) (En,Fr,Es) (Rev 2).3ds
+[SDK+NINTENDO:CTR_SDK-0_14_23_200_none]
+[SDK+NINTENDO:Firmware-02_27]
+[SDK+Panasonic:PFID_PFID_1_0_2]
+
+Nintendogs   Cats Golden Retriever & New Friends (USA).3ds
+[SDK+NINTENDO:CTR_SDK-0_14_23_200_none]
+[SDK+NINTENDO:Firmware-02_27]
+[SDK+Panasonic:PFID_PFID_1_0_2]
+
+Nintendogs   Cats Toy Poodle & New Friends (USA).3ds
+[SDK+NINTENDO:CTR_SDK-0_14_23_200_none]
+[SDK+NINTENDO:Firmware-02_27]
+[SDK+Panasonic:PFID_PFID_1_0_2]
+
+Nintendogs and Cats French Bulldog and New Friends (USA).3ds
+[SDK+NINTENDO:CTR_SDK-0_14_23_200_none]
+[SDK+NINTENDO:Firmware-02_27]
+[SDK+Panasonic:PFID_PFID_1_0_2]
+
+One Piece - Romance Dawn(USA).3ds
+[SDK+NINTENDO:CTR_SDK-5_2_1_200_none]
+[SDK+NINTENDO:Firmware-02_36_00]
+
+One Piece - Unlimited World Red (USA).3ds
+[SDK+NINTENDO:CTR_SDK-5_2_1_200_none]
+[SDK+NINTENDO:Firmware-02_36_00]
+[SDK+Nintendo:PIA_3_1_0]
+
+Pac-Man & Galaga - Dimensions (USA).3ds
+[SDK+NINTENDO:CTR_SDK-1_2_0_200_none]
+[SDK+NINTENDO:Firmware-02_27]
+[SDK+Mobiclip:Deblocker_1_0_3]
+[SDK+Mobiclip:MobiclipDec_1_0_1]
+[SDK+Mobiclip:MoflexDemuxer_1_0_2]
+[SDK+Mobiclip:FastAudioDec_1_0_0]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_0]
+[SDK+Nintendo:NEX_1_1_0]
+[SDK+Nintendo:NEX_RK_1_1_0]
+
+Pac-Man and the Ghostly Adventures 2 (USA).3ds
+[SDK+NINTENDO:CTR_SDK-5_2_1_200_none]
+[SDK+NINTENDO:Firmware-02_36_00]
+[SDK+Mobiclip:FastAudioDec_1_5_0]
+[SDK+Mobiclip:Deblocker_1_5_0]
+[SDK+Mobiclip:ImaAdpcmDec_1_5_0]
+[SDK+Mobiclip:MobiclipDec_1_5_0]
+[SDK+Mobiclip:MoflexDemuxer_1_5_0]
+
+Pac-Man Party 3D(USA).3ds
+[SDK+NINTENDO:CTR_SDK-2_3_4_200_none]
+[SDK+NINTENDO:Firmware-02_29_07]
+
+PacMan and the Ghostly Adventures (USA).3ds
+[SDK+NINTENDO:CTR_SDK-4_2_5_200_none]
+[SDK+NINTENDO:Firmware-02_35_00]
+
+Paddington - Adventures in London (USA).3ds
+[SDK+NINTENDO:CTR_SDK-7_2_3_200_none]
+[SDK+NINTENDO:Firmware-02_40_01]
+
+Paper Mario - Sticker Star (USA).3ds
+[SDK+NINTENDO:CTR_SDK-4_2_0_200_none]
+[SDK+NINTENDO:Firmware-02_35_00]
+
+Paws and Claws - Pampered Pets Resort 3D (USA).3ds
+[SDK+NINTENDO:CTR_SDK-2_4_0_200_none]
+[SDK+NINTENDO:Firmware-02_30_20]
+
+Peanuts Movie, The - Snoopy's Grand Adventure (USA).3ds
+[SDK+NINTENDO:CTR_SDK-11_1_1_200_none]
+[SDK+NINTENDO:Firmware-02_48_04]
+[SDK+NINTENDO:RO]
+
+Penguins of Madagascar (USA) (En).3ds
+[SDK+NINTENDO:CTR_SDK-7_2_1_200_none]
+[SDK+NINTENDO:Firmware-02_40_01]
+
+Persona Q - Shadow of the Labyrinth (USA).3ds
+[SDK+NINTENDO:CTR_SDK-5_2_3_200_none]
+[SDK+NINTENDO:Firmware-02_36_00]
+[SDK+NINTENDO:3DVolume]
+[SDK+ISP:QRDec_1_2_5]
+[SDK+ISP:QREnc_1_2_5]
+
+Persona Q2 New Cinema Labyrinth (USA).3ds
+[SDK+NINTENDO:CTR_SDK-11_5_2_200_none]
+[SDK+NINTENDO:Firmware-02_52_00]
+[SDK+NINTENDO:NW4C_3_7_5_fnt1]
+[SDK+NINTENDO:CameraActivate]
+[SDK+NINTENDO:CameraInitialize]
+[SDK+NINTENDO:NW4C_3_7_5_GFX1]
+[SDK+ISP:QREnc_2_0_1]
+[SDK+ISP:QRDec_2_0_1]
+
+Pet Zombies (USA).3ds
+[SDK+NINTENDO:CTR_SDK-1_3_0_200_none]
+[SDK+NINTENDO:Firmware-02_27]
+[SDK+Mobiclip:FastAudioDec_1_0_0]
+[SDK+Mobiclip:Deblocker_1_0_3]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_0]
+[SDK+Mobiclip:MobiclipDec_1_0_1]
+[SDK+Mobiclip:MoflexDemuxer_1_0_2]
+
+Petz Beach (USA).3ds
+[SDK+NINTENDO:CTR_SDK-3_3_0_200_none]
+[SDK+NINTENDO:Firmware-02_32_15]
+[SDK+Nintendo:NARLib_1_3_3]
+[SDK+Nintendo:NEX_2_7_2_S33]
+[SDK+Nintendo:PIA_1_5_0]
+[SDK+Panasonic:PFID_PFID_1_0_9]
+
+Petz Countryside (USA).3ds
+[SDK+NINTENDO:CTR_SDK-3_3_0_200_none]
+[SDK+NINTENDO:Firmware-02_32_15]
+[SDK+Nintendo:NARLib_1_3_3]
+[SDK+Nintendo:NEX_2_7_2_S33]
+[SDK+Nintendo:PIA_1_5_0]
+[SDK+Panasonic:PFID_PFID_1_0_9]
+
+Petz Fantasy 3D (USA).3ds
+[SDK+NINTENDO:CTR_SDK-1_0_0_200_none]
+[SDK+NINTENDO:Firmware-02_27]
+[SDK+Mobiclip:FastAudioDec_1_0_0]
+[SDK+Mobiclip:Deblocker_1_0_0]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_0]
+[SDK+Mobiclip:MobiclipDec_1_0_0]
+[SDK+Mobiclip:MoflexDemuxer_1_0_0]
+
+Phineas & Ferb - Quest for Cool Stuff (USA).3ds
+[SDK+NINTENDO:CTR_SDK-4_2_5_200_none]
+[SDK+NINTENDO:Firmware-02_35_00]
+
+Pilotwings Resort (USA).3ds
+[SDK+NINTENDO:CTR_SDK-0_14_19_200_none]
+[SDK+NINTENDO:Firmware-02_23]
+
+Pinball Hall of Fame - The Williams Collection (USA).3ds
+[SDK+NINTENDO:CTR_SDK-1_0_0_200_none]
+[SDK+NINTENDO:Firmware-02_27]
+[SDK+Mobiclip:FastAudioDec_1_0_0]
+[SDK+Mobiclip:Deblocker_1_0_3]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_0]
+[SDK+Mobiclip:MobiclipDec_1_0_1]
+[SDK+Mobiclip:MoflexDemuxer_1_0_2]
+
+Pokemon Alpha Sapphire (USA)(En,Fr,Ge,It,Ja,Ko,Es).3ds
+[SDK+NINTENDO:CTR_SDK-7_1_1_200_none]
+[SDK+NINTENDO:Firmware-02_39_00]
+[SDK+Mobiclip:MobiclipDec_1_5_4]
+[SDK+ISP:QRDec_1_3_4]
+[SDK+ISP:QREnc_1_3_4]
+[SDK+Nintendo:CTR_VCT 2.0.1]
+[SDK+Nintendo:NEX_DS_3_3_8]
+[SDK+Nintendo:NEX_MM_3_3_8]
+[SDK+Nintendo:NEX_3_3_8EKJ]
+[SDK+Nintendo:DSPAACDec_1_0_0]
+[SDK+NINTENDO:CameraActivate]
+[SDK+NINTENDO:SaveDataSecureValue]
+[SDK+NINTENDO:SaveDataSecureValueLoosely]
+[SDK+NINTENDO:SaveDataSecureValueEx]
+[SDK+NINTENDO:RO]
+[SDK+NINTENDO:NW4C_3_2_2_snd]
+[SDK+Nintendo:NEX_RK_3_3_8]
+[SDK+Nintendo:NEX_UT_3_3_8]
+[SDK+Nintendo:PIA_3_5_1]
+[SDK+NINTENDO:IrCommunicator]
+[SDK+NINTENDO:NW4C_3_2_2_fnt1]
+[SDK+NINTENDO:NW4C_3_2_2_GFX1]
+[SDK+NINTENDO:NW4C_3_2_2_lyt1]
+[SDK+NINTENDO:Ir]
+[SDK+Panasonic:PFID_BLINK_1_0_19]
+[SDK+Panasonic:PFID_PFID_1_0_19]
+[SDK+Panasonic:PFID_SMILE_1_0_19]
+[SDK+Mobiclip:FastAudioDec_1_5_4]
+[SDK+Mobiclip:Deblocker_1_5_4]
+[SDK+Mobiclip:ImaAdpcmDec_1_5_4]
+[SDK+Mobiclip:MoflexDemuxer_1_5_4]
+
+Pokemon Art Academy (USA).3ds
+[SDK+NINTENDO:CTR_SDK-7_1_1_200_none]
+[SDK+NINTENDO:Firmware-02_39_00]
+[SDK+NINTENDO:NW4C_3_3_1_snd]
+[SDK+OSS:zlib]
+
+Pokemon Moon (USA) (En,Ja,Fr,De,Es,It,Zh,Ko).3ds
+[SDK+NINTENDO:CTR_SDK-11_4_1_200_none]
+[SDK+NINTENDO:Firmware-02_50_8]
+[SDK+Nintendo:DSPAACDec_1_0_0]
+[SDK+Mobiclip:MoflexDemuxer_2_0_4]
+[SDK+Mobiclip:MobiclipDec_2_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_2_0_4]
+[SDK+Mobiclip:Deblocker_2_0_4]
+[SDK+Mobiclip:FastAudioDec_2_0_4]
+[SDK+ISP:QREnc_2_0_1]
+[SDK+ISP:QRDec_2_0_1]
+[SDK+Nintendo:NEX_3_10_0BND]
+[SDK+Nintendo:NEX_DS_3_10_0]
+[SDK+NINTENDO:RO]
+[SDK+Nintendo:NEX_MM_3_10_0]
+[SDK+Nintendo:NEX_UT_3_10_0]
+[SDK+Nintendo:NEX_RK_3_10_0]
+[SDK+NINTENDO:SaveDataSecureValue]
+[SDK+NINTENDO:SaveDataSecureValueLoosely]
+[SDK+NINTENDO:SaveDataSecureValueEx]
+[SDK+NINTENDO:NW4C_3_8_0_eft]
+[SDK+NINTENDO:NW4C_3_7_4_lyt2]
+[SDK+NINTENDO:NW4C_3_7_4_snd]
+[SDK+Nintendo:PIA_LOCAL_3_10_2]
+[SDK+Nintendo:PIA_3_10_2]
+[SDK+Nintendo:PIA_COMMON_3_10_2]
+[SDK+NINTENDO:CameraActivate]
+[SDK+NINTENDO:CameraInitialize]
+[SDK+NINTENDO:Gyroscope]
+[SDK+NINTENDO:IrCommunicator]
+[SDK+NINTENDO:NW4C_3_7_4_fnt2]
+[SDK+NINTENDO:Ir]
+[SDK+NINTENDO:IsRunningAsExtApplication]
+
+Pokemon Mystery Dungeon - Gates to Infinity (USA).3ds
+[SDK+NINTENDO:CTR_SDK-4_2_3_200_none]
+[SDK+NINTENDO:Firmware-02_35_00]
+[SDK+Nintendo:PIA_2_2_0]
+[SDK+NINTENDO:DebugPrint]
+
+Pokemon Omega Ruby (USA)(En,Fr,Ge,It,Ja,Ko,Es).3ds
+[SDK+NINTENDO:CTR_SDK-7_1_1_200_none]
+[SDK+NINTENDO:Firmware-02_39_00]
+[SDK+Mobiclip:MobiclipDec_1_5_4]
+[SDK+ISP:QRDec_1_3_4]
+[SDK+ISP:QREnc_1_3_4]
+[SDK+Nintendo:CTR_VCT 2.0.1]
+[SDK+Nintendo:NEX_DS_3_3_8]
+[SDK+Nintendo:NEX_MM_3_3_8]
+[SDK+Nintendo:NEX_3_3_8EKJ]
+[SDK+Nintendo:DSPAACDec_1_0_0]
+[SDK+NINTENDO:CameraActivate]
+[SDK+NINTENDO:SaveDataSecureValue]
+[SDK+NINTENDO:SaveDataSecureValueLoosely]
+[SDK+NINTENDO:SaveDataSecureValueEx]
+[SDK+NINTENDO:RO]
+[SDK+NINTENDO:NW4C_3_2_2_snd]
+[SDK+Nintendo:NEX_RK_3_3_8]
+[SDK+Nintendo:NEX_UT_3_3_8]
+[SDK+Nintendo:PIA_3_5_1]
+[SDK+NINTENDO:IrCommunicator]
+[SDK+NINTENDO:NW4C_3_2_2_fnt1]
+[SDK+NINTENDO:NW4C_3_2_2_GFX1]
+[SDK+NINTENDO:NW4C_3_2_2_lyt1]
+[SDK+NINTENDO:Ir]
+[SDK+Panasonic:PFID_BLINK_1_0_19]
+[SDK+Panasonic:PFID_PFID_1_0_19]
+[SDK+Panasonic:PFID_SMILE_1_0_19]
+[SDK+Mobiclip:FastAudioDec_1_5_4]
+[SDK+Mobiclip:Deblocker_1_5_4]
+[SDK+Mobiclip:ImaAdpcmDec_1_5_4]
+[SDK+Mobiclip:MoflexDemuxer_1_5_4]
+
+Pokemon Rumble Blast (USA).3ds
+[SDK+NINTENDO:CTR_SDK-1_3_0_200_none]
+[SDK+NINTENDO:Firmware-02_27]
+[SDK+Mobiclip:FastAudioDec_1_0_0]
+[SDK+Mobiclip:Deblocker_1_0_3]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_0]
+[SDK+Mobiclip:MobiclipDec_1_0_1]
+[SDK+Mobiclip:MoflexDemuxer_1_0_2]
+
+Pokemon Rumble World (USA).3ds
+[SDK+NINTENDO:CTR_SDK-10_1_0_200_none]
+[SDK+NINTENDO:Firmware-02_46_01]
+[SDK+NINTENDO:SaveDataSecureValue]
+[SDK+NINTENDO:SaveDataSecureValueLoosely]
+[SDK+NINTENDO:SaveDataSecureValueEx]
+[SDK+NINTENDO:ExtraPad]
+[SDK+NINTENDO:IsRunOnSnake]
+[SDK+NINTENDO:NW4C_3_5_3_eft]
+[SDK+NINTENDO:NW4C_3_5_3_fnt2]
+[SDK+NINTENDO:NW4C_3_5_3_GFX1]
+[SDK+NINTENDO:NW4C_3_5_3_lyt2]
+[SDK+NINTENDO:NW4C_3_5_3_snd]
+[SDK+Nintendo:NEX_DS_3_8_2]
+[SDK+Nintendo:NEX_3_8_2KCFA]
+[SDK+NINTENDO:CTRFaceLibrary-20140910]
+[SDK+Nintendo:DSPAACDec_1_0_0]
+[SDK+OSS:zlib]
+[SDK+NINTENDO:Ir]
+
+Pokemon Sun (USA) (En,Ja,Fr,De,Es,It,Zh,Ko).3ds
+[SDK+NINTENDO:CTR_SDK-11_4_1_200_none]
+[SDK+NINTENDO:Firmware-02_50_8]
+[SDK+Nintendo:DSPAACDec_1_0_0]
+[SDK+Mobiclip:MoflexDemuxer_2_0_4]
+[SDK+Mobiclip:MobiclipDec_2_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_2_0_4]
+[SDK+Mobiclip:Deblocker_2_0_4]
+[SDK+Mobiclip:FastAudioDec_2_0_4]
+[SDK+ISP:QREnc_2_0_1]
+[SDK+ISP:QRDec_2_0_1]
+[SDK+Nintendo:NEX_3_10_0BND]
+[SDK+Nintendo:NEX_DS_3_10_0]
+[SDK+NINTENDO:RO]
+[SDK+Nintendo:NEX_MM_3_10_0]
+[SDK+Nintendo:NEX_UT_3_10_0]
+[SDK+Nintendo:NEX_RK_3_10_0]
+[SDK+NINTENDO:SaveDataSecureValue]
+[SDK+NINTENDO:SaveDataSecureValueLoosely]
+[SDK+NINTENDO:SaveDataSecureValueEx]
+[SDK+NINTENDO:NW4C_3_8_0_eft]
+[SDK+NINTENDO:NW4C_3_7_4_lyt2]
+[SDK+NINTENDO:NW4C_3_7_4_snd]
+[SDK+Nintendo:PIA_LOCAL_3_10_2]
+[SDK+Nintendo:PIA_3_10_2]
+[SDK+Nintendo:PIA_COMMON_3_10_2]
+[SDK+NINTENDO:CameraActivate]
+[SDK+NINTENDO:CameraInitialize]
+[SDK+NINTENDO:Gyroscope]
+[SDK+NINTENDO:IrCommunicator]
+[SDK+NINTENDO:NW4C_3_7_4_fnt2]
+[SDK+NINTENDO:Ir]
+[SDK+NINTENDO:IsRunningAsExtApplication]
+
+Pokemon Super Mystery Dungeon (USA)(En).3ds
+[SDK+NINTENDO:CTR_SDK-10_1_1_200_none]
+[SDK+NINTENDO:Firmware-02_46_01]
+[SDK+NINTENDO:NW4C_3_6_1_GFX1]
+[SDK+NINTENDO:CameraActivate]
+[SDK+NINTENDO:CameraInitialize]
+[SDK+NINTENDO:NW4C_3_6_1_snd]
+[SDK+NINTENDO:IrCommunicator]
+[SDK+Nintendo:PIA_3_10_2]
+[SDK+Nintendo:PIA_COMMON_3_10_2]
+[SDK+Nintendo:PIA_LOCAL_3_10_2]
+[SDK+Nintendo:NEX_UT_3_8_3]
+[SDK+Nintendo:NEX_3_8_3]
+[SDK+Nintendo:NEX_DS_3_8_3]
+[SDK+ISP:QREnc_2_0_1]
+[SDK+ISP:QRDec_2_0_1]
+[SDK+NINTENDO:IsRunningAsExtApplication]
+[SDK+NINTENDO:Ir]
+[SDK+OSS:zlib]
+
+Pokemon Ultra Moon (USA)(M8).3ds
+[SDK+NINTENDO:CTR_SDK-11_4_1_200_none]
+[SDK+NINTENDO:Firmware-02_50_8]
+[SDK+Nintendo:DSPAACDec_1_0_0]
+[SDK+Mobiclip:MoflexDemuxer_2_0_4]
+[SDK+Mobiclip:MobiclipDec_2_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_2_0_4]
+[SDK+Mobiclip:Deblocker_2_0_4]
+[SDK+Mobiclip:FastAudioDec_2_0_4]
+[SDK+ISP:QREnc_2_0_1]
+[SDK+ISP:QRDec_2_0_1]
+[SDK+Nintendo:NEX_3_10_2BND]
+[SDK+Nintendo:NEX_DS_3_10_2]
+[SDK+NINTENDO:RO]
+[SDK+Nintendo:NEX_MM_3_10_2]
+[SDK+Nintendo:NEX_UT_3_10_2]
+[SDK+Nintendo:NEX_RK_3_10_2]
+[SDK+NINTENDO:SaveDataSecureValue]
+[SDK+NINTENDO:SaveDataSecureValueLoosely]
+[SDK+NINTENDO:SaveDataSecureValueEx]
+[SDK+NINTENDO:NW4C_3_8_0_eft]
+[SDK+NINTENDO:NW4C_3_7_4_lyt2]
+[SDK+NINTENDO:NW4C_3_7_4_snd]
+[SDK+Nintendo:PIA_LOCAL_3_10_2]
+[SDK+Nintendo:PIA_3_10_2]
+[SDK+Nintendo:PIA_COMMON_3_10_2]
+[SDK+NINTENDO:CameraActivate]
+[SDK+NINTENDO:CameraInitialize]
+[SDK+NINTENDO:Gyroscope]
+[SDK+NINTENDO:IrCommunicator]
+[SDK+NINTENDO:NW4C_3_7_4_fnt2]
+[SDK+NINTENDO:Ir]
+[SDK+NINTENDO:IsRunningAsExtApplication]
+
+Pokemon Ultra Sun (USA)(M8).3ds
+[SDK+NINTENDO:CTR_SDK-11_4_1_200_none]
+[SDK+NINTENDO:Firmware-02_50_8]
+[SDK+Nintendo:DSPAACDec_1_0_0]
+[SDK+Mobiclip:MoflexDemuxer_2_0_4]
+[SDK+Mobiclip:MobiclipDec_2_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_2_0_4]
+[SDK+Mobiclip:Deblocker_2_0_4]
+[SDK+Mobiclip:FastAudioDec_2_0_4]
+[SDK+ISP:QREnc_2_0_1]
+[SDK+ISP:QRDec_2_0_1]
+[SDK+Nintendo:NEX_3_10_2BND]
+[SDK+Nintendo:NEX_DS_3_10_2]
+[SDK+NINTENDO:RO]
+[SDK+Nintendo:NEX_MM_3_10_2]
+[SDK+Nintendo:NEX_UT_3_10_2]
+[SDK+Nintendo:NEX_RK_3_10_2]
+[SDK+NINTENDO:SaveDataSecureValue]
+[SDK+NINTENDO:SaveDataSecureValueLoosely]
+[SDK+NINTENDO:SaveDataSecureValueEx]
+[SDK+NINTENDO:NW4C_3_8_0_eft]
+[SDK+NINTENDO:NW4C_3_7_4_lyt2]
+[SDK+NINTENDO:NW4C_3_7_4_snd]
+[SDK+Nintendo:PIA_LOCAL_3_10_2]
+[SDK+Nintendo:PIA_3_10_2]
+[SDK+Nintendo:PIA_COMMON_3_10_2]
+[SDK+NINTENDO:CameraActivate]
+[SDK+NINTENDO:CameraInitialize]
+[SDK+NINTENDO:Gyroscope]
+[SDK+NINTENDO:IrCommunicator]
+[SDK+NINTENDO:NW4C_3_7_4_fnt2]
+[SDK+NINTENDO:Ir]
+[SDK+NINTENDO:IsRunningAsExtApplication]
+
+Pokemon X (USA).3ds
+[SDK+NINTENDO:CTR_SDK-5_2_0_200_SaveDataCrypto]
+[SDK+NINTENDO:Firmware-02_35_06]
+[SDK+Mobiclip:MobiclipDec_1_5_0]
+[SDK+Nintendo:CTR_VCT 1.7.0]
+[SDK+Nintendo:NEX_DS_3_3_4]
+[SDK+Nintendo:NEX_MM_3_3_4]
+[SDK+Nintendo:NEX_3_3_4EKJ]
+[SDK+Nintendo:DSPAACDec_1_0_0]
+[SDK+NINTENDO:DebugPrint]
+[SDK+NINTENDO:SaveDataSecureValue]
+[SDK+NINTENDO:SaveDataSecureValueLoosely]
+[SDK+NINTENDO:SaveDataSecureValueEx]
+[SDK+NINTENDO:RO]
+[SDK+Nintendo:NEX_RK_3_3_4]
+[SDK+Nintendo:NEX_UT_3_3_4]
+[SDK+Nintendo:PIA_3_0_0]
+[SDK+NINTENDO:CTR_SDK-5_2_0_200_none]
+[SDK+Panasonic:PFID_BLINK_1_0_17]
+[SDK+Panasonic:PFID_PFID_1_0_17]
+[SDK+Panasonic:PFID_SMILE_1_0_17]
+[SDK+Mobiclip:FastAudioDec_1_5_0]
+[SDK+Mobiclip:Deblocker_1_5_0]
+[SDK+Mobiclip:ImaAdpcmDec_1_5_0]
+[SDK+Mobiclip:MoflexDemuxer_1_5_0]
+
+Pokemon Y (USA).3ds
+[SDK+NINTENDO:CTR_SDK-5_2_0_200_SaveDataCrypto]
+[SDK+NINTENDO:Firmware-02_35_06]
+[SDK+Mobiclip:MobiclipDec_1_5_0]
+[SDK+Nintendo:CTR_VCT 1.7.0]
+[SDK+Nintendo:NEX_DS_3_3_4]
+[SDK+Nintendo:NEX_MM_3_3_4]
+[SDK+Nintendo:NEX_3_3_4EKJ]
+[SDK+Nintendo:DSPAACDec_1_0_0]
+[SDK+NINTENDO:DebugPrint]
+[SDK+NINTENDO:SaveDataSecureValue]
+[SDK+NINTENDO:SaveDataSecureValueLoosely]
+[SDK+NINTENDO:SaveDataSecureValueEx]
+[SDK+NINTENDO:RO]
+[SDK+Nintendo:NEX_RK_3_3_4]
+[SDK+Nintendo:NEX_UT_3_3_4]
+[SDK+Nintendo:PIA_3_0_0]
+[SDK+NINTENDO:CTR_SDK-5_2_0_200_none]
+[SDK+Panasonic:PFID_BLINK_1_0_17]
+[SDK+Panasonic:PFID_PFID_1_0_17]
+[SDK+Panasonic:PFID_SMILE_1_0_17]
+[SDK+Mobiclip:FastAudioDec_1_5_0]
+[SDK+Mobiclip:Deblocker_1_5_0]
+[SDK+Mobiclip:ImaAdpcmDec_1_5_0]
+[SDK+Mobiclip:MoflexDemuxer_1_5_0]
+
+Poochy & Yoshis Woolly World (USA).3ds
+[SDK+NINTENDO:CTR_SDK-11_4_0_200_none]
+[SDK+NINTENDO:Firmware-02_50_8]
+[SDK+NINTENDO:IsRunOnSnake]
+[SDK+NINTENDO:NFP]
+[SDK+NINTENDO:NW4C_3_7_4_snd]
+[SDK+Mobiclip:MobiclipDec_2_0_4]
+[SDK+Mobiclip:FastAudioDec_2_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_2_0_4]
+[SDK+Mobiclip:DspAdpcmDec_2_0_4]
+[SDK+Mobiclip:MoflexDemuxer_2_0_4]
+[SDK+Mobiclip:Deblocker_2_0_4]
+[SDK+NINTENDO:NW4C_3_7_4_eft]
+[SDK+NINTENDO:NW4C_3_7_4_fnt2]
+[SDK+NINTENDO:NW4C_3_7_4_lyt2]
+
+
+Poptropica Forgotten Islands (USA).3ds
+[SDK+NINTENDO:CTR_SDK-5_2_3_200_none]
+[SDK+NINTENDO:Firmware-02_36_00]
+
+Power Rangers - Megaforce (USA).3ds
+[SDK+NINTENDO:CTR_SDK-4_2_5_200_none]
+[SDK+NINTENDO:Firmware-02_35_00]
+[SDK+Mobiclip:MoflexDemuxer_1_4_2]
+[SDK+Mobiclip:FastAudioDec_1_4_2]
+[SDK+Mobiclip:Deblocker_1_4_2]
+[SDK+Mobiclip:ImaAdpcmDec_1_4_2]
+[SDK+Mobiclip:MobiclipDec_1_4_2]
+
+Power Rangers - Super Megaforce (USA).3ds
+[SDK+NINTENDO:CTR_SDK-5_2_3_200_none]
+[SDK+NINTENDO:Firmware-02_36_00]
+[SDK+Nintendo:NARLib_1_5_1]
+
+
+Pro Evolution Soccer 2011 3D (USA).3ds
+[SDK+NINTENDO:CTR_SDK-0_14_23_200_none]
+[SDK+NINTENDO:Firmware-02_27]
+[SDK+Mobiclip:FastAudioDec_1_0_0]
+[SDK+Mobiclip:Deblocker_1_0_2]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_0]
+[SDK+Mobiclip:MobiclipDec_1_0_1]
+[SDK+Mobiclip:MoflexDemuxer_1_0_2]
+
+Pro Evolution Soccer 2012 3D (USA).3ds
+[SDK+NINTENDO:CTR_SDK-2_4_0_200_none]
+[SDK+NINTENDO:Firmware-02_30_20]
+[SDK+Nintendo:NEX_2_1_2]
+[SDK+Nintendo:NEX_MM_2_1_2]
+
+Pro Evolution Soccer 2013 3D (USA).3ds
+[SDK+NINTENDO:CTR_SDK-3_3_3_200_none]
+[SDK+NINTENDO:Firmware-02_32_15]
+[SDK+Nintendo:NEX_2_7_2_S33]
+[SDK+Nintendo:NEX_MM_2_7_2]
+
+Professor Layton and the Azran Legacy(USA).3ds
+[SDK+NINTENDO:CTR_SDK-4_2_4_200_none]
+[SDK+NINTENDO:Firmware-02_35_00]
+[SDK+NINTENDO:RO]
+[SDK+NINTENDO:3DVolume]
+[SDK+Mobiclip:Deblocker_1_4_2]
+[SDK+Mobiclip:MobiclipDec_1_4_2]
+[SDK+Mobiclip:MoflexDemuxer_1_4_2]
+[SDK+Mobiclip:FastAudioDec_1_4_2]
+[SDK+Mobiclip:ImaAdpcmDec_1_4_2]
+[SDK+Panasonic:HWR_1_0_13]
+
+Professor Layton and the Miracle Mask (USA).3ds
+[SDK+NINTENDO:CTR_SDK-3_3_1_200_none]
+[SDK+NINTENDO:Firmware-02_32_15]
+[SDK+NINTENDO:RO]
+[SDK+NINTENDO:3DVolume]
+[SDK+Mobiclip:Deblocker_1_0_4]
+[SDK+Mobiclip:MobiclipDec_1_0_2]
+[SDK+Mobiclip:MoflexDemuxer_1_1_1]
+[SDK+Mobiclip:FastAudioDec_1_0_1]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_1]
+[SDK+Panasonic:HWR_1_0_9]
+
+Professor Layton and the Miracle Mask (v01)(USA).3ds
+[SDK+NINTENDO:CTR_SDK-3_3_1_200_none]
+[SDK+NINTENDO:Firmware-02_32_15]
+[SDK+NINTENDO:RO]
+[SDK+NINTENDO:3DVolume]
+[SDK+Mobiclip:Deblocker_1_0_4]
+[SDK+Mobiclip:MobiclipDec_1_0_2]
+[SDK+Mobiclip:MoflexDemuxer_1_1_1]
+[SDK+Mobiclip:FastAudioDec_1_0_1]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_1]
+[SDK+Panasonic:HWR_1_0_9]
+
+Professor Layton vs Phoenix Wright Ace Attorney (USA).3ds
+[SDK+NINTENDO:CTR_SDK-3_3_1_200_none]
+[SDK+NINTENDO:Firmware-02_32_15]
+[SDK+NINTENDO:RO]
+[SDK+NINTENDO:3DVolume]
+[SDK+Mobiclip:Deblocker_1_0_4]
+[SDK+Mobiclip:MobiclipDec_1_0_2]
+[SDK+Mobiclip:MoflexDemuxer_1_1_1]
+[SDK+Mobiclip:FastAudioDec_1_0_1]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_1]
+[SDK+Panasonic:HWR_1_0_5]
+
+Project X Zone 2 (USA).3ds
+[SDK+NINTENDO:CTR_SDK-11_1_1_200_none]
+[SDK+NINTENDO:Firmware-02_48_04]
+[SDK+Mobiclip:MobiclipDec_2_0_4]
+[SDK+Mobiclip:FastAudioDec_2_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_2_0_4]
+[SDK+Mobiclip:MoflexDemuxer_2_0_4]
+[SDK+Mobiclip:Deblocker_2_0_4]
+[SDK+NINTENDO:IsRunOnSnake]
+[SDK+NINTENDO:NW4C_3_5_3_snd]
+[SDK+NINTENDO:ExtraPad]
+[SDK+NINTENDO:NW4C_3_5_3_fnt2]
+[SDK+OSS:zlib]
+[SDK+NINTENDO:Ir]
+
+Project X Zone(USA).3ds
+[SDK+NINTENDO:CTR_SDK-4_2_5_200_none]
+[SDK+NINTENDO:Firmware-02_35_00]
+[SDK+Mobiclip:FastAudioDec_1_4_2]
+[SDK+Mobiclip:Deblocker_1_4_2]
+[SDK+Mobiclip:ImaAdpcmDec_1_4_2]
+[SDK+Mobiclip:MobiclipDec_1_4_2]
+[SDK+Mobiclip:MoflexDemuxer_1_4_2]
+
+Puppies 3D (USA).3ds
+[SDK+NINTENDO:CTR_SDK-1_3_0_200_none]
+[SDK+NINTENDO:Firmware-02_27]
+[SDK+Nintendo:NARLib_1_2_0]
+
+Purr Pals - Purrfection (USA).3ds
+[SDK+NINTENDO:CTR_SDK-2_4_2_200_none]
+[SDK+NINTENDO:Firmware-02_30_20]
+
+Putty Squad (USA).3ds
+[SDK+NINTENDO:CTR_SDK-5_2_3_200_none]
+[SDK+NINTENDO:Firmware-02_36_00]
+[SDK+NINTENDO:SaveDataSecureValue]
+[SDK+NINTENDO:SaveDataSecureValueLoosely]
+[SDK+NINTENDO:SaveDataSecureValueEx]
+[SDK+Mobiclip:Deblocker_1_0_4]
+[SDK+Mobiclip:MobiclipDec_1_0_2]
+[SDK+Mobiclip:MoflexDemuxer_1_1_0]
+
+Puzzle and Dragons Z - Puzzle and Dragons Super Mario Bros Edition (USA).3ds
+[SDK+NINTENDO:CTR_SDK-7_2_3_200_none]
+[SDK+NINTENDO:Firmware-02_40_01]
+[SDK+NINTENDO:CameraActivate]
+[SDK+NINTENDO:SaveDataSecureValue]
+[SDK+NINTENDO:SaveDataSecureValueLoosely]
+[SDK+NINTENDO:SaveDataSecureValueEx]
+[SDK+NINTENDO:IrCommunicator]
+[SDK+NINTENDO:NW4C_3_6_1_GFX1]
+[SDK+NINTENDO:NW4C_3_6_1_lyt1]
+[SDK+NINTENDO:NW4C_3_6_1_snd]
+[SDK+Nintendo:PIA_3_10_1]
+[SDK+Nintendo:PIA_COMMON_3_10_1]
+[SDK+Nintendo:PIA_LOCAL_3_10_1]
+[SDK+BCORE:Colorbit_1_1_3]
+[SDK+NINTENDO:RO]
+[SDK+NINTENDO:Ir]
+[SDK+NINTENDO:NW4C_3_6_1_fnt1]
+
+Puzzler World 2012 3D(USA).3ds
+[SDK+NINTENDO:CTR_SDK-2_3_4_200_none]
+[SDK+NINTENDO:Firmware-02_29_07]
+
+Puzzler World 2013 (USA).3ds
+[SDK+NINTENDO:CTR_SDK-4_2_4_200_none]
+[SDK+NINTENDO:Firmware-02_35_00]
+
+Rabbids Rumble (USA).3ds
+[SDK+NINTENDO:CTR_SDK-3_3_1_200_none]
+[SDK+NINTENDO:Firmware-02_32_15]
+[SDK+Mobiclip:FastAudioDec_1_0_1]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_1]
+[SDK+Mobiclip:MobiclipDec_1_0_2]
+[SDK+Mobiclip:MoflexDemuxer_1_1_0]
+[SDK+Nintendo:NARLib_1_3_3]
+[SDK+ISP:QRDec_1_2_3]
+[SDK+Nintendo:PIA_1_6_0]
+[SDK+Nintendo:NEX_2_7_1_S33]
+
+Rabbids Travel in Time 3D (USA).3ds
+[SDK+NINTENDO:CTR_SDK-0_14_23_200_none]
+[SDK+NINTENDO:Firmware-02_27]
+[SDK+Mobiclip:FastAudioDec_1_0_0]
+[SDK+Mobiclip:Deblocker_1_0_2]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_0]
+[SDK+Mobiclip:MobiclipDec_1_0_1]
+[SDK+Mobiclip:MoflexDemuxer_1_0_2]
+
+Radiant Historia - Perfect Chronology (USA).3ds
+[SDK+NINTENDO:CTR_SDK-11_5_1_200_none]
+[SDK+NINTENDO:Firmware-02_51_02]
+[SDK+Mobiclip:DspAdpcmDec_2_0_4]
+[SDK+Mobiclip:FastAudioDec_2_0_4]
+[SDK+Mobiclip:Deblocker_2_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_2_0_4]
+[SDK+Mobiclip:MobiclipDec_2_0_4]
+[SDK+Mobiclip:MoflexDemuxer_2_0_4]
+[SDK+NINTENDO:NW4C_3_7_5_GFX1]
+[SDK+NINTENDO:NW4C_3_7_5_fnt1]
+[SDK+NINTENDO:NW4C_3_7_5_snd]
+
+
+Rayman 3D (USA).3ds
+[SDK+NINTENDO:CTR_SDK-0_14_23_200_none]
+[SDK+NINTENDO:Firmware-02_27]
+[SDK+Mobiclip:FastAudioDec_1_0_0]
+[SDK+Mobiclip:Deblocker_1_0_2]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_0]
+[SDK+Mobiclip:MobiclipDec_1_0_1]
+[SDK+Mobiclip:MoflexDemuxer_1_0_2]
+
+Rayman Origins (USA).3ds
+[SDK+NINTENDO:CTR_SDK-2_4_2_200_none]
+[SDK+NINTENDO:Firmware-02_30_20]
+[SDK+Mobiclip:MoflexDemuxer_1_1_0]
+[SDK+Mobiclip:FastAudioDec_1_0_1]
+[SDK+Mobiclip:Deblocker_1_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_1]
+[SDK+Mobiclip:MobiclipDec_1_0_2]
+
+Real Heroes - Firefighter 3D (USA).3ds
+[SDK+NINTENDO:CTR_SDK-3_3_1_200_none]
+[SDK+NINTENDO:Firmware-02_32_15]
+
+Reel Fishing 3D Paradise (USA).3ds
+[SDK+NINTENDO:CTR_SDK-1_2_0_200_none]
+[SDK+NINTENDO:Firmware-02_27]
+
+Regular Show - Mordecai and Rigby in 8-bit Land (USA).3ds
+[SDK+NINTENDO:CTR_SDK-4_2_5_200_none]
+[SDK+NINTENDO:Firmware-02_35_00]
+
+Resident Evil Revelations (USA).3ds
+[SDK+NINTENDO:CTR_SDK-2_5_6_200_none]
+[SDK+NINTENDO:Firmware-02_31_38]
+[SDK+Mobiclip:FastAudioDec_1_0_1]
+[SDK+Mobiclip:Deblocker_1_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_1]
+[SDK+Mobiclip:MobiclipDec_1_0_2]
+[SDK+Mobiclip:MoflexDemuxer_1_0_3]
+[SDK+Nintendo:NEX_MM_2_3_2]
+[SDK+Nintendo:NEX_2_3_2_S25]
+
+Resident Evil The Mercenaries 3D (USA).3ds
+[SDK+NINTENDO:CTR_SDK-1_1_0_200_none]
+[SDK+NINTENDO:Firmware-02_27]
+[SDK+Mobiclip:FastAudioDec_1_0_0]
+[SDK+Mobiclip:Deblocker_1_0_3]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_0]
+[SDK+Mobiclip:MobiclipDec_1_0_1]
+[SDK+Mobiclip:MoflexDemuxer_1_0_2]
+[SDK+Nintendo:NEX_MM_1_1_0]
+[SDK+Nintendo:NEX_1_1_0]
+
+Return to PopoloCrois - A Story of Seasons Fairytale (USA).3ds
+[SDK+NINTENDO:CTR_SDK-7_2_3_200_none]
+[SDK+NINTENDO:Firmware-02_40_01]
+[SDK+Mobiclip:DspAdpcmDec_2_0_2]
+[SDK+Mobiclip:FastAudioDec_2_0_2]
+[SDK+Mobiclip:Deblocker_2_0_2]
+[SDK+Mobiclip:ImaAdpcmDec_2_0_2]
+[SDK+Mobiclip:MobiclipDec_2_0_2]
+[SDK+Mobiclip:MoflexDemuxer_2_0_2]
+[SDK+NINTENDO:NW4C_3_6_0_eft]
+[SDK+NINTENDO:NW4C_3_6_0_lyt2]
+[SDK+NINTENDO:NW4C_3_6_0_snd]
+[SDK+NINTENDO:NW4C_3_6_0_fnt2]
+
+Rhythm Thief & the Emperors Treasure (USA).3ds
+[SDK+NINTENDO:CTR_SDK-2_4_0_200_none]
+[SDK+NINTENDO:Firmware-02_30_20]
+[SDK+Mobiclip:FastAudioDec_1_0_1]
+[SDK+Mobiclip:Deblocker_1_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_1]
+[SDK+Mobiclip:MobiclipDec_1_0_2]
+[SDK+Mobiclip:MoflexDemuxer_1_0_3]
+
+Ridge Racer 3D (USA).3ds
+[SDK+NINTENDO:CTR_SDK-0_14_23_200_none]
+[SDK+NINTENDO:Firmware-02_27]
+[SDK+Mobiclip:MobiclipDec_1_0_1]
+[SDK+Mobiclip:FastAudioDec_1_0_0]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_0]
+[SDK+Mobiclip:MoflexDemuxer_1_0_2]
+[SDK+Mobiclip:Deblocker_1_0_2]
+
+Rise of the Guardians(USA).3ds
+[SDK+NINTENDO:CTR_SDK-3_3_3_200_none]
+[SDK+NINTENDO:Firmware-02_32_15]
+
+River City - Rival Showdown (USA).3ds
+[SDK+NINTENDO:CTR_SDK-11_4_0_200_none]
+[SDK+NINTENDO:Firmware-02_50_8]
+[SDK+NINTENDO:NW4C_3_7_2_GFX1]
+[SDK+NINTENDO:NW4C_3_7_5_snd]
+[SDK+Mobiclip:MobiclipDec_1_0_2]
+[SDK+Mobiclip:FastAudioDec_1_0_1]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_1]
+[SDK+Mobiclip:MoflexDemuxer_1_1_1]
+[SDK+Mobiclip:Deblocker_1_0_4]
+
+
+River City - Tokyo Rumble (USA).3ds
+[SDK+NINTENDO:CTR_SDK-4_2_6_200_none]
+[SDK+NINTENDO:Firmware-02_35_00]
+[SDK+Mobiclip:MobiclipDec_1_0_2]
+[SDK+Mobiclip:FastAudioDec_1_0_1]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_1]
+[SDK+Mobiclip:MoflexDemuxer_1_1_1]
+[SDK+Mobiclip:Deblocker_1_0_4]
+
+Rodea the Sky Soldier (USA).3ds
+[SDK+NINTENDO:CTR_SDK-7_2_3_200_none]
+[SDK+NINTENDO:Firmware-02_40_01]
+[SDK+NINTENDO:Gyroscope]
+[SDK+Mobiclip:DspAdpcmDec_1_0_0]
+[SDK+Mobiclip:FastAudioDec_1_0_1]
+[SDK+Mobiclip:Deblocker_1_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_1]
+[SDK+Mobiclip:MobiclipDec_1_0_2]
+[SDK+Mobiclip:MoflexDemuxer_1_1_1]
+
+RollerCoaster Tycoon 3D(USA).3ds
+[SDK+NINTENDO:CTR_SDK-2_4_0_200_none]
+[SDK+NINTENDO:Firmware-02_30_20]
+
+RPG Maker Fes (USA)(M3).3ds
+[SDK+NINTENDO:CTR_SDK-11_4_0_200_none]
+[SDK+NINTENDO:Firmware-02_50_8]
+[SDK+NINTENDO:NW4C_3_7_5_fnt2]
+[SDK+OMRONSW:iWnn_OM_2_0_0]
+[SDK+Nintendo:NEX_3_10_0]
+[SDK+NINTENDO:NW4C_3_7_5_GFX1]
+
+Runbow Pocket (USA)(N3DS).3ds
+[SDK+NINTENDO:CTR_SDK-11_5_1_200_none]
+[SDK+NINTENDO:Firmware-02_51_02]
+[SDK+Unity:Unity N3DS 5.2.4f1_3ee25d8ced9a, CTR_SDK-11_5_1_200_none]
+[SDK+NINTENDO:IsRunOnSnake]
+[SDK+NINTENDO:IsRunningAsExtApplication]
+[SDK+NINTENDO:ExtraPad]
+[SDK+NINTENDO:Gyroscope]
+[SDK+NINTENDO:Ir]
+[SDK+NINTENDO:EcRequestPurchaseContentSetsByCreditCard]
+[SDK+NINTENDO:EcRequestRecurringSubscription]
+
+
+Rune Factory 4 (USA).3ds
+[SDK+NINTENDO:CTR_SDK-4_2_5_200_none]
+[SDK+NINTENDO:Firmware-02_35_00]
+[SDK+Mobiclip:Deblocker_1_4_2]
+[SDK+Mobiclip:MobiclipDec_1_4_2]
+[SDK+Mobiclip:MoflexDemuxer_1_4_2]
+
+Samurai Warriors Chronicles (USA).3ds
+[SDK+NINTENDO:CTR_SDK-0_14_23_200_none]
+[SDK+NINTENDO:Firmware-02_27]
+[SDK+Mobiclip:FastAudioDec_1_0_0]
+[SDK+Mobiclip:Deblocker_1_0_2]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_0]
+[SDK+Mobiclip:MobiclipDec_1_0_1]
+[SDK+Mobiclip:MoflexDemuxer_1_0_2]
+
+Scooby-Doo and Looney Tunes Cartoon Universe - Adventure (USA).3ds
+[SDK+NINTENDO:CTR_SDK-5_2_3_200_none]
+[SDK+NINTENDO:Firmware-02_36_00]
+
+Scribblenauts Unlimited (USA).3ds
+[SDK+NINTENDO:CTR_SDK-3_3_3_200_none]
+[SDK+NINTENDO:Firmware-02_32_15]
+
+Scribblenauts Unmasked - A DC Comics Adventure (USA).3ds
+[SDK+NINTENDO:CTR_SDK-4_2_5_200_none]
+[SDK+NINTENDO:Firmware-02_35_00]
+
+Sega 3D Classics Collection (USA).3ds
+[SDK+NINTENDO:CTR_SDK-11_3_1_200_none]
+[SDK+NINTENDO:Firmware-02_50_00]
+[SDK+NINTENDO:IsRunOnSnake]
+[SDK+NINTENDO:3DVolume]
+[SDK+Nintendo:DSPAACDec_1_0_0]
+[SDK+NINTENDO:RO]
+[SDK+NINTENDO:ExtraPad]
+[SDK+NINTENDO:Gyroscope]
+[SDK+NINTENDO:Ir]
+
+Senran Kagura 2 - Deep Crimson (USA).3ds
+[SDK+NINTENDO:CTR_SDK-5_2_3_200_none]
+[SDK+NINTENDO:Firmware-02_36_00]
+[SDK+NINTENDO:NW4C_3_2_2_snd]
+[SDK+Nintendo:NARLib_1_5_1]
+[SDK+Mobiclip:DspAdpcmDec_1_5_3]
+[SDK+Mobiclip:FastAudioDec_1_5_3]
+[SDK+Mobiclip:MoflexDemuxer_1_5_3]
+[SDK+Mobiclip:Deblocker_1_5_3]
+[SDK+Mobiclip:ImaAdpcmDec_1_5_3]
+[SDK+Mobiclip:MobiclipDec_1_5_3]
+[SDK+NINTENDO:NW4C_3_2_2_lyt2]
+[SDK+NINTENDO:NW4C_3_2_2_eft]
+[SDK+Nintendo:NEX_MM_3_5_1]
+[SDK+Nintendo:NEX_3_5_1]
+[SDK+Nintendo:PIA_3_4_0]
+[SDK+NINTENDO:NW4C_3_2_2_fnt2]
+
+
+Shakedown Hawaii (USA).3ds
+[SDK+NINTENDO:CTR_SDK-11_6_1_200_none]
+[SDK+NINTENDO:Firmware-02_54_00]
+[SDK+NINTENDO:ExtraPad]
+[SDK+NINTENDO:IsRunOnSnake]
+[SDK+NINTENDO:IsRunningAsExtApplication]
+[SDK+NINTENDO:Ir]
+
+
+Shantae and the Pirates Curse (USA).3ds
+[SDK+NINTENDO:CTR_SDK-11_4_0_200_none]
+[SDK+NINTENDO:Firmware-02_50_8]
+[SDK+NINTENDO:ExtraPad]
+[SDK+NINTENDO:Ir]
+
+Shifting World (USA).3ds
+[SDK+NINTENDO:CTR_SDK-2_4_0_200_none]
+[SDK+NINTENDO:Firmware-02_30_20]
+
+Shin Megami Tensei - Devil Summoner - Soul Hackers (USA).3ds
+[SDK+NINTENDO:CTR_SDK-4_2_5_200_none]
+[SDK+NINTENDO:Firmware-02_35_00]
+[SDK+Mobiclip:FastAudioDec_1_0_1]
+[SDK+Mobiclip:Deblocker_1_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_1]
+[SDK+Mobiclip:MobiclipDec_1_0_2]
+[SDK+Mobiclip:MoflexDemuxer_1_1_1]
+
+Shin Megami Tensei - Devil Survivor 2 Record Breaker (USA)(En).3ds
+[SDK+NINTENDO:CTR_SDK-4_2_5_200_none]
+[SDK+NINTENDO:Firmware-02_35_00]
+[SDK+Mobiclip:DspAdpcmDec_1_4_2]
+[SDK+Mobiclip:FastAudioDec_1_4_2]
+[SDK+Mobiclip:Deblocker_1_4_2]
+[SDK+Mobiclip:ImaAdpcmDec_1_4_2]
+[SDK+Mobiclip:MobiclipDec_1_4_2]
+[SDK+Mobiclip:MoflexDemuxer_1_4_2]
+
+Shin Megami Tensei Devil Survivor Overclocked (USA).3ds
+[SDK+NINTENDO:CTR_SDK-1_1_0_200_none]
+[SDK+NINTENDO:Firmware-02_27]
+
+Shin Megami Tensei IV - Apocalypse (USA).3ds
+[SDK+NINTENDO:CTR_SDK-11_1_1_200_none]
+[SDK+NINTENDO:Firmware-02_48_04]
+[SDK+Mobiclip:DspAdpcmDec_2_0_4]
+[SDK+Mobiclip:FastAudioDec_2_0_4]
+[SDK+Mobiclip:Deblocker_2_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_2_0_4]
+[SDK+Mobiclip:MobiclipDec_2_0_4]
+[SDK+Mobiclip:MoflexDemuxer_2_0_4]
+[SDK+Nintendo:NEX_DS_3_8_3]
+[SDK+Nintendo:NEX_3_8_3]
+[SDK+NINTENDO:NW4C_3_7_2_fnt1]
+[SDK+NINTENDO:NW4C_3_7_2_snd]
+[SDK+NINTENDO:NW4C_3_7_2_GFX1]
+
+Shin Megami Tensei IV 3DS (USA).3ds
+[SDK+NINTENDO:CTR_SDK-4_2_1_200_none]
+[SDK+NINTENDO:Firmware-02_35_00]
+[SDK+Mobiclip:DspAdpcmDec_1_0_0]
+[SDK+Mobiclip:FastAudioDec_1_0_1]
+[SDK+Mobiclip:Deblocker_1_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_1]
+[SDK+Mobiclip:MobiclipDec_1_0_2]
+[SDK+Mobiclip:MoflexDemuxer_1_1_1]
+
+Shinobi (USA).3ds
+[SDK+NINTENDO:CTR_SDK-1_3_0_200_none]
+[SDK+NINTENDO:Firmware-02_27]
+[SDK+Mobiclip:Deblocker_1_0_3]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_0]
+[SDK+Mobiclip:MobiclipDec_1_0_1]
+[SDK+Mobiclip:MoflexDemuxer_1_0_3]
+
+Shovel Knight (USA).3ds
+[SDK+NINTENDO:CTR_SDK-11_1_1_200_none]
+[SDK+NINTENDO:Firmware-02_48_04]
+
+Skylanders - Spyros Adventure (USA).3ds
+[SDK+NINTENDO:CTR_SDK-2_3_4_200_none]
+[SDK+NINTENDO:Firmware-02_29_07]
+
+Skylanders - Swap Force (USA).3ds
+[SDK+NINTENDO:CTR_SDK-4_2_5_200_none]
+[SDK+NINTENDO:Firmware-02_35_00]
+
+Skylanders Giants (USA).3ds
+[SDK+NINTENDO:CTR_SDK-3_3_2_200_none]
+[SDK+NINTENDO:Firmware-02_32_15]
+
+Skylanders SuperChargers Racing (USA).3ds
+[SDK+NINTENDO:CTR_SDK-11_1_0_200_none]
+[SDK+NINTENDO:Firmware-02_48_04]
+[SDK+NINTENDO:IsRunningAsExtApplication]
+[SDK+Nintendo:NEX_3_8_2]
+[SDK+NINTENDO:Ir]
+[SDK+Mobiclip:Deblocker_2_0_4]
+[SDK+Mobiclip:MobiclipDec_2_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_2_0_4]
+[SDK+Mobiclip:MoflexDemuxer_2_0_4]
+
+Skylanders Trap Team (USA).3ds
+[SDK+NINTENDO:CTR_SDK-5_2_3_200_none]
+[SDK+NINTENDO:Firmware-02_36_00]
+[SDK+NINTENDO:3DVolume]
+[SDK+Nintendo:NEX_3_5_1]
+
+Smurfs, The (USA).3ds
+[SDK+NINTENDO:CTR_SDK-7_2_3_200_none]
+[SDK+NINTENDO:Firmware-02_40_01]
+[SDK+Mobiclip:FastAudioDec_1_0_1]
+[SDK+Mobiclip:Deblocker_1_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_1]
+[SDK+Mobiclip:MobiclipDec_1_0_2]
+[SDK+Mobiclip:MoflexDemuxer_1_1_0]
+[SDK+NINTENDO:Gyroscope]
+[SDK+NINTENDO:3DVolume]
+
+
+Sonic & All-Stars Racing Transformed(USA).3ds
+[SDK+NINTENDO:CTR_SDK-4_2_3_200_none]
+[SDK+NINTENDO:Firmware-02_35_00]
+[SDK+Mobiclip:FastAudioDec_1_0_1]
+[SDK+Mobiclip:Deblocker_1_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_1]
+[SDK+Mobiclip:MobiclipDec_1_0_2]
+[SDK+Mobiclip:MoflexDemuxer_1_1_1]
+[SDK+NINTENDO:CTRFaceLibrary-20120626]
+[SDK+OSS:zlib]
+[SDK+Nintendo:NEX_2_7_3_S41]
+[SDK+Nintendo:NEX_MM_2_7_3]
+
+Sonic - Lost World(USA).3ds
+[SDK+NINTENDO:CTR_SDK-4_2_5_200_none]
+[SDK+NINTENDO:Firmware-02_35_00]
+[SDK+Nintendo:PIA_2_10_1]
+[SDK+Nintendo:NEX_MM_2_7_3]
+[SDK+Nintendo:NEX_2_7_3_S41]
+[SDK+Nintendo:NEX_RK_2_7_3]
+[SDK+NINTENDO:CTRFaceLibrary-20121214]
+
+Sonic Boom - Fire & Ice (USA).3ds
+[SDK+NINTENDO:CTR_SDK-11_4_0_200_none]
+[SDK+NINTENDO:Firmware-02_50_8]
+[SDK+Mobiclip:DspAdpcmDec_2_0_4]
+[SDK+Mobiclip:FastAudioDec_2_0_4]
+[SDK+Mobiclip:Deblocker_2_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_2_0_4]
+[SDK+Mobiclip:MobiclipDec_2_0_4]
+[SDK+Mobiclip:MoflexDemuxer_2_0_4]
+
+Sonic Boom - Shattered Crystal (USA).3ds
+[SDK+NINTENDO:CTR_SDK-7_1_1_200_none]
+[SDK+NINTENDO:Firmware-02_39_00]
+[SDK+Mobiclip:DspAdpcmDec_1_5_4]
+[SDK+Mobiclip:FastAudioDec_1_5_4]
+[SDK+Mobiclip:Deblocker_1_5_4]
+[SDK+Mobiclip:ImaAdpcmDec_1_5_4]
+[SDK+Mobiclip:MobiclipDec_1_5_4]
+[SDK+Mobiclip:MoflexDemuxer_1_5_4]
+
+Sonic Generations (USA).3ds
+[SDK+NINTENDO:CTR_SDK-2_4_0_200_none]
+[SDK+NINTENDO:Firmware-02_30_20]
+[SDK+Nintendo:NEX_2_2_0]
+[SDK+Nintendo:NEX_MM_2_2_0]
+[SDK+Nintendo:NEX_RK_2_2_0]
+
+Sonic Generations (v01)(USA)(M3).3ds
+[SDK+NINTENDO:CTR_SDK-2_4_0_200_none]
+[SDK+NINTENDO:Firmware-02_30_20]
+[SDK+Nintendo:NEX_2_2_0]
+[SDK+Nintendo:NEX_MM_2_2_0]
+[SDK+Nintendo:NEX_RK_2_2_0]
+
+SpiderMan Edge of Time (USA).3ds
+[SDK+NINTENDO:CTR_SDK-2_3_4_200_none]
+[SDK+NINTENDO:Firmware-02_29_07]
+[SDK+Mobiclip:MoflexDemuxer_1_0_2]
+[SDK+Mobiclip:MobiclipDec_1_0_1]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_0]
+[SDK+Mobiclip:Deblocker_1_0_3]
+
+Spirit Camera The Cursed Memoir (USA).3ds
+[SDK+NINTENDO:CTR_SDK-2_4_0_200_none]
+[SDK+NINTENDO:Firmware-02_30_20]
+[SDK+Nintendo:NARLib_1_1_0]
+[SDK+Mobiclip:FastAudioDec_1_0_0]
+[SDK+Mobiclip:Deblocker_1_0_3]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_0]
+[SDK+Mobiclip:MobiclipDec_1_0_1]
+[SDK+Mobiclip:MoflexDemuxer_1_0_3]
+[SDK+Panasonic:PFID_PFID_1_0_3]
+
+SpongeBob HeroPants (USA).3ds
+[SDK+NINTENDO:CTR_SDK-7_1_1_200_none]
+[SDK+NINTENDO:Firmware-02_39_00]
+[SDK+NINTENDO:RO]
+
+SpongeBob SquarePants - Planktons Robotic Revenge (USA).3ds
+[SDK+NINTENDO:CTR_SDK-4_2_5_200_none]
+[SDK+NINTENDO:Firmware-02_35_00]
+
+SpongeBob SquigglePants 3D (Usa).3ds
+[SDK+NINTENDO:CTR_SDK-1_1_0_200_none]
+[SDK+NINTENDO:Firmware-02_27]
+
+SpongeBob SquigglePants 3D (v01)(USA)(M3).3ds
+[SDK+NINTENDO:CTR_SDK-2_4_1_200_none]
+[SDK+NINTENDO:Firmware-02_30_20]
+
+Spy Hunter(USA).3ds
+[SDK+NINTENDO:CTR_SDK-3_3_2_200_none]
+[SDK+NINTENDO:Firmware-02_32_15]
+[SDK+Mobiclip:Deblocker_1_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_1]
+[SDK+Mobiclip:MobiclipDec_1_0_2]
+[SDK+Mobiclip:MoflexDemuxer_1_1_0]
+
+Star Fox 64 3D (USA).3ds
+[SDK+NINTENDO:CTR_SDK-1_1_0_200_none]
+[SDK+NINTENDO:Firmware-02_27]
+
+Steel Diver (USA).3ds
+[SDK+NINTENDO:CTR_SDK-0_14_23_200_none]
+[SDK+NINTENDO:Firmware-02_27]
+
+Stella Glow (USA).3ds
+[SDK+NINTENDO:NW4C_3_7_1_fnt2]
+[SDK+NINTENDO:CTR_SDK-11_3_0_200_none]
+[SDK+NINTENDO:Firmware-02_50_00]
+[SDK+Mobiclip:DspAdpcmDec_1_5_4]
+[SDK+Mobiclip:FastAudioDec_1_5_4]
+[SDK+Mobiclip:Deblocker_1_5_4]
+[SDK+Mobiclip:ImaAdpcmDec_1_5_4]
+[SDK+Mobiclip:MobiclipDec_1_5_4]
+[SDK+Mobiclip:MoflexDemuxer_1_5_4]
+[SDK+NINTENDO:NW4C_3_3_1_GFX1]
+[SDK+NINTENDO:NW4C_3_3_1_lyt2]
+[SDK+NINTENDO:NW4C_3_7_1_snd]
+
+Story of Seasons (USA).3ds
+[SDK+NINTENDO:CTR_SDK-5_2_2_200_none]
+[SDK+NINTENDO:Firmware-02_36_00]
+[SDK+Nintendo:NEX_MM_3_4_2]
+[SDK+Nintendo:NEX_3_4_2]
+[SDK+Nintendo:PIA_3_2_0]
+[SDK+Mobiclip:MoflexDemuxer_1_5_3]
+[SDK+Mobiclip:MobiclipDec_1_5_3]
+[SDK+Mobiclip:ImaAdpcmDec_1_5_3]
+[SDK+Mobiclip:FastAudioDec_1_5_3]
+[SDK+Mobiclip:Deblocker_1_5_3]
+
+Story of Seasons - Trio of Towns (USA).3ds
+[SDK+NINTENDO:CTR_SDK-11_4_0_200_none]
+[SDK+NINTENDO:Firmware-02_50_8]
+[SDK+NINTENDO:IsRunOnSnake]
+[SDK+NINTENDO:IsRunningAsExtApplication]
+[SDK+NINTENDO:NW4C_3_7_4_eft]
+[SDK+NINTENDO:NW4C_3_7_4_lyt2]
+[SDK+NINTENDO:NW4C_3_7_4_snd]
+[SDK+Nintendo:NEX_3_10_0]
+[SDK+Nintendo:PIA_4_10_2]
+[SDK+Nintendo:PIA_COMMON_4_10_2]
+[SDK+Nintendo:PIA_INET_4_10_2]
+[SDK+Nintendo:PIA_LOCAL_4_10_2]
+[SDK+Nintendo:PIA_SESSION_4_10_2]
+[SDK+Nintendo:PIA_TRANSPORT_4_10_2]
+[SDK+Mobiclip:MoflexDemuxer_2_0_4]
+[SDK+Mobiclip:MobiclipDec_2_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_2_0_4]
+[SDK+Mobiclip:FastAudioDec_2_0_4]
+[SDK+Mobiclip:Deblocker_2_0_4]
+[SDK+NINTENDO:ExtraPad]
+[SDK+NINTENDO:NW4C_3_7_4_fnt2]
+[SDK+OSS:zlib]
+[SDK+Nintendo:NEX_MM_3_10_0]
+[SDK+NINTENDO:Ir]
+
+Style Savvy - Fashion Forward (USA).3ds
+[SDK+NINTENDO:CTR_SDK-11_3_0_200_none]
+[SDK+NINTENDO:Firmware-02_50_00]
+[SDK+NINTENDO:CameraActivate]
+[SDK+NINTENDO:CameraInitialize]
+[SDK+NINTENDO:NFP]
+[SDK+Mobiclip:DspAdpcmDec_2_0_4]
+[SDK+Mobiclip:MobiclipDec_2_0_4]
+[SDK+Mobiclip:MoflexDemuxer_2_0_4]
+[SDK+Mobiclip:Deblocker_2_0_4]
+[SDK+NINTENDO:SoundVolume]
+[SDK+NINTENDO:IsRunOnSnake]
+[SDK+NINTENDO:NW4C_3_6_1_eft]
+[SDK+NINTENDO:NW4C_3_6_1_lyt2]
+[SDK+Nintendo:PIA_4_5_0]
+[SDK+Nintendo:PIA_COMMON_4_5_0]
+[SDK+Nintendo:PIA_SESSION_4_5_0]
+[SDK+Nintendo:PIA_TRANSPORT_4_5_0]
+[SDK+Nintendo:PIA_LOCAL_4_5_0]
+[SDK+Nintendo:NEX_DS_3_8_1]
+[SDK+Nintendo:NEX_3_8_1]
+[SDK+NINTENDO:CTRFaceLibrary-20141210]
+[SDK+Nintendo:NARLib_2_0_1]
+[SDK+ISP:QRDec_2_0_1]
+[SDK+NINTENDO:IsRunningAsExtApplication]
+[SDK+NINTENDO:NW4C_3_6_1_fnt2]
+[SDK+OSS:zlib]
+
+Style Savvy Trendsetters (USA).3ds
+[SDK+NINTENDO:CTR_SDK-3_3_0_200_none]
+[SDK+NINTENDO:Firmware-02_32_15]
+[SDK+Mobiclip:Deblocker_1_0_4]
+[SDK+Mobiclip:MobiclipDec_1_0_2]
+[SDK+Mobiclip:MoflexDemuxer_1_1_0]
+[SDK+Nintendo:NARLib_1_3_3]
+[SDK+Nintendo:NEX_2_5_0_S32]
+[SDK+Nintendo:NEX_DS_2_5_0]
+[SDK+Nintendo:PIA_1_4_0]
+
+Super Black Bass 3D (USA).3ds
+[SDK+NINTENDO:CTR_SDK-2_3_4_200_none]
+[SDK+NINTENDO:Firmware-02_29_07]
+[SDK+Nintendo:NEX_2_2_0]
+[SDK+Nintendo:NEX_RK_2_2_0]
+
+Super Mario 3D Land (USA).3ds
+[SDK+NINTENDO:CTR_SDK-2_4_1_200_none]
+[SDK+NINTENDO:Firmware-02_30_20]
+
+Super Mario 3D Land (v01)(USA)(M3).3ds
+[SDK+NINTENDO:CTR_SDK-2_4_1_200_none]
+[SDK+NINTENDO:Firmware-02_30_20]
+
+Super Mario Maker for Nintendo 3DS (USA).3ds
+[SDK+NINTENDO:CTR_SDK-11_4_0_200_none]
+[SDK+NINTENDO:Firmware-02_50_8]
+[SDK+Nintendo:NEX_3_8_8AMA]
+[SDK+NINTENDO:IsRunOnSnake]
+[SDK+NINTENDO:CTRFaceLibrary-20141210]
+[SDK+NINTENDO:NW4C_3_7_5_fnt2]
+[SDK+NINTENDO:NW4C_3_7_5_lyt2]
+[SDK+NINTENDO:NW4C_3_7_5_snd]
+
+
+Super Mario Maker for Nintendo 3DS (v02)(USA)(M3).3ds
+[SDK+NINTENDO:CTR_SDK-11_4_0_200_none]
+[SDK+NINTENDO:Firmware-02_50_8]
+[SDK+Nintendo:NEX_DS_3_8_9]
+[SDK+Nintendo:NEX_3_8_9AMA]
+[SDK+NINTENDO:IsRunOnSnake]
+[SDK+NINTENDO:CTRFaceLibrary-20141210]
+[SDK+NINTENDO:NW4C_3_7_5_fnt2]
+[SDK+NINTENDO:NW4C_3_7_5_lyt2]
+[SDK+NINTENDO:NW4C_3_7_5_snd]
+
+
+Super Monkey Ball 3D (USA).3ds
+[SDK+NINTENDO:CTR_SDK-0_14_23_200_none]
+[SDK+NINTENDO:Firmware-02_27]
+
+Super Smash Bros. for Nintendo 3DS (USA).3ds
+[SDK+NINTENDO:CTR_SDK-9_11_0_200_none]
+[SDK+NINTENDO:Firmware-02_44_05]
+[SDK+NINTENDO:RO]
+[SDK+Nintendo:NEX_3_6_12AXCJ]
+[SDK+Nintendo:NEX_DS_3_6_12]
+[SDK+NINTENDO:NW4C_3_3_2_eft]
+[SDK+NINTENDO:SaveDataSecureValue]
+[SDK+NINTENDO:SaveDataSecureValueLoosely]
+[SDK+NINTENDO:SaveDataSecureValueEx]
+[SDK+NINTENDO:ExtraPad]
+[SDK+NINTENDO:CTRFaceLibrary-20140604]
+[SDK+Nintendo:NEX_UT_3_6_12]
+[SDK+Mobiclip:DspAdpcmDec_2_0_0]
+[SDK+Mobiclip:FastAudioDec_2_0_0]
+[SDK+Mobiclip:Deblocker_2_0_0]
+[SDK+Mobiclip:ImaAdpcmDec_2_0_0]
+[SDK+Mobiclip:MobiclipDec_2_0_0]
+[SDK+Mobiclip:MoflexDemuxer_2_0_0]
+[SDK+Nintendo:PIA_3_9_2]
+[SDK+Nintendo:NEX_MM_3_6_12]
+[SDK+OSS:zlib]
+[SDK+NINTENDO:Ir]
+[SDK+Nintendo:DSPAACDec_1_0_0]
+
+Super Street Fighter IV 3D Edition (USA).3ds
+[SDK+NINTENDO:CTR_SDK-0_14_23_200_none]
+[SDK+NINTENDO:Firmware-02_27]
+[SDK+Mobiclip:FastAudioDec_1_0_0]
+[SDK+Mobiclip:Deblocker_1_0_2]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_0]
+[SDK+Mobiclip:MobiclipDec_1_0_1]
+[SDK+Mobiclip:MoflexDemuxer_1_0_2]
+[SDK+Nintendo:NEX_MM_0_7_18]
+[SDK+Nintendo:NEX_0_7_18]
+
+Sushi Striker - The Way of Sushido (USA).3ds
+[SDK+NINTENDO:CTR_SDK-11_5_1_200_none]
+[SDK+NINTENDO:Firmware-02_51_02]
+[SDK+Mobiclip:DspAdpcmDec_2_0_4]
+[SDK+Mobiclip:FastAudioDec_2_0_4]
+[SDK+Mobiclip:Deblocker_2_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_2_0_4]
+[SDK+Mobiclip:MobiclipDec_2_0_4]
+[SDK+Mobiclip:MoflexDemuxer_2_0_4]
+[SDK+Nintendo:NEX_R2_4_1_1]
+[SDK+Nintendo:NEX_UT_4_1_1]
+[SDK+Nintendo:NEX_4_1_1]
+[SDK+NINTENDO:NW4C_3_7_4_lyt2]
+[SDK+NINTENDO:NW4C_3_7_4_snd]
+[SDK+Nintendo:PIA_5_2_10]
+[SDK+Nintendo:PIA_COMMON_5_2_10]
+[SDK+Nintendo:PIA_INET_5_2_10]
+[SDK+Nintendo:PIA_LOCAL_5_2_10]
+[SDK+Nintendo:PIA_SESSION_5_2_10]
+[SDK+Nintendo:PIA_SYNC_5_2_10]
+[SDK+Nintendo:PIA_TRANSPORT_5_2_10]
+[SDK+Nintendo:DSPAACDec_1_0_0]
+[SDK+NINTENDO:NW4C_3_7_4_fnt2]
+[SDK+Nintendo:NEX_MM_4_1_1]
+[SDK+OSS:zlib]
+[SDK+NINTENDO:IsRunningAsExtApplication]
+
+
+Tales of the Abyss (USA).3ds
+[SDK+NINTENDO:CTR_SDK-1_0_0_200_none]
+[SDK+NINTENDO:Firmware-02_27]
+[SDK+Nintendo:DSPAACDec_1_0_0]
+[SDK+Mobiclip:MobiclipDec_1_0_1]
+[SDK+Mobiclip:FastAudioDec_1_0_0]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_0]
+[SDK+Mobiclip:MoflexDemuxer_1_0_2]
+[SDK+Mobiclip:Deblocker_1_0_3]
+
+Teenage Mutant Ninja Turtles - Danger of the Ooze (USA).3ds
+[SDK+NINTENDO:CTR_SDK-7_1_1_200_none]
+[SDK+NINTENDO:Firmware-02_39_00]
+[SDK+Mobiclip:MoflexDemuxer_1_5_0]
+[SDK+Mobiclip:DspAdpcmDec_1_5_0]
+[SDK+Mobiclip:FastAudioDec_1_5_0]
+[SDK+Mobiclip:Deblocker_1_5_0]
+[SDK+Mobiclip:ImaAdpcmDec_1_5_0]
+[SDK+Mobiclip:MobiclipDec_1_5_0]
+
+Teenage Mutant Ninja Turtles - Master Splinter's Training Pack (USA) (En,Fr).3ds
+[SDK+NINTENDO:CTR_SDK-7_2_3_200_none]
+[SDK+NINTENDO:Firmware-02_40_01]
+[SDK+NINTENDO:RO]
+[SDK+Mobiclip:DspAdpcmDec_1_5_7]
+[SDK+Mobiclip:FastAudioDec_1_5_7]
+[SDK+Mobiclip:Deblocker_1_5_7]
+[SDK+Mobiclip:ImaAdpcmDec_1_5_7]
+[SDK+Mobiclip:MobiclipDec_1_5_7]
+[SDK+Mobiclip:MoflexDemuxer_1_5_7]
+[SDK+NINTENDO:Gyroscope]
+
+Teenage Mutant Ninja Turtles - Movie(USA).3ds
+[SDK+NINTENDO:CTR_SDK-5_2_3_200_none]
+[SDK+NINTENDO:Firmware-02_36_00]
+[SDK+Mobiclip:FastAudioDec_1_0_1]
+[SDK+Mobiclip:Deblocker_1_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_1]
+[SDK+Mobiclip:MobiclipDec_1_0_2]
+[SDK+Mobiclip:MoflexDemuxer_1_1_0]
+[SDK+NINTENDO:3DVolume]
+
+
+Teenage Mutant Ninja Turtles - Nickelodeon(USA).3ds
+[SDK+NINTENDO:CTR_SDK-4_2_6_200_none]
+[SDK+NINTENDO:Firmware-02_35_00]
+[SDK+Mobiclip:FastAudioDec_1_0_1]
+[SDK+Mobiclip:Deblocker_1_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_1]
+[SDK+Mobiclip:MobiclipDec_1_0_2]
+[SDK+Mobiclip:MoflexDemuxer_1_1_0]
+
+Tekken 3D - Prime Edition (USA).3ds
+[SDK+NINTENDO:CTR_SDK-2_4_2_200_none]
+[SDK+NINTENDO:Firmware-02_30_20]
+[SDK+Nintendo:NEX_2_3_4_S24]
+[SDK+Nintendo:NEX_MM_2_3_4]
+[SDK+Mobiclip:MoflexDemuxer_1_1_0]
+[SDK+Mobiclip:MobiclipDec_1_0_2]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_1]
+[SDK+Mobiclip:FastAudioDec_1_0_1]
+[SDK+Mobiclip:Deblocker_1_0_4]
+
+Tenkai Knights - Brave Battle (USA) (En,Fr,Es).3ds
+[SDK+NINTENDO:CTR_SDK-5_2_3_200_none]
+[SDK+NINTENDO:Firmware-02_36_00]
+[SDK+Nintendo:PIA_3_5_0]
+[SDK+Nintendo:NEX_3_5_1]
+[SDK+Nintendo:NEX_MM_3_5_1]
+
+Terraria (USA) (Rev 1).3ds
+[SDK+NINTENDO:CTR_SDK-11_3_1_200_none]
+[SDK+NINTENDO:Firmware-02_50_00]
+[SDK+NINTENDO:IsRunningAsExtApplication]
+[SDK+Nintendo:PIA_4_9_3]
+[SDK+Nintendo:PIA_COMMON_4_9_3]
+[SDK+Nintendo:PIA_TRANSPORT_4_9_3]
+[SDK+Nintendo:PIA_LOCAL_4_9_3]
+[SDK+Nintendo:PIA_SESSION_4_9_3]
+[SDK+NINTENDO:ExtraPad]
+[SDK+NINTENDO:Ir]
+
+
+Tetris Axis (USA).3ds
+[SDK+NINTENDO:CTR_SDK-1_2_0_200_none]
+[SDK+NINTENDO:Firmware-02_27]
+[SDK+Nintendo:NARLib_1_1_0]
+[SDK+Nintendo:NEX_2_0_0 S1]
+[SDK+Nintendo:NEX_RK_2_0_0]
+[SDK+Nintendo:NEX_MM_2_0_0]
+
+Tetris Ultimate (USA).3ds
+[SDK+NINTENDO:CTR_SDK-7_1_1_200_none]
+[SDK+NINTENDO:Firmware-02_39_00]
+[SDK+Nintendo:NEX_3_7_0]
+[SDK+Nintendo:NEX_RK_3_7_0]
+[SDK+Nintendo:PIA_3_8_0]
+[SDK+Nintendo:NEX_MM_3_7_0]
+[SDK+Nintendo:NEX_DS_3_7_0]
+[SDK+NINTENDO:NW4C_3_3_1_eft]
+[SDK+NINTENDO:NW4C_3_3_1_snd]
+[SDK+NINTENDO:CTRFaceLibrary-20140501]
+[SDK+NINTENDO:NW4C_3_3_1_fnt2]
+[SDK+NINTENDO:NW4C_3_3_1_lyt2]
+[SDK+OSS:zlib]
+
+
+The Adventures of Tintin (USA).3ds
+[SDK+NINTENDO:CTR_SDK-2_3_4_200_none]
+[SDK+NINTENDO:Firmware-02_29_07]
+[SDK+Nintendo:NEX_2_2_0]
+
+The Amazing Spider-Man (USA).3ds
+[SDK+NINTENDO:CTR_SDK-2_4_2_200_none]
+[SDK+NINTENDO:Firmware-02_30_20]
+[SDK+Mobiclip:MoflexDemuxer_1_1_0]
+[SDK+Mobiclip:MobiclipDec_1_0_2]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_1]
+[SDK+Mobiclip:Deblocker_1_0_4]
+
+The Croods - Prehistoric Party!(USA).3ds
+[SDK+NINTENDO:CTR_SDK-4_2_3_200_none]
+[SDK+NINTENDO:Firmware-02_35_00]
+
+The Hidden (USA).3ds
+[SDK+NINTENDO:CTR_SDK-1_3_0_200_none]
+[SDK+NINTENDO:Firmware-02_27]
+[SDK+Mobiclip:MoCam_1_0_0]
+[SDK+Mobiclip:FastAudioDec_1_0_0]
+[SDK+Mobiclip:Deblocker_1_0_3]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_0]
+[SDK+Mobiclip:MobiclipDec_1_0_1]
+[SDK+Mobiclip:MoflexDemuxer_1_0_2]
+
+The Legend of Zelda - A Link Between Worlds (USA).3ds
+[SDK+NINTENDO:CTR_SDK-5_2_1_200_none]
+[SDK+NINTENDO:Firmware-02_36_00]
+
+The Legend of Zelda Ocarina of Time 3D (USA).3ds
+[SDK+NINTENDO:CTR_SDK-1_2_0_200_none]
+[SDK+NINTENDO:Firmware-02_27]
+[SDK+Mobiclip:Deblocker_1_0_3]
+[SDK+Mobiclip:MobiclipDec_1_0_1]
+[SDK+Mobiclip:MoflexDemuxer_1_0_2]
+
+The LEGO Movie Videogame(USA).3ds
+[SDK+NINTENDO:CTR_SDK-5_2_3_200_none]
+[SDK+NINTENDO:Firmware-02_36_00]
+[SDK+Mobiclip:Deblocker_1_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_1]
+[SDK+Mobiclip:MobiclipDec_1_0_2]
+[SDK+Mobiclip:MoflexDemuxer_1_1_0]
+
+The Oregon Trail (USA).3ds
+[SDK+NINTENDO:CTR_SDK-2_3_4_200_none]
+[SDK+NINTENDO:Firmware-02_29_07]
+
+The Sims 3 (USA).3ds
+[SDK+NINTENDO:CTR_SDK-0_14_23_200_none]
+[SDK+NINTENDO:Firmware-02_27]
+[SDK+Panasonic:PFID_PFID_1_0_2]
+
+The Sims 3 Pets (USA).3ds
+[SDK+NINTENDO:CTR_SDK-2_3_4_200_none]
+[SDK+NINTENDO:Firmware-02_29_07]
+
+The Trash Pack (USA).3ds
+[SDK+NINTENDO:CTR_SDK-3_3_3_200_none]
+[SDK+NINTENDO:Firmware-02_32_15]
+
+Theatrhythm Final Fantasy (USA).3ds
+[SDK+NINTENDO:CTR_SDK-3_2_5_200_none]
+[SDK+NINTENDO:Firmware-02_32_14]
+[SDK+Mobiclip:Deblocker_1_0_4]
+[SDK+Mobiclip:MobiclipDec_1_0_2]
+[SDK+Mobiclip:MoflexDemuxer_1_1_0]
+[SDK+Nintendo:NEX_2_6_0_S32]
+[SDK+Nintendo:PIA_1_3_1]
+
+Theatrhythm Final Fantasy - Curtain Call (USA).3ds
+[SDK+NINTENDO:CTR_SDK-5_2_3_200_none]
+[SDK+NINTENDO:Firmware-02_36_00]
+[SDK+Mobiclip:FastAudioDec_1_5_3]
+[SDK+Mobiclip:Deblocker_1_5_3]
+[SDK+Mobiclip:ImaAdpcmDec_1_5_3]
+[SDK+Mobiclip:MobiclipDec_1_5_3]
+[SDK+Mobiclip:MoflexDemuxer_1_5_3]
+[SDK+Nintendo:NEX_MM_3_5_1]
+[SDK+Nintendo:NEX_3_5_1]
+[SDK+Nintendo:PIA_3_4_0]
+[SDK+NINTENDO:NW4C_3_2_0_GFX1]
+[SDK+NINTENDO:NW4C_3_2_0_lyt1]
+[SDK+NINTENDO:NW4C_3_2_0_snd]
+[SDK+NINTENDO:NW4C_3_2_0_fnt1]
+
+Thor God of Thunder (USA).3ds
+[SDK+NINTENDO:CTR_SDK-1_3_0_200_none]
+[SDK+NINTENDO:Firmware-02_27]
+
+Tom Clancys Ghost Recon - Shadow Wars (USA).3ds
+[SDK+NINTENDO:CTR_SDK-0_14_23_200_none]
+[SDK+NINTENDO:Firmware-02_27]
+[SDK+Mobiclip:FastAudioDec_1_0_0]
+[SDK+Mobiclip:Deblocker_1_0_2]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_0]
+[SDK+Mobiclip:MobiclipDec_1_0_1]
+[SDK+Mobiclip:MoflexDemuxer_1_0_2]
+
+Tom Clancys Splinter Cell 3D (USA).3ds
+[SDK+NINTENDO:CTR_SDK-0_14_23_200_none]
+[SDK+NINTENDO:Firmware-02_27]
+
+Tomodachi Life (USA).3ds
+[SDK+NINTENDO:CTR_SDK-7_1_1_200_none]
+[SDK+NINTENDO:Firmware-02_39_00]
+[SDK+NINTENDO:CameraActivate]
+[SDK+NINTENDO:CTRFaceLibrary-20131218]
+[SDK+Nuance:Vocalizer]
+[SDK+ISP:QRDec_1_3_5]
+[SDK+ISP:QREnc_1_3_5]
+[SDK+SiliconStudio:MPFace_1_3_5-PRV]
+[SDK+Nintendo:NARLib_1_6_0]
+[SDK+NINTENDO:Gyroscope]
+[SDK+Panasonic:MGR_1_0_20]
+[SDK+Panasonic:PFID_AGE_1_0_20]
+[SDK+Panasonic:PFID_BLINK_1_0_20]
+[SDK+Panasonic:PFID_GENDER_1_0_20]
+[SDK+Panasonic:PFID_PFID_1_0_20]
+[SDK+Panasonic:PFID_SMILE_1_0_20]
+
+Tomodachi Life v01 (USA).3ds
+[SDK+NINTENDO:CTR_SDK-7_1_1_200_none]
+[SDK+NINTENDO:Firmware-02_39_00]
+[SDK+NINTENDO:CameraActivate]
+[SDK+NINTENDO:CTRFaceLibrary-20131218]
+[SDK+Nuance:Vocalizer]
+[SDK+ISP:QRDec_1_3_5]
+[SDK+ISP:QREnc_1_3_5]
+[SDK+SiliconStudio:MPFace_1_3_5-PRV]
+[SDK+Nintendo:NARLib_1_6_0]
+[SDK+NINTENDO:Gyroscope]
+[SDK+Panasonic:MGR_1_0_20]
+[SDK+Panasonic:PFID_AGE_1_0_20]
+[SDK+Panasonic:PFID_BLINK_1_0_20]
+[SDK+Panasonic:PFID_GENDER_1_0_20]
+[SDK+Panasonic:PFID_PFID_1_0_20]
+[SDK+Panasonic:PFID_SMILE_1_0_20]
+
+Top Trumps NBA All Stars (USA).3ds
+[SDK+NINTENDO:CTR_SDK-2_4_2_200_none]
+[SDK+NINTENDO:Firmware-02_30_20]
+
+Transformers - Rise of the Dark Spark (USA).3ds
+[SDK+NINTENDO:CTR_SDK-5_2_3_200_none]
+[SDK+NINTENDO:Firmware-02_36_00]
+
+Transformers Dark of the Moon Stealth Force Edition (USA).3ds
+[SDK+NINTENDO:CTR_SDK-1_1_0_200_none]
+[SDK+NINTENDO:Firmware-02_27]
+
+Transformers Prime - The Game (USA).3ds
+[SDK+NINTENDO:CTR_SDK-3_3_1_200_none]
+[SDK+NINTENDO:Firmware-02_32_15]
+[SDK+Mobiclip:MobiclipDec_1_0_2]
+[SDK+Mobiclip:FastAudioDec_1_0_1]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_1]
+[SDK+Mobiclip:MoflexDemuxer_1_1_1]
+[SDK+Mobiclip:Deblocker_1_0_4]
+
+Travel Adventures with Hello Kitty(USA).3ds
+[SDK+NINTENDO:CTR_SDK-4_2_3_200_none]
+[SDK+NINTENDO:Firmware-02_35_00]
+[SDK+Nintendo:NARLib_1_4_2]
+
+Turbo - Super Stunt Squad (USA).3ds
+[SDK+NINTENDO:CTR_SDK-4_2_5_200_none]
+[SDK+NINTENDO:Firmware-02_35_00]
+
+Ultimate NES Remix (USA).3ds
+[SDK+NINTENDO:CTR_SDK-7_2_1_200_Trial]
+[SDK+NINTENDO:Firmware-02_40_01]
+[SDK+Nintendo:NEX_DS_3_7_1]
+[SDK+Nintendo:NEX_RK_3_7_1]
+[SDK+Nintendo:NEX_UT_3_7_1]
+[SDK+Nintendo:NEX_3_7_1]
+[SDK+NINTENDO:NW4C_3_4_1_lyt2]
+[SDK+NINTENDO:NW4C_3_4_1_snd]
+[SDK+NINTENDO:NW4C_3_4_1_fnt2]
+[SDK+OSS:zlib]
+
+WarioWare Gold (USA).3ds
+[SDK+NINTENDO:CTR_SDK-11_5_2_200_none]
+[SDK+NINTENDO:Firmware-02_52_00]
+[SDK+NINTENDO:Gyroscope]
+[SDK+NINTENDO:NFP]
+[SDK+NINTENDO:IsRunOnSnake]
+[SDK+Mobiclip:Deblocker_2_0_4]
+[SDK+Mobiclip:MobiclipDec_2_0_4]
+[SDK+Mobiclip:MoflexDemuxer_2_0_4]
+[SDK+NINTENDO:NW4C_3_7_6_eft]
+[SDK+NINTENDO:NW4C_3_7_6_fnt2]
+[SDK+NINTENDO:NW4C_3_7_6_lyt2]
+[SDK+NINTENDO:NW4C_3_7_6_snd]
+[SDK+NINTENDO:CTRFaceLibrary-20141210]
+[SDK+Nuance:Vocalizer]
+[SDK+PUX:HWR_2_0_1]
+
+
+Winx Club - Saving Alfea (USA).3ds
+[SDK+NINTENDO:CTR_SDK-7_1_1_200_none]
+[SDK+NINTENDO:Firmware-02_39_00]
+[SDK+NINTENDO:NW4C_3_3_1_GFX1]
+[SDK+NINTENDO:CameraActivate]
+[SDK+Mobiclip:FastAudioDec_1_5_3]
+[SDK+Mobiclip:Deblocker_1_5_3]
+[SDK+Mobiclip:ImaAdpcmDec_1_5_3]
+[SDK+Mobiclip:MobiclipDec_1_5_3]
+[SDK+Mobiclip:MoflexDemuxer_1_5_3]
+
+
+Wipeout - Create and Crash (USA).3ds
+[SDK+NINTENDO:CTR_SDK-4_2_5_200_none]
+[SDK+NINTENDO:Firmware-02_35_00]
+
+Wipeout 2 (USA).3ds
+[SDK+NINTENDO:CTR_SDK-2_3_4_200_none]
+[SDK+NINTENDO:Firmware-02_29_07]
+
+Wipeout 3 (USA).3ds
+[SDK+NINTENDO:CTR_SDK-3_3_2_200_none]
+[SDK+NINTENDO:Firmware-02_32_15]
+
+Wreck-It Ralph (USA).3ds
+[SDK+NINTENDO:CTR_SDK-3_3_3_200_none]
+[SDK+NINTENDO:Firmware-02_32_15]
+[SDK+Mobiclip:Deblocker_1_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_1]
+[SDK+Mobiclip:MobiclipDec_1_0_2]
+[SDK+Mobiclip:MoflexDemuxer_1_1_1]
+
+WWE All Stars (USA).3ds
+[SDK+NINTENDO:CTR_SDK-2_3_4_200_none]
+[SDK+NINTENDO:Firmware-02_29_07]
+
+Xenoblade (USA)(N3DS).3ds
+[SDK+NINTENDO:CTR_SDK-11_1_0_200_none]
+[SDK+NINTENDO:Firmware-02_48_04]
+[SDK+NINTENDO:IsRunOnSnake]
+[SDK+NINTENDO:ExtraPad]
+[SDK+NINTENDO:3DVolume]
+[SDK+Mobiclip:DspAdpcmDec_2_0_4]
+[SDK+Mobiclip:FastAudioDec_2_0_4]
+[SDK+Mobiclip:Deblocker_2_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_2_0_4]
+[SDK+Mobiclip:MobiclipDec_2_0_4]
+[SDK+Mobiclip:MoflexDemuxer_2_0_4]
+[SDK+NINTENDO:NFP]
+[SDK+NINTENDO:Ir]
+
+Yo-Kai Watch (USA).3ds
+[SDK+NINTENDO:CTR_SDK-4_2_5_200_none]
+[SDK+NINTENDO:Firmware-02_35_00]
+[SDK+NINTENDO:RO]
+[SDK+NINTENDO:3DVolume]
+[SDK+ISP:QRDec_1_2_5]
+[SDK+Mobiclip:Deblocker_1_4_2]
+[SDK+Mobiclip:MobiclipDec_1_4_2]
+[SDK+Mobiclip:MoflexDemuxer_1_4_2]
+[SDK+Mobiclip:FastAudioDec_1_4_2]
+[SDK+Mobiclip:ImaAdpcmDec_1_4_2]
+[SDK+Panasonic:PFID_PFID_1_0_13]
+[SDK+Panasonic:PFID_GENDER_1_0_13]
+
+Yo-Kai Watch 2 - Bony Spirits (USA)..3ds
+[SDK+NINTENDO:CTR_SDK-7_1_1_200_none]
+[SDK+NINTENDO:Firmware-02_39_00]
+[SDK+NINTENDO:CameraActivate]
+[SDK+NINTENDO:RO]
+[SDK+NINTENDO:SaveDataSecureValue]
+[SDK+NINTENDO:SaveDataSecureValueLoosely]
+[SDK+NINTENDO:SaveDataSecureValueEx]
+[SDK+NINTENDO:3DVolume]
+[SDK+NINTENDO:NW4C_3_3_1_snd]
+[SDK+ISP:QRDec_1_3_5]
+[SDK+Mobiclip:Deblocker_1_5_4]
+[SDK+Mobiclip:MobiclipDec_1_5_4]
+[SDK+Mobiclip:MoflexDemuxer_1_5_4]
+[SDK+Mobiclip:FastAudioDec_1_5_4]
+[SDK+Mobiclip:ImaAdpcmDec_1_5_4]
+[SDK+Nintendo:PIA_3_7_0]
+[SDK+Nintendo:NEX_3_6_1]
+[SDK+Nintendo:NEX_RK_3_6_1]
+[SDK+Nintendo:NEX_UT_3_6_1]
+[SDK+Panasonic:PFID_PFID_1_0_20]
+[SDK+Panasonic:PFID_GENDER_1_0_20]
+[SDK+Nintendo:NEX_MM_3_6_1]
+[SDK+OSS:zlib]
+
+Yo-Kai Watch 2 - Fleshy Souls (USA).3ds
+[SDK+NINTENDO:CTR_SDK-7_1_1_200_none]
+[SDK+NINTENDO:Firmware-02_39_00]
+[SDK+NINTENDO:CameraActivate]
+[SDK+NINTENDO:RO]
+[SDK+NINTENDO:SaveDataSecureValue]
+[SDK+NINTENDO:SaveDataSecureValueLoosely]
+[SDK+NINTENDO:SaveDataSecureValueEx]
+[SDK+NINTENDO:3DVolume]
+[SDK+NINTENDO:NW4C_3_3_1_snd]
+[SDK+ISP:QRDec_1_3_5]
+[SDK+Mobiclip:Deblocker_1_5_4]
+[SDK+Mobiclip:MobiclipDec_1_5_4]
+[SDK+Mobiclip:MoflexDemuxer_1_5_4]
+[SDK+Mobiclip:FastAudioDec_1_5_4]
+[SDK+Mobiclip:ImaAdpcmDec_1_5_4]
+[SDK+Nintendo:PIA_3_7_0]
+[SDK+Nintendo:NEX_3_6_1]
+[SDK+Nintendo:NEX_RK_3_6_1]
+[SDK+Nintendo:NEX_UT_3_6_1]
+[SDK+Panasonic:PFID_PFID_1_0_20]
+[SDK+Panasonic:PFID_GENDER_1_0_20]
+[SDK+Nintendo:NEX_MM_3_6_1]
+[SDK+OSS:zlib]
+
+Yo-Kai Watch 2 - Psychic Specters (USA).3ds
+[SDK+NINTENDO:CTR_SDK-7_1_1_200_none]
+[SDK+NINTENDO:Firmware-02_39_00]
+[SDK+NINTENDO:CameraActivate]
+[SDK+NINTENDO:RO]
+[SDK+NINTENDO:SaveDataSecureValue]
+[SDK+NINTENDO:SaveDataSecureValueLoosely]
+[SDK+NINTENDO:SaveDataSecureValueEx]
+[SDK+NINTENDO:3DVolume]
+[SDK+ISP:QRDec_1_3_5]
+[SDK+NINTENDO:NW4C_3_3_1_snd]
+[SDK+Mobiclip:Deblocker_1_5_4]
+[SDK+Mobiclip:MobiclipDec_1_5_4]
+[SDK+Mobiclip:MoflexDemuxer_1_5_4]
+[SDK+Mobiclip:FastAudioDec_1_5_4]
+[SDK+Mobiclip:ImaAdpcmDec_1_5_4]
+[SDK+Nintendo:PIA_3_7_0]
+[SDK+Nintendo:NEX_3_6_1]
+[SDK+Nintendo:NEX_RK_3_6_1]
+[SDK+Nintendo:NEX_UT_3_6_1]
+[SDK+Panasonic:PFID_PFID_1_0_20]
+[SDK+Panasonic:PFID_GENDER_1_0_20]
+[SDK+Nintendo:NEX_MM_3_6_1]
+[SDK+OSS:zlib]
+
+Yo-Kai Watch Blasters - Red Cat Corps (USA) (En,Fr,Sp).3ds
+[SDK+NINTENDO:CTR_SDK-11_4_1_200_none]
+[SDK+NINTENDO:Firmware-02_50_8]
+[SDK+NINTENDO:ExtraPad]
+[SDK+NINTENDO:IsRunOnSnake]
+[SDK+NINTENDO:RO]
+[SDK+NINTENDO:CameraActivate]
+[SDK+NINTENDO:CameraInitialize]
+[SDK+NINTENDO:SaveDataSecureValue]
+[SDK+NINTENDO:SaveDataSecureValueLoosely]
+[SDK+NINTENDO:SaveDataSecureValueEx]
+[SDK+NINTENDO:Ir]
+[SDK+NINTENDO:3DVolume]
+[SDK+ISP:QRDec_2_0_1]
+[SDK+NINTENDO:NW4C_3_6_1_snd]
+[SDK+Mobiclip:Deblocker_2_0_3]
+[SDK+Mobiclip:MobiclipDec_2_0_3]
+[SDK+Mobiclip:MoflexDemuxer_2_0_3]
+[SDK+Mobiclip:FastAudioDec_2_0_3]
+[SDK+Mobiclip:ImaAdpcmDec_2_0_3]
+[SDK+Nintendo:PIA_4_7_0]
+[SDK+Nintendo:PIA_COMMON_4_7_0]
+[SDK+Nintendo:NEX_3_9_1]
+[SDK+Nintendo:NEX_RK_3_9_1]
+[SDK+Nintendo:NEX_UT_3_9_1]
+[SDK+Nintendo:PIA_LOCAL_4_7_0]
+[SDK+Nintendo:PIA_INET_4_7_0]
+[SDK+Nintendo:PIA_TRANSPORT_4_7_0]
+[SDK+Nintendo:PIA_SESSION_4_7_0]
+[SDK+Nintendo:NEX_MM_3_9_1]
+[SDK+NINTENDO:IsRunningAsExtApplication]
+[SDK+OSS:zlib]
+
+Yo-Kai Watch Blasters - White Dog Squad (USA) (En,Fr,Sp).3ds
+[SDK+NINTENDO:CTR_SDK-11_4_1_200_none]
+[SDK+NINTENDO:Firmware-02_50_8]
+[SDK+NINTENDO:ExtraPad]
+[SDK+NINTENDO:IsRunOnSnake]
+[SDK+NINTENDO:RO]
+[SDK+NINTENDO:CameraActivate]
+[SDK+NINTENDO:CameraInitialize]
+[SDK+NINTENDO:SaveDataSecureValue]
+[SDK+NINTENDO:SaveDataSecureValueLoosely]
+[SDK+NINTENDO:SaveDataSecureValueEx]
+[SDK+NINTENDO:Ir]
+[SDK+NINTENDO:3DVolume]
+[SDK+ISP:QRDec_2_0_1]
+[SDK+NINTENDO:NW4C_3_6_1_snd]
+[SDK+Mobiclip:Deblocker_2_0_3]
+[SDK+Mobiclip:MobiclipDec_2_0_3]
+[SDK+Mobiclip:MoflexDemuxer_2_0_3]
+[SDK+Mobiclip:FastAudioDec_2_0_3]
+[SDK+Mobiclip:ImaAdpcmDec_2_0_3]
+[SDK+Nintendo:PIA_4_7_0]
+[SDK+Nintendo:PIA_COMMON_4_7_0]
+[SDK+Nintendo:NEX_3_9_1]
+[SDK+Nintendo:NEX_RK_3_9_1]
+[SDK+Nintendo:NEX_UT_3_9_1]
+[SDK+Nintendo:PIA_LOCAL_4_7_0]
+[SDK+Nintendo:PIA_INET_4_7_0]
+[SDK+Nintendo:PIA_TRANSPORT_4_7_0]
+[SDK+Nintendo:PIA_SESSION_4_7_0]
+[SDK+Nintendo:NEX_MM_3_9_1]
+[SDK+NINTENDO:IsRunningAsExtApplication]
+[SDK+OSS:zlib]
+
+Yoshis New Island (USA).3ds
+[SDK+NINTENDO:CTR_SDK-5_2_2_200_none]
+[SDK+NINTENDO:Firmware-02_36_00]
+[SDK+Nintendo:PIA_3_3_1]
+[SDK+NINTENDO:NW4C_3_2_1_lyt2]
+[SDK+NINTENDO:NW4C_3_2_1_eft]
+[SDK+NINTENDO:NW4C_3_2_1_snd]
+[SDK+NINTENDO:NW4C_3_2_1_GFX1]
+[SDK+NINTENDO:NW4C_3_2_1_fnt2]
+[SDK+OSS:zlib]
+
+Young Justice Legacy (USA).3ds
+[SDK+NINTENDO:CTR_SDK-4_2_5_200_none]
+[SDK+NINTENDO:Firmware-02_35_00]
+
+Zero Escape - Virtue's Last Reward (v02)(USA).3ds
+[SDK+NINTENDO:CTR_SDK-2_4_1_200_none]
+[SDK+NINTENDO:Firmware-02_30_20]
+[SDK+Mobiclip:MoflexDemuxer_1_0_3]
+[SDK+Mobiclip:MobiclipDec_1_0_2]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_1]
+[SDK+Mobiclip:FastAudioDec_1_0_1]
+[SDK+Mobiclip:Deblocker_1_0_4]
+
+Zero Escape - Virtues Last Reward (USA).3ds
+[SDK+NINTENDO:CTR_SDK-2_4_1_200_none]
+[SDK+NINTENDO:Firmware-02_30_20]
+[SDK+Mobiclip:MoflexDemuxer_1_0_3]
+[SDK+Mobiclip:MobiclipDec_1_0_2]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_1]
+[SDK+Mobiclip:FastAudioDec_1_0_1]
+[SDK+Mobiclip:Deblocker_1_0_4]
+
+Zero Escape - Zero Time Dilemma (USA).3ds
+[SDK+NINTENDO:CTR_SDK-11_3_1_200_none]
+[SDK+NINTENDO:Firmware-02_50_00]
+[SDK+NINTENDO:ExtraPad]
+[SDK+NINTENDO:NW4C_3_7_3_snd]
+[SDK+Mobiclip:MoflexDemuxer_1_1_1]
+[SDK+Mobiclip:DspAdpcmDec_1_0_0]
+[SDK+Mobiclip:FastAudioDec_1_0_1]
+[SDK+Mobiclip:Deblocker_1_0_4]
+[SDK+Mobiclip:ImaAdpcmDec_1_0_1]
+[SDK+Mobiclip:MobiclipDec_1_0_2]
+[SDK+NINTENDO:Ir]
+
+
+Zoo Resort 3D (USA).3ds
+[SDK+NINTENDO:CTR_SDK-1_0_0_200_none]
+[SDK+NINTENDO:Firmware-02_27]
+
+0 437
